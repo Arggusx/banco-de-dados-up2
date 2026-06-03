@@ -1,0 +1,1001 @@
+nome,descricao,nivel_acesso,salario_min,salario_max
+Piloto Comercial,Cargo de piloto comercial na operação aeroportuária.,10,11033.94,17223.5
+Piloto Executivo,Cargo de piloto executivo na operação aeroportuária.,1,11137.4,21252.17
+Copiloto,Cargo de copiloto na operação aeroportuária.,3,4801.18,13354.42
+Comissário de Bordo,Cargo de comissário de bordo na operação aeroportuária.,7,2388.68,12839.73
+Comissário Chefe,Cargo de comissário chefe na operação aeroportuária.,8,7361.52,26846.76
+Chefe de Cabine,Cargo de chefe de cabine na operação aeroportuária.,10,13666.31,27141.9
+Engenheiro de Voo,Cargo de engenheiro de voo na operação aeroportuária.,5,11228.72,25887.27
+Mecânico de Aeronaves,Cargo de mecânico de aeronaves na operação aeroportuária.,4,12425.23,13889.07
+Técnico de Manutenção,Cargo de técnico de manutenção na operação aeroportuária.,5,14521.46,19094.79
+Controlador de Tráfego Aéreo,Cargo de controlador de tráfego aéreo na operação aeroportuária.,8,12534.6,32455.51
+Despachante de Voo,Cargo de despachante de voo na operação aeroportuária.,1,13355.77,30228.23
+Gerente de Operações,Cargo de gerente de operações na operação aeroportuária.,7,9266.28,23622.27
+Supervisor de Pista,Cargo de supervisor de pista na operação aeroportuária.,4,11302.4,26410.39
+Agente de Check-in,Cargo de agente de check-in na operação aeroportuária.,5,6732.45,19095.38
+Agente de Embarque,Cargo de agente de embarque na operação aeroportuária.,8,12669.28,24016.5
+Agente de Segurança,Cargo de agente de segurança na operação aeroportuária.,6,10561.82,18615.99
+Inspetor de Segurança,Cargo de inspetor de segurança na operação aeroportuária.,9,9029.97,16123.48
+Coordenador de Logística,Cargo de coordenador de logística na operação aeroportuária.,6,7291.02,19315.04
+Analista de Operações,Cargo de analista de operações na operação aeroportuária.,6,8077.29,15678.6
+Diretor de Terminal,Cargo de diretor de terminal na operação aeroportuária.,5,3919.23,17699.73
+Gerente de Manutenção,Cargo de gerente de manutenção na operação aeroportuária.,8,10784.24,19532.93
+Supervisor de Handling,Cargo de supervisor de handling na operação aeroportuária.,7,3123.79,8934.6
+Técnico de Radar,Cargo de técnico de radar na operação aeroportuária.,3,6326.45,14141.16
+Operador de Equipamentos,Cargo de operador de equipamentos na operação aeroportuária.,8,7859.99,19105.01
+Motorista de Pista,Cargo de motorista de pista na operação aeroportuária.,3,13566.63,21092.25
+Gerente de Recursos Humanos,Cargo de gerente de recursos humanos na operação aeroportuária.,3,9784.3,21048.31
+Analista Financeiro,Cargo de analista financeiro na operação aeroportuária.,3,13064.27,24964.43
+Auditor Operacional,Cargo de auditor operacional na operação aeroportuária.,4,12720.91,21251.56
+Gerente de Qualidade,Cargo de gerente de qualidade na operação aeroportuária.,7,13449.4,33268.97
+Instrutor de Voo,Cargo de instrutor de voo na operação aeroportuária.,9,2545.72,5518.21
+Meteorologista Aeronáutico,Cargo de meteorologista aeronáutico na operação aeroportuária.,1,5311.32,16769.84
+Engenheiro Aeronáutico,Cargo de engenheiro aeronáutico na operação aeroportuária.,3,11616.25,25612.45
+Administrador de Sistemas,Cargo de administrador de sistemas na operação aeroportuária.,6,8359.34,15543.6
+Analista de TI,Cargo de analista de ti na operação aeroportuária.,6,9129.86,17634.11
+Gerente de TI,Cargo de gerente de ti na operação aeroportuária.,7,4847.93,12519.48
+Bombeiro Aeroportuário,Cargo de bombeiro aeroportuário na operação aeroportuária.,7,10941.41,30712.47
+Paramédico Aeroportuário,Cargo de paramédico aeroportuário na operação aeroportuária.,4,10326.1,19945.53
+Oficial de Segurança da Aviação,Cargo de oficial de segurança da aviação na operação aeroportuária.,4,11310.62,29281.11
+Fiscal de Alfândega,Cargo de fiscal de alfândega na operação aeroportuária.,9,12399.16,22808.02
+Gerente Comercial,Cargo de gerente comercial na operação aeroportuária.,2,11034.19,17858.75
+Piloto Comercial Júnior,Cargo de piloto comercial júnior na operação aeroportuária.,7,5937.15,10912.79
+Piloto Comercial Pleno,Cargo de piloto comercial pleno na operação aeroportuária.,2,14370.16,18999.28
+Piloto Comercial Sénior,Cargo de piloto comercial sénior na operação aeroportuária.,1,2404.27,5704.71
+Piloto Comercial Master,Cargo de piloto comercial master na operação aeroportuária.,3,12759.54,26688.69
+Piloto Comercial Especialista,Cargo de piloto comercial especialista na operação aeroportuária.,2,5294.64,24363.88
+Piloto Comercial Setor A,Cargo de piloto comercial setor a na operação aeroportuária.,7,14283.37,27853.49
+Piloto Comercial Setor B,Cargo de piloto comercial setor b na operação aeroportuária.,1,11071.64,17775.73
+Piloto Comercial Setor C,Cargo de piloto comercial setor c na operação aeroportuária.,7,6873.91,13645.86
+Piloto Comercial Setor D,Cargo de piloto comercial setor d na operação aeroportuária.,10,9665.98,19756.33
+Piloto Comercial Setor E,Cargo de piloto comercial setor e na operação aeroportuária.,10,9713.37,23616.6
+Piloto Comercial Nível 1,Cargo de piloto comercial nível 1 na operação aeroportuária.,1,8499.93,16178.37
+Piloto Comercial Nível 2,Cargo de piloto comercial nível 2 na operação aeroportuária.,5,11108.21,28470.53
+Piloto Comercial Nível 3,Cargo de piloto comercial nível 3 na operação aeroportuária.,7,11787.93,27413.89
+Piloto Comercial Nível 4,Cargo de piloto comercial nível 4 na operação aeroportuária.,7,10951.68,23736.08
+Piloto Comercial Nível 5,Cargo de piloto comercial nível 5 na operação aeroportuária.,6,14338.59,28350.71
+Piloto Comercial Nível 6,Cargo de piloto comercial nível 6 na operação aeroportuária.,1,6939.57,26232.17
+Piloto Comercial Nível 7,Cargo de piloto comercial nível 7 na operação aeroportuária.,2,8173.33,19504.29
+Piloto Comercial Nível 8,Cargo de piloto comercial nível 8 na operação aeroportuária.,2,5190.06,21972.03
+Piloto Comercial Nível 9,Cargo de piloto comercial nível 9 na operação aeroportuária.,2,7910.92,23142.91
+Piloto Comercial Nível 10,Cargo de piloto comercial nível 10 na operação aeroportuária.,4,9846.91,19763.22
+Piloto Comercial Nível 11,Cargo de piloto comercial nível 11 na operação aeroportuária.,6,6027.58,21793.69
+Piloto Comercial Nível 12,Cargo de piloto comercial nível 12 na operação aeroportuária.,8,4815.22,13616.75
+Piloto Comercial Nível 13,Cargo de piloto comercial nível 13 na operação aeroportuária.,1,10889.71,23164.86
+Piloto Comercial Nível 14,Cargo de piloto comercial nível 14 na operação aeroportuária.,1,14162.0,23606.17
+Piloto Comercial Nível 15,Cargo de piloto comercial nível 15 na operação aeroportuária.,9,4356.03,10576.11
+Piloto Comercial Nível 16,Cargo de piloto comercial nível 16 na operação aeroportuária.,10,7046.32,25620.95
+Piloto Comercial Nível 17,Cargo de piloto comercial nível 17 na operação aeroportuária.,1,5291.66,8527.36
+Piloto Comercial Nível 18,Cargo de piloto comercial nível 18 na operação aeroportuária.,9,8384.29,26527.26
+Piloto Comercial Nível 19,Cargo de piloto comercial nível 19 na operação aeroportuária.,5,13096.22,14852.73
+Piloto Comercial Nível 20,Cargo de piloto comercial nível 20 na operação aeroportuária.,10,6308.4,9392.22
+Piloto Comercial Nível 21,Cargo de piloto comercial nível 21 na operação aeroportuária.,3,14591.34,17050.93
+Piloto Comercial Nível 22,Cargo de piloto comercial nível 22 na operação aeroportuária.,8,8321.22,9429.38
+Piloto Comercial Nível 23,Cargo de piloto comercial nível 23 na operação aeroportuária.,3,12042.01,13875.63
+Piloto Comercial Nível 24,Cargo de piloto comercial nível 24 na operação aeroportuária.,3,4904.49,22350.24
+Piloto Comercial Nível 25,Cargo de piloto comercial nível 25 na operação aeroportuária.,10,12992.0,18337.92
+Piloto Comercial Nível 26,Cargo de piloto comercial nível 26 na operação aeroportuária.,8,12509.44,31522.22
+Piloto Comercial Nível 27,Cargo de piloto comercial nível 27 na operação aeroportuária.,2,3319.99,6964.89
+Piloto Comercial Nível 28,Cargo de piloto comercial nível 28 na operação aeroportuária.,10,9316.02,18639.87
+Piloto Comercial Nível 29,Cargo de piloto comercial nível 29 na operação aeroportuária.,6,12326.39,21495.89
+Piloto Comercial Nível 30,Cargo de piloto comercial nível 30 na operação aeroportuária.,9,13669.96,21667.44
+Piloto Comercial Nível 31,Cargo de piloto comercial nível 31 na operação aeroportuária.,9,3382.27,13381.77
+Piloto Comercial Nível 32,Cargo de piloto comercial nível 32 na operação aeroportuária.,5,7671.78,22010.69
+Piloto Comercial Nível 33,Cargo de piloto comercial nível 33 na operação aeroportuária.,2,2847.28,8840.02
+Piloto Comercial Nível 34,Cargo de piloto comercial nível 34 na operação aeroportuária.,6,8170.13,18805.29
+Piloto Comercial Nível 35,Cargo de piloto comercial nível 35 na operação aeroportuária.,4,13786.01,31421.14
+Piloto Comercial Nível 36,Cargo de piloto comercial nível 36 na operação aeroportuária.,2,2313.42,4954.59
+Piloto Comercial Nível 37,Cargo de piloto comercial nível 37 na operação aeroportuária.,3,10640.33,20116.27
+Piloto Comercial Nível 38,Cargo de piloto comercial nível 38 na operação aeroportuária.,9,6853.12,12850.25
+Piloto Comercial Nível 39,Cargo de piloto comercial nível 39 na operação aeroportuária.,2,14621.25,28090.24
+Piloto Comercial Nível 40,Cargo de piloto comercial nível 40 na operação aeroportuária.,10,7372.32,19005.99
+Piloto Comercial Nível 41,Cargo de piloto comercial nível 41 na operação aeroportuária.,4,4631.81,11338.33
+Piloto Executivo Júnior,Cargo de piloto executivo júnior na operação aeroportuária.,7,2145.52,4285.41
+Piloto Executivo Pleno,Cargo de piloto executivo pleno na operação aeroportuária.,1,3465.78,17118.09
+Piloto Executivo Sénior,Cargo de piloto executivo sénior na operação aeroportuária.,10,8896.75,15660.29
+Piloto Executivo Master,Cargo de piloto executivo master na operação aeroportuária.,3,6153.88,11783.73
+Piloto Executivo Especialista,Cargo de piloto executivo especialista na operação aeroportuária.,8,12415.93,17000.6
+Piloto Executivo Setor A,Cargo de piloto executivo setor a na operação aeroportuária.,8,8217.58,13285.91
+Piloto Executivo Setor B,Cargo de piloto executivo setor b na operação aeroportuária.,3,7042.15,20076.68
+Piloto Executivo Setor C,Cargo de piloto executivo setor c na operação aeroportuária.,9,13163.01,15510.46
+Piloto Executivo Setor D,Cargo de piloto executivo setor d na operação aeroportuária.,3,13151.99,16914.64
+Piloto Executivo Setor E,Cargo de piloto executivo setor e na operação aeroportuária.,2,8209.95,28017.42
+Piloto Executivo Nível 1,Cargo de piloto executivo nível 1 na operação aeroportuária.,2,9360.05,15054.34
+Piloto Executivo Nível 2,Cargo de piloto executivo nível 2 na operação aeroportuária.,7,12917.02,20789.75
+Piloto Executivo Nível 3,Cargo de piloto executivo nível 3 na operação aeroportuária.,4,12763.68,21485.12
+Piloto Executivo Nível 4,Cargo de piloto executivo nível 4 na operação aeroportuária.,7,2557.82,9647.08
+Piloto Executivo Nível 5,Cargo de piloto executivo nível 5 na operação aeroportuária.,7,2359.65,16121.11
+Piloto Executivo Nível 6,Cargo de piloto executivo nível 6 na operação aeroportuária.,6,7080.09,19602.38
+Piloto Executivo Nível 7,Cargo de piloto executivo nível 7 na operação aeroportuária.,4,11731.91,15151.11
+Piloto Executivo Nível 8,Cargo de piloto executivo nível 8 na operação aeroportuária.,10,14342.04,25023.44
+Piloto Executivo Nível 9,Cargo de piloto executivo nível 9 na operação aeroportuária.,7,10398.53,25751.7
+Piloto Executivo Nível 10,Cargo de piloto executivo nível 10 na operação aeroportuária.,3,5137.43,16041.34
+Piloto Executivo Nível 11,Cargo de piloto executivo nível 11 na operação aeroportuária.,8,12050.29,21272.38
+Piloto Executivo Nível 12,Cargo de piloto executivo nível 12 na operação aeroportuária.,1,7425.11,19097.16
+Piloto Executivo Nível 13,Cargo de piloto executivo nível 13 na operação aeroportuária.,3,12047.93,13806.95
+Piloto Executivo Nível 14,Cargo de piloto executivo nível 14 na operação aeroportuária.,5,7112.48,16938.11
+Piloto Executivo Nível 15,Cargo de piloto executivo nível 15 na operação aeroportuária.,6,5945.46,17115.99
+Piloto Executivo Nível 16,Cargo de piloto executivo nível 16 na operação aeroportuária.,6,13951.25,31203.45
+Piloto Executivo Nível 17,Cargo de piloto executivo nível 17 na operação aeroportuária.,8,8648.72,16984.5
+Piloto Executivo Nível 18,Cargo de piloto executivo nível 18 na operação aeroportuária.,10,11038.24,29583.87
+Piloto Executivo Nível 19,Cargo de piloto executivo nível 19 na operação aeroportuária.,10,9791.44,25721.95
+Piloto Executivo Nível 20,Cargo de piloto executivo nível 20 na operação aeroportuária.,3,8101.27,10830.04
+Piloto Executivo Nível 21,Cargo de piloto executivo nível 21 na operação aeroportuária.,8,14677.95,25799.99
+Piloto Executivo Nível 22,Cargo de piloto executivo nível 22 na operação aeroportuária.,10,10207.76,15988.03
+Piloto Executivo Nível 23,Cargo de piloto executivo nível 23 na operação aeroportuária.,5,14144.09,31764.37
+Piloto Executivo Nível 24,Cargo de piloto executivo nível 24 na operação aeroportuária.,10,8675.73,15623.71
+Piloto Executivo Nível 25,Cargo de piloto executivo nível 25 na operação aeroportuária.,6,13793.83,25548.11
+Piloto Executivo Nível 26,Cargo de piloto executivo nível 26 na operação aeroportuária.,6,14640.43,19285.51
+Piloto Executivo Nível 27,Cargo de piloto executivo nível 27 na operação aeroportuária.,6,8729.73,17548.98
+Piloto Executivo Nível 28,Cargo de piloto executivo nível 28 na operação aeroportuária.,5,9770.89,23494.9
+Piloto Executivo Nível 29,Cargo de piloto executivo nível 29 na operação aeroportuária.,4,11988.08,29908.54
+Piloto Executivo Nível 30,Cargo de piloto executivo nível 30 na operação aeroportuária.,3,12429.18,26507.49
+Piloto Executivo Nível 31,Cargo de piloto executivo nível 31 na operação aeroportuária.,4,10932.34,18800.59
+Piloto Executivo Nível 32,Cargo de piloto executivo nível 32 na operação aeroportuária.,9,9187.74,14072.57
+Piloto Executivo Nível 33,Cargo de piloto executivo nível 33 na operação aeroportuária.,8,9562.74,13857.64
+Piloto Executivo Nível 34,Cargo de piloto executivo nível 34 na operação aeroportuária.,5,10301.74,15210.68
+Piloto Executivo Nível 35,Cargo de piloto executivo nível 35 na operação aeroportuária.,6,4380.01,17682.08
+Piloto Executivo Nível 36,Cargo de piloto executivo nível 36 na operação aeroportuária.,8,6874.98,15315.95
+Piloto Executivo Nível 37,Cargo de piloto executivo nível 37 na operação aeroportuária.,5,14122.29,23844.8
+Piloto Executivo Nível 38,Cargo de piloto executivo nível 38 na operação aeroportuária.,6,3902.42,16416.11
+Piloto Executivo Nível 39,Cargo de piloto executivo nível 39 na operação aeroportuária.,5,3617.58,11772.26
+Piloto Executivo Nível 40,Cargo de piloto executivo nível 40 na operação aeroportuária.,9,14790.28,15852.35
+Piloto Executivo Nível 41,Cargo de piloto executivo nível 41 na operação aeroportuária.,4,12555.89,18397.3
+Copiloto Júnior,Cargo de copiloto júnior na operação aeroportuária.,8,7911.89,27738.11
+Copiloto Pleno,Cargo de copiloto pleno na operação aeroportuária.,10,12675.06,23386.31
+Copiloto Sénior,Cargo de copiloto sénior na operação aeroportuária.,7,4589.47,6558.34
+Copiloto Master,Cargo de copiloto master na operação aeroportuária.,7,10165.47,20467.1
+Copiloto Especialista,Cargo de copiloto especialista na operação aeroportuária.,2,8192.79,16543.6
+Copiloto Setor A,Cargo de copiloto setor a na operação aeroportuária.,2,3816.46,7151.88
+Copiloto Setor B,Cargo de copiloto setor b na operação aeroportuária.,1,2533.45,4868.77
+Copiloto Setor C,Cargo de copiloto setor c na operação aeroportuária.,2,9130.38,15230.25
+Copiloto Setor D,Cargo de copiloto setor d na operação aeroportuária.,2,14034.72,28082.48
+Copiloto Setor E,Cargo de copiloto setor e na operação aeroportuária.,4,2519.19,16064.83
+Copiloto Nível 1,Cargo de copiloto nível 1 na operação aeroportuária.,1,2128.13,9542.64
+Copiloto Nível 2,Cargo de copiloto nível 2 na operação aeroportuária.,10,11354.44,17754.01
+Copiloto Nível 3,Cargo de copiloto nível 3 na operação aeroportuária.,4,4996.35,17744.28
+Copiloto Nível 4,Cargo de copiloto nível 4 na operação aeroportuária.,10,11772.45,30401.63
+Copiloto Nível 5,Cargo de copiloto nível 5 na operação aeroportuária.,6,12929.98,16812.34
+Copiloto Nível 6,Cargo de copiloto nível 6 na operação aeroportuária.,9,9593.56,25078.23
+Copiloto Nível 7,Cargo de copiloto nível 7 na operação aeroportuária.,3,12474.23,29151.5
+Copiloto Nível 8,Cargo de copiloto nível 8 na operação aeroportuária.,4,9042.25,10373.62
+Copiloto Nível 9,Cargo de copiloto nível 9 na operação aeroportuária.,3,3185.31,18253.98
+Copiloto Nível 10,Cargo de copiloto nível 10 na operação aeroportuária.,5,12524.15,15890.85
+Copiloto Nível 11,Cargo de copiloto nível 11 na operação aeroportuária.,4,12989.97,18188.47
+Copiloto Nível 12,Cargo de copiloto nível 12 na operação aeroportuária.,8,9924.89,27870.71
+Copiloto Nível 13,Cargo de copiloto nível 13 na operação aeroportuária.,4,5633.12,6693.32
+Copiloto Nível 14,Cargo de copiloto nível 14 na operação aeroportuária.,5,7657.51,25014.52
+Copiloto Nível 15,Cargo de copiloto nível 15 na operação aeroportuária.,7,7800.15,13211.58
+Copiloto Nível 16,Cargo de copiloto nível 16 na operação aeroportuária.,2,7310.95,16749.48
+Copiloto Nível 17,Cargo de copiloto nível 17 na operação aeroportuária.,3,11609.14,19914.17
+Copiloto Nível 18,Cargo de copiloto nível 18 na operação aeroportuária.,10,11759.02,13196.53
+Copiloto Nível 19,Cargo de copiloto nível 19 na operação aeroportuária.,5,4666.67,18459.58
+Copiloto Nível 20,Cargo de copiloto nível 20 na operação aeroportuária.,7,12264.64,23219.41
+Copiloto Nível 21,Cargo de copiloto nível 21 na operação aeroportuária.,6,2269.31,12912.94
+Copiloto Nível 22,Cargo de copiloto nível 22 na operação aeroportuária.,7,12896.85,25421.37
+Copiloto Nível 23,Cargo de copiloto nível 23 na operação aeroportuária.,6,3878.7,6348.48
+Copiloto Nível 24,Cargo de copiloto nível 24 na operação aeroportuária.,7,4188.96,12865.08
+Copiloto Nível 25,Cargo de copiloto nível 25 na operação aeroportuária.,4,6084.75,14781.69
+Copiloto Nível 26,Cargo de copiloto nível 26 na operação aeroportuária.,4,11294.14,29364.74
+Copiloto Nível 27,Cargo de copiloto nível 27 na operação aeroportuária.,7,9805.66,19730.21
+Copiloto Nível 28,Cargo de copiloto nível 28 na operação aeroportuária.,1,10924.4,22627.27
+Copiloto Nível 29,Cargo de copiloto nível 29 na operação aeroportuária.,2,7879.2,24081.11
+Copiloto Nível 30,Cargo de copiloto nível 30 na operação aeroportuária.,7,9431.53,17262.42
+Copiloto Nível 31,Cargo de copiloto nível 31 na operação aeroportuária.,1,8382.45,23141.84
+Copiloto Nível 32,Cargo de copiloto nível 32 na operação aeroportuária.,7,3162.99,9006.58
+Copiloto Nível 33,Cargo de copiloto nível 33 na operação aeroportuária.,4,5498.58,23818.95
+Copiloto Nível 34,Cargo de copiloto nível 34 na operação aeroportuária.,5,8220.9,12423.19
+Copiloto Nível 35,Cargo de copiloto nível 35 na operação aeroportuária.,10,10385.12,22768.12
+Copiloto Nível 36,Cargo de copiloto nível 36 na operação aeroportuária.,4,12996.73,32600.8
+Copiloto Nível 37,Cargo de copiloto nível 37 na operação aeroportuária.,6,2623.72,7966.74
+Copiloto Nível 38,Cargo de copiloto nível 38 na operação aeroportuária.,3,3200.9,17411.84
+Copiloto Nível 39,Cargo de copiloto nível 39 na operação aeroportuária.,1,5255.08,16234.9
+Copiloto Nível 40,Cargo de copiloto nível 40 na operação aeroportuária.,5,7890.31,14460.21
+Copiloto Nível 41,Cargo de copiloto nível 41 na operação aeroportuária.,7,5620.67,24023.96
+Comissário de Bordo Júnior,Cargo de comissário de bordo júnior na operação aeroportuária.,4,7323.04,11488.99
+Comissário de Bordo Pleno,Cargo de comissário de bordo pleno na operação aeroportuária.,2,5013.6,7766.75
+Comissário de Bordo Sénior,Cargo de comissário de bordo sénior na operação aeroportuária.,1,9443.92,25322.83
+Comissário de Bordo Master,Cargo de comissário de bordo master na operação aeroportuária.,3,5747.16,15681.88
+Comissário de Bordo Especialista,Cargo de comissário de bordo especialista na operação aeroportuária.,7,13633.99,19122.65
+Comissário de Bordo Setor A,Cargo de comissário de bordo setor a na operação aeroportuária.,4,9834.25,12298.15
+Comissário de Bordo Setor B,Cargo de comissário de bordo setor b na operação aeroportuária.,2,5497.57,21377.3
+Comissário de Bordo Setor C,Cargo de comissário de bordo setor c na operação aeroportuária.,9,3613.78,13401.99
+Comissário de Bordo Setor D,Cargo de comissário de bordo setor d na operação aeroportuária.,6,11401.71,15303.36
+Comissário de Bordo Setor E,Cargo de comissário de bordo setor e na operação aeroportuária.,3,5193.41,6359.59
+Comissário de Bordo Nível 1,Cargo de comissário de bordo nível 1 na operação aeroportuária.,3,11962.55,22714.22
+Comissário de Bordo Nível 2,Cargo de comissário de bordo nível 2 na operação aeroportuária.,1,8511.87,26513.8
+Comissário de Bordo Nível 3,Cargo de comissário de bordo nível 3 na operação aeroportuária.,7,3754.34,5672.88
+Comissário de Bordo Nível 4,Cargo de comissário de bordo nível 4 na operação aeroportuária.,3,13004.98,18601.57
+Comissário de Bordo Nível 5,Cargo de comissário de bordo nível 5 na operação aeroportuária.,10,12845.64,24749.07
+Comissário de Bordo Nível 6,Cargo de comissário de bordo nível 6 na operação aeroportuária.,5,8011.27,17655.21
+Comissário de Bordo Nível 7,Cargo de comissário de bordo nível 7 na operação aeroportuária.,2,11274.59,15354.24
+Comissário de Bordo Nível 8,Cargo de comissário de bordo nível 8 na operação aeroportuária.,10,11808.68,14083.09
+Comissário de Bordo Nível 9,Cargo de comissário de bordo nível 9 na operação aeroportuária.,7,3766.76,10223.61
+Comissário de Bordo Nível 10,Cargo de comissário de bordo nível 10 na operação aeroportuária.,9,12384.89,26257.87
+Comissário de Bordo Nível 11,Cargo de comissário de bordo nível 11 na operação aeroportuária.,7,9154.1,23952.56
+Comissário de Bordo Nível 12,Cargo de comissário de bordo nível 12 na operação aeroportuária.,9,8066.06,21365.77
+Comissário de Bordo Nível 13,Cargo de comissário de bordo nível 13 na operação aeroportuária.,9,6601.16,19105.99
+Comissário de Bordo Nível 14,Cargo de comissário de bordo nível 14 na operação aeroportuária.,7,11771.21,22717.15
+Comissário de Bordo Nível 15,Cargo de comissário de bordo nível 15 na operação aeroportuária.,7,4169.64,21470.25
+Comissário de Bordo Nível 16,Cargo de comissário de bordo nível 16 na operação aeroportuária.,3,12462.9,17393.87
+Comissário de Bordo Nível 17,Cargo de comissário de bordo nível 17 na operação aeroportuária.,10,14931.29,31928.26
+Comissário de Bordo Nível 18,Cargo de comissário de bordo nível 18 na operação aeroportuária.,2,9857.14,18692.99
+Comissário de Bordo Nível 19,Cargo de comissário de bordo nível 19 na operação aeroportuária.,7,5893.73,7347.37
+Comissário de Bordo Nível 20,Cargo de comissário de bordo nível 20 na operação aeroportuária.,8,4583.14,5887.93
+Comissário de Bordo Nível 21,Cargo de comissário de bordo nível 21 na operação aeroportuária.,7,12075.94,27332.54
+Comissário de Bordo Nível 22,Cargo de comissário de bordo nível 22 na operação aeroportuária.,8,13247.56,29267.52
+Comissário de Bordo Nível 23,Cargo de comissário de bordo nível 23 na operação aeroportuária.,3,10437.93,17175.4
+Comissário de Bordo Nível 24,Cargo de comissário de bordo nível 24 na operação aeroportuária.,4,3850.1,21959.67
+Comissário de Bordo Nível 25,Cargo de comissário de bordo nível 25 na operação aeroportuária.,8,5287.96,13873.5
+Comissário de Bordo Nível 26,Cargo de comissário de bordo nível 26 na operação aeroportuária.,8,6830.37,11719.53
+Comissário de Bordo Nível 27,Cargo de comissário de bordo nível 27 na operação aeroportuária.,3,7405.4,9380.98
+Comissário de Bordo Nível 28,Cargo de comissário de bordo nível 28 na operação aeroportuária.,3,13661.51,32193.7
+Comissário de Bordo Nível 29,Cargo de comissário de bordo nível 29 na operação aeroportuária.,5,6862.46,14523.01
+Comissário de Bordo Nível 30,Cargo de comissário de bordo nível 30 na operação aeroportuária.,7,13531.6,31101.74
+Comissário de Bordo Nível 31,Cargo de comissário de bordo nível 31 na operação aeroportuária.,2,9777.07,17517.78
+Comissário de Bordo Nível 32,Cargo de comissário de bordo nível 32 na operação aeroportuária.,9,9170.89,10940.85
+Comissário de Bordo Nível 33,Cargo de comissário de bordo nível 33 na operação aeroportuária.,8,2880.82,10178.42
+Comissário de Bordo Nível 34,Cargo de comissário de bordo nível 34 na operação aeroportuária.,5,13985.81,18138.77
+Comissário de Bordo Nível 35,Cargo de comissário de bordo nível 35 na operação aeroportuária.,2,3897.21,18408.21
+Comissário de Bordo Nível 36,Cargo de comissário de bordo nível 36 na operação aeroportuária.,5,2778.53,13459.16
+Comissário de Bordo Nível 37,Cargo de comissário de bordo nível 37 na operação aeroportuária.,9,6826.46,16345.27
+Comissário de Bordo Nível 38,Cargo de comissário de bordo nível 38 na operação aeroportuária.,6,12380.65,22126.18
+Comissário de Bordo Nível 39,Cargo de comissário de bordo nível 39 na operação aeroportuária.,10,6245.08,14236.46
+Comissário de Bordo Nível 40,Cargo de comissário de bordo nível 40 na operação aeroportuária.,9,9613.08,27400.21
+Comissário de Bordo Nível 41,Cargo de comissário de bordo nível 41 na operação aeroportuária.,8,7634.31,18399.77
+Comissário Chefe Júnior,Cargo de comissário chefe júnior na operação aeroportuária.,9,11472.64,23233.3
+Comissário Chefe Pleno,Cargo de comissário chefe pleno na operação aeroportuária.,2,14982.38,18895.65
+Comissário Chefe Sénior,Cargo de comissário chefe sénior na operação aeroportuária.,7,6291.98,20863.13
+Comissário Chefe Master,Cargo de comissário chefe master na operação aeroportuária.,5,3871.37,19351.44
+Comissário Chefe Especialista,Cargo de comissário chefe especialista na operação aeroportuária.,4,3211.46,11505.36
+Comissário Chefe Setor A,Cargo de comissário chefe setor a na operação aeroportuária.,7,4863.09,6699.34
+Comissário Chefe Setor B,Cargo de comissário chefe setor b na operação aeroportuária.,1,14396.28,19091.66
+Comissário Chefe Setor C,Cargo de comissário chefe setor c na operação aeroportuária.,10,4517.64,20707.6
+Comissário Chefe Setor D,Cargo de comissário chefe setor d na operação aeroportuária.,3,7549.85,19345.4
+Comissário Chefe Setor E,Cargo de comissário chefe setor e na operação aeroportuária.,4,2007.37,4265.71
+Comissário Chefe Nível 1,Cargo de comissário chefe nível 1 na operação aeroportuária.,1,5451.6,15622.23
+Comissário Chefe Nível 2,Cargo de comissário chefe nível 2 na operação aeroportuária.,2,4848.23,23235.78
+Comissário Chefe Nível 3,Cargo de comissário chefe nível 3 na operação aeroportuária.,3,14022.68,24398.84
+Comissário Chefe Nível 4,Cargo de comissário chefe nível 4 na operação aeroportuária.,2,10702.42,27124.53
+Comissário Chefe Nível 5,Cargo de comissário chefe nível 5 na operação aeroportuária.,6,10018.38,29628.08
+Comissário Chefe Nível 6,Cargo de comissário chefe nível 6 na operação aeroportuária.,8,14423.69,20327.27
+Comissário Chefe Nível 7,Cargo de comissário chefe nível 7 na operação aeroportuária.,9,9123.03,27248.22
+Comissário Chefe Nível 8,Cargo de comissário chefe nível 8 na operação aeroportuária.,6,10209.82,17413.95
+Comissário Chefe Nível 9,Cargo de comissário chefe nível 9 na operação aeroportuária.,3,10680.77,27552.58
+Comissário Chefe Nível 10,Cargo de comissário chefe nível 10 na operação aeroportuária.,10,8760.63,15060.96
+Comissário Chefe Nível 11,Cargo de comissário chefe nível 11 na operação aeroportuária.,10,12117.85,17778.48
+Comissário Chefe Nível 12,Cargo de comissário chefe nível 12 na operação aeroportuária.,1,7640.35,13811.93
+Comissário Chefe Nível 13,Cargo de comissário chefe nível 13 na operação aeroportuária.,9,5907.4,25389.86
+Comissário Chefe Nível 14,Cargo de comissário chefe nível 14 na operação aeroportuária.,7,2666.73,14908.89
+Comissário Chefe Nível 15,Cargo de comissário chefe nível 15 na operação aeroportuária.,5,3384.46,7195.93
+Comissário Chefe Nível 16,Cargo de comissário chefe nível 16 na operação aeroportuária.,4,12978.35,18138.45
+Comissário Chefe Nível 17,Cargo de comissário chefe nível 17 na operação aeroportuária.,4,8036.52,11948.43
+Comissário Chefe Nível 18,Cargo de comissário chefe nível 18 na operação aeroportuária.,2,11065.96,21676.99
+Comissário Chefe Nível 19,Cargo de comissário chefe nível 19 na operação aeroportuária.,7,11652.81,20619.35
+Comissário Chefe Nível 20,Cargo de comissário chefe nível 20 na operação aeroportuária.,6,5888.1,11495.49
+Comissário Chefe Nível 21,Cargo de comissário chefe nível 21 na operação aeroportuária.,10,8255.26,26895.05
+Comissário Chefe Nível 22,Cargo de comissário chefe nível 22 na operação aeroportuária.,2,12074.56,30670.93
+Comissário Chefe Nível 23,Cargo de comissário chefe nível 23 na operação aeroportuária.,1,7663.1,24149.26
+Comissário Chefe Nível 24,Cargo de comissário chefe nível 24 na operação aeroportuária.,3,7384.9,26973.71
+Comissário Chefe Nível 25,Cargo de comissário chefe nível 25 na operação aeroportuária.,6,14188.72,17435.02
+Comissário Chefe Nível 26,Cargo de comissário chefe nível 26 na operação aeroportuária.,4,8324.76,28282.93
+Comissário Chefe Nível 27,Cargo de comissário chefe nível 27 na operação aeroportuária.,7,9649.5,18350.54
+Comissário Chefe Nível 28,Cargo de comissário chefe nível 28 na operação aeroportuária.,4,5724.08,18324.96
+Comissário Chefe Nível 29,Cargo de comissário chefe nível 29 na operação aeroportuária.,3,6369.45,18731.11
+Comissário Chefe Nível 30,Cargo de comissário chefe nível 30 na operação aeroportuária.,10,6899.02,9473.71
+Comissário Chefe Nível 31,Cargo de comissário chefe nível 31 na operação aeroportuária.,2,3070.03,18081.2
+Comissário Chefe Nível 32,Cargo de comissário chefe nível 32 na operação aeroportuária.,3,9024.82,19385.14
+Comissário Chefe Nível 33,Cargo de comissário chefe nível 33 na operação aeroportuária.,2,14146.87,30225.07
+Comissário Chefe Nível 34,Cargo de comissário chefe nível 34 na operação aeroportuária.,3,14893.88,15933.54
+Comissário Chefe Nível 35,Cargo de comissário chefe nível 35 na operação aeroportuária.,3,2424.9,8961.94
+Comissário Chefe Nível 36,Cargo de comissário chefe nível 36 na operação aeroportuária.,6,10823.62,29267.21
+Comissário Chefe Nível 37,Cargo de comissário chefe nível 37 na operação aeroportuária.,6,10658.76,13321.64
+Comissário Chefe Nível 38,Cargo de comissário chefe nível 38 na operação aeroportuária.,3,13607.44,20880.13
+Comissário Chefe Nível 39,Cargo de comissário chefe nível 39 na operação aeroportuária.,1,14952.1,17516.67
+Comissário Chefe Nível 40,Cargo de comissário chefe nível 40 na operação aeroportuária.,1,9986.72,26593.89
+Comissário Chefe Nível 41,Cargo de comissário chefe nível 41 na operação aeroportuária.,4,12264.05,30308.12
+Chefe de Cabine Júnior,Cargo de chefe de cabine júnior na operação aeroportuária.,8,3398.0,15672.03
+Chefe de Cabine Pleno,Cargo de chefe de cabine pleno na operação aeroportuária.,10,12879.05,15241.03
+Chefe de Cabine Sénior,Cargo de chefe de cabine sénior na operação aeroportuária.,10,5697.78,7931.69
+Chefe de Cabine Master,Cargo de chefe de cabine master na operação aeroportuária.,10,13081.14,17071.63
+Chefe de Cabine Especialista,Cargo de chefe de cabine especialista na operação aeroportuária.,9,3249.56,15772.75
+Chefe de Cabine Setor A,Cargo de chefe de cabine setor a na operação aeroportuária.,5,2416.44,19607.41
+Chefe de Cabine Setor B,Cargo de chefe de cabine setor b na operação aeroportuária.,3,11033.81,27428.96
+Chefe de Cabine Setor C,Cargo de chefe de cabine setor c na operação aeroportuária.,6,14372.16,21193.74
+Chefe de Cabine Setor D,Cargo de chefe de cabine setor d na operação aeroportuária.,7,7433.6,26113.04
+Chefe de Cabine Setor E,Cargo de chefe de cabine setor e na operação aeroportuária.,5,10661.32,15661.72
+Chefe de Cabine Nível 1,Cargo de chefe de cabine nível 1 na operação aeroportuária.,8,3933.37,7882.53
+Chefe de Cabine Nível 2,Cargo de chefe de cabine nível 2 na operação aeroportuária.,2,2763.73,20391.42
+Chefe de Cabine Nível 3,Cargo de chefe de cabine nível 3 na operação aeroportuária.,3,3399.77,12929.25
+Chefe de Cabine Nível 4,Cargo de chefe de cabine nível 4 na operação aeroportuária.,3,11396.01,17763.04
+Chefe de Cabine Nível 5,Cargo de chefe de cabine nível 5 na operação aeroportuária.,6,10940.44,22946.58
+Chefe de Cabine Nível 6,Cargo de chefe de cabine nível 6 na operação aeroportuária.,8,7659.35,10989.1
+Chefe de Cabine Nível 7,Cargo de chefe de cabine nível 7 na operação aeroportuária.,9,11481.95,18230.32
+Chefe de Cabine Nível 8,Cargo de chefe de cabine nível 8 na operação aeroportuária.,4,13642.67,27110.12
+Chefe de Cabine Nível 9,Cargo de chefe de cabine nível 9 na operação aeroportuária.,6,4034.9,8673.18
+Chefe de Cabine Nível 10,Cargo de chefe de cabine nível 10 na operação aeroportuária.,2,2635.86,19617.17
+Chefe de Cabine Nível 11,Cargo de chefe de cabine nível 11 na operação aeroportuária.,5,7064.27,23502.13
+Chefe de Cabine Nível 12,Cargo de chefe de cabine nível 12 na operação aeroportuária.,8,10558.28,19110.58
+Chefe de Cabine Nível 13,Cargo de chefe de cabine nível 13 na operação aeroportuária.,6,7844.96,24344.8
+Chefe de Cabine Nível 14,Cargo de chefe de cabine nível 14 na operação aeroportuária.,7,10559.26,29762.5
+Chefe de Cabine Nível 15,Cargo de chefe de cabine nível 15 na operação aeroportuária.,10,13285.74,17781.02
+Chefe de Cabine Nível 16,Cargo de chefe de cabine nível 16 na operação aeroportuária.,3,14405.76,23305.98
+Chefe de Cabine Nível 17,Cargo de chefe de cabine nível 17 na operação aeroportuária.,8,13381.77,20738.34
+Chefe de Cabine Nível 18,Cargo de chefe de cabine nível 18 na operação aeroportuária.,1,13494.85,19055.29
+Chefe de Cabine Nível 19,Cargo de chefe de cabine nível 19 na operação aeroportuária.,10,8439.65,14719.03
+Chefe de Cabine Nível 20,Cargo de chefe de cabine nível 20 na operação aeroportuária.,4,11370.2,20309.73
+Chefe de Cabine Nível 21,Cargo de chefe de cabine nível 21 na operação aeroportuária.,1,10209.99,24725.93
+Chefe de Cabine Nível 22,Cargo de chefe de cabine nível 22 na operação aeroportuária.,10,6849.31,7901.32
+Chefe de Cabine Nível 23,Cargo de chefe de cabine nível 23 na operação aeroportuária.,8,12030.38,31446.59
+Chefe de Cabine Nível 24,Cargo de chefe de cabine nível 24 na operação aeroportuária.,4,4743.8,12061.64
+Chefe de Cabine Nível 25,Cargo de chefe de cabine nível 25 na operação aeroportuária.,9,5554.8,13977.91
+Chefe de Cabine Nível 26,Cargo de chefe de cabine nível 26 na operação aeroportuária.,9,14917.2,27554.01
+Chefe de Cabine Nível 27,Cargo de chefe de cabine nível 27 na operação aeroportuária.,10,4556.59,20181.11
+Chefe de Cabine Nível 28,Cargo de chefe de cabine nível 28 na operação aeroportuária.,1,7914.38,22577.42
+Chefe de Cabine Nível 29,Cargo de chefe de cabine nível 29 na operação aeroportuária.,9,5772.51,25711.52
+Chefe de Cabine Nível 30,Cargo de chefe de cabine nível 30 na operação aeroportuária.,8,2578.68,9898.18
+Chefe de Cabine Nível 31,Cargo de chefe de cabine nível 31 na operação aeroportuária.,7,9661.16,28997.79
+Chefe de Cabine Nível 32,Cargo de chefe de cabine nível 32 na operação aeroportuária.,2,8168.73,25855.18
+Chefe de Cabine Nível 33,Cargo de chefe de cabine nível 33 na operação aeroportuária.,8,13883.37,26449.82
+Chefe de Cabine Nível 34,Cargo de chefe de cabine nível 34 na operação aeroportuária.,4,14000.16,30861.4
+Chefe de Cabine Nível 35,Cargo de chefe de cabine nível 35 na operação aeroportuária.,4,7840.53,14545.9
+Chefe de Cabine Nível 36,Cargo de chefe de cabine nível 36 na operação aeroportuária.,1,12617.57,26317.78
+Chefe de Cabine Nível 37,Cargo de chefe de cabine nível 37 na operação aeroportuária.,10,5303.84,11345.79
+Chefe de Cabine Nível 38,Cargo de chefe de cabine nível 38 na operação aeroportuária.,9,4979.87,10194.09
+Chefe de Cabine Nível 39,Cargo de chefe de cabine nível 39 na operação aeroportuária.,8,5106.74,6149.5
+Chefe de Cabine Nível 40,Cargo de chefe de cabine nível 40 na operação aeroportuária.,1,14462.29,30707.72
+Chefe de Cabine Nível 41,Cargo de chefe de cabine nível 41 na operação aeroportuária.,5,8958.35,27048.73
+Engenheiro de Voo Júnior,Cargo de engenheiro de voo júnior na operação aeroportuária.,7,2212.46,19714.83
+Engenheiro de Voo Pleno,Cargo de engenheiro de voo pleno na operação aeroportuária.,5,11995.71,25598.68
+Engenheiro de Voo Sénior,Cargo de engenheiro de voo sénior na operação aeroportuária.,8,14855.29,19910.17
+Engenheiro de Voo Master,Cargo de engenheiro de voo master na operação aeroportuária.,9,5738.24,8939.8
+Engenheiro de Voo Especialista,Cargo de engenheiro de voo especialista na operação aeroportuária.,4,14033.18,22424.68
+Engenheiro de Voo Setor A,Cargo de engenheiro de voo setor a na operação aeroportuária.,6,4304.08,17770.03
+Engenheiro de Voo Setor B,Cargo de engenheiro de voo setor b na operação aeroportuária.,1,10906.09,13419.95
+Engenheiro de Voo Setor C,Cargo de engenheiro de voo setor c na operação aeroportuária.,4,14305.52,15698.65
+Engenheiro de Voo Setor D,Cargo de engenheiro de voo setor d na operação aeroportuária.,3,14104.07,28993.38
+Engenheiro de Voo Setor E,Cargo de engenheiro de voo setor e na operação aeroportuária.,3,10546.94,24311.35
+Engenheiro de Voo Nível 1,Cargo de engenheiro de voo nível 1 na operação aeroportuária.,7,4104.2,13206.74
+Engenheiro de Voo Nível 2,Cargo de engenheiro de voo nível 2 na operação aeroportuária.,3,6698.59,22235.35
+Engenheiro de Voo Nível 3,Cargo de engenheiro de voo nível 3 na operação aeroportuária.,5,6023.4,17327.47
+Engenheiro de Voo Nível 4,Cargo de engenheiro de voo nível 4 na operação aeroportuária.,9,10307.29,12755.58
+Engenheiro de Voo Nível 5,Cargo de engenheiro de voo nível 5 na operação aeroportuária.,3,13351.88,30559.46
+Engenheiro de Voo Nível 6,Cargo de engenheiro de voo nível 6 na operação aeroportuária.,1,14396.61,16650.27
+Engenheiro de Voo Nível 7,Cargo de engenheiro de voo nível 7 na operação aeroportuária.,5,14546.87,17700.91
+Engenheiro de Voo Nível 8,Cargo de engenheiro de voo nível 8 na operação aeroportuária.,8,6387.89,16896.69
+Engenheiro de Voo Nível 9,Cargo de engenheiro de voo nível 9 na operação aeroportuária.,9,8048.86,11368.71
+Engenheiro de Voo Nível 10,Cargo de engenheiro de voo nível 10 na operação aeroportuária.,10,5617.91,8200.0
+Engenheiro de Voo Nível 11,Cargo de engenheiro de voo nível 11 na operação aeroportuária.,2,6592.12,14961.85
+Engenheiro de Voo Nível 12,Cargo de engenheiro de voo nível 12 na operação aeroportuária.,4,9088.96,14844.2
+Engenheiro de Voo Nível 13,Cargo de engenheiro de voo nível 13 na operação aeroportuária.,1,13841.96,26628.46
+Engenheiro de Voo Nível 14,Cargo de engenheiro de voo nível 14 na operação aeroportuária.,2,14897.6,18981.15
+Engenheiro de Voo Nível 15,Cargo de engenheiro de voo nível 15 na operação aeroportuária.,6,4084.42,20573.56
+Engenheiro de Voo Nível 16,Cargo de engenheiro de voo nível 16 na operação aeroportuária.,9,4524.22,24355.38
+Engenheiro de Voo Nível 17,Cargo de engenheiro de voo nível 17 na operação aeroportuária.,6,2387.26,19603.88
+Engenheiro de Voo Nível 18,Cargo de engenheiro de voo nível 18 na operação aeroportuária.,7,3346.4,14082.38
+Engenheiro de Voo Nível 19,Cargo de engenheiro de voo nível 19 na operação aeroportuária.,7,4760.68,9373.41
+Engenheiro de Voo Nível 20,Cargo de engenheiro de voo nível 20 na operação aeroportuária.,8,12055.02,27261.97
+Engenheiro de Voo Nível 21,Cargo de engenheiro de voo nível 21 na operação aeroportuária.,2,14689.78,29838.15
+Engenheiro de Voo Nível 22,Cargo de engenheiro de voo nível 22 na operação aeroportuária.,8,9246.95,18946.16
+Engenheiro de Voo Nível 23,Cargo de engenheiro de voo nível 23 na operação aeroportuária.,6,10352.86,15136.01
+Engenheiro de Voo Nível 24,Cargo de engenheiro de voo nível 24 na operação aeroportuária.,1,2472.93,7046.46
+Engenheiro de Voo Nível 25,Cargo de engenheiro de voo nível 25 na operação aeroportuária.,10,6620.48,26386.07
+Engenheiro de Voo Nível 26,Cargo de engenheiro de voo nível 26 na operação aeroportuária.,6,10433.32,19328.46
+Engenheiro de Voo Nível 27,Cargo de engenheiro de voo nível 27 na operação aeroportuária.,1,14604.59,31982.72
+Engenheiro de Voo Nível 28,Cargo de engenheiro de voo nível 28 na operação aeroportuária.,2,3743.04,6566.61
+Engenheiro de Voo Nível 29,Cargo de engenheiro de voo nível 29 na operação aeroportuária.,9,9298.36,12511.74
+Engenheiro de Voo Nível 30,Cargo de engenheiro de voo nível 30 na operação aeroportuária.,3,8154.59,19672.71
+Engenheiro de Voo Nível 31,Cargo de engenheiro de voo nível 31 na operação aeroportuária.,9,11436.75,18910.11
+Engenheiro de Voo Nível 32,Cargo de engenheiro de voo nível 32 na operação aeroportuária.,10,12540.78,28477.56
+Engenheiro de Voo Nível 33,Cargo de engenheiro de voo nível 33 na operação aeroportuária.,6,5198.49,16403.04
+Engenheiro de Voo Nível 34,Cargo de engenheiro de voo nível 34 na operação aeroportuária.,7,5814.87,23129.35
+Engenheiro de Voo Nível 35,Cargo de engenheiro de voo nível 35 na operação aeroportuária.,1,14207.63,27839.28
+Engenheiro de Voo Nível 36,Cargo de engenheiro de voo nível 36 na operação aeroportuária.,3,11046.79,27544.96
+Engenheiro de Voo Nível 37,Cargo de engenheiro de voo nível 37 na operação aeroportuária.,3,5648.69,22793.69
+Engenheiro de Voo Nível 38,Cargo de engenheiro de voo nível 38 na operação aeroportuária.,2,14676.68,22588.6
+Engenheiro de Voo Nível 39,Cargo de engenheiro de voo nível 39 na operação aeroportuária.,8,6009.01,12705.59
+Engenheiro de Voo Nível 40,Cargo de engenheiro de voo nível 40 na operação aeroportuária.,1,2339.92,8757.87
+Engenheiro de Voo Nível 41,Cargo de engenheiro de voo nível 41 na operação aeroportuária.,3,11253.4,28773.99
+Mecânico de Aeronaves Júnior,Cargo de mecânico de aeronaves júnior na operação aeroportuária.,9,9837.78,27017.61
+Mecânico de Aeronaves Pleno,Cargo de mecânico de aeronaves pleno na operação aeroportuária.,6,3473.86,22992.0
+Mecânico de Aeronaves Sénior,Cargo de mecânico de aeronaves sénior na operação aeroportuária.,6,6138.05,9488.86
+Mecânico de Aeronaves Master,Cargo de mecânico de aeronaves master na operação aeroportuária.,10,4760.04,20967.1
+Mecânico de Aeronaves Especialista,Cargo de mecânico de aeronaves especialista na operação aeroportuária.,4,2638.02,9556.3
+Mecânico de Aeronaves Setor A,Cargo de mecânico de aeronaves setor a na operação aeroportuária.,9,11812.93,30159.42
+Mecânico de Aeronaves Setor B,Cargo de mecânico de aeronaves setor b na operação aeroportuária.,2,12550.5,23980.29
+Mecânico de Aeronaves Setor C,Cargo de mecânico de aeronaves setor c na operação aeroportuária.,10,13313.91,24689.14
+Mecânico de Aeronaves Setor D,Cargo de mecânico de aeronaves setor d na operação aeroportuária.,9,10552.7,13460.98
+Mecânico de Aeronaves Setor E,Cargo de mecânico de aeronaves setor e na operação aeroportuária.,7,11779.93,13553.94
+Mecânico de Aeronaves Nível 1,Cargo de mecânico de aeronaves nível 1 na operação aeroportuária.,7,3208.58,10540.64
+Mecânico de Aeronaves Nível 2,Cargo de mecânico de aeronaves nível 2 na operação aeroportuária.,1,3779.59,6571.57
+Mecânico de Aeronaves Nível 3,Cargo de mecânico de aeronaves nível 3 na operação aeroportuária.,10,2052.12,19988.77
+Mecânico de Aeronaves Nível 4,Cargo de mecânico de aeronaves nível 4 na operação aeroportuária.,1,8099.9,15961.34
+Mecânico de Aeronaves Nível 5,Cargo de mecânico de aeronaves nível 5 na operação aeroportuária.,9,3389.58,7406.91
+Mecânico de Aeronaves Nível 6,Cargo de mecânico de aeronaves nível 6 na operação aeroportuária.,9,13635.32,19339.26
+Mecânico de Aeronaves Nível 7,Cargo de mecânico de aeronaves nível 7 na operação aeroportuária.,6,4188.94,17510.17
+Mecânico de Aeronaves Nível 8,Cargo de mecânico de aeronaves nível 8 na operação aeroportuária.,10,11109.07,14082.67
+Mecânico de Aeronaves Nível 9,Cargo de mecânico de aeronaves nível 9 na operação aeroportuária.,1,8114.1,22960.32
+Mecânico de Aeronaves Nível 10,Cargo de mecânico de aeronaves nível 10 na operação aeroportuária.,3,4201.8,23390.34
+Mecânico de Aeronaves Nível 11,Cargo de mecânico de aeronaves nível 11 na operação aeroportuária.,9,5101.62,13851.92
+Mecânico de Aeronaves Nível 12,Cargo de mecânico de aeronaves nível 12 na operação aeroportuária.,9,13375.95,25333.07
+Mecânico de Aeronaves Nível 13,Cargo de mecânico de aeronaves nível 13 na operação aeroportuária.,4,8404.49,13924.81
+Mecânico de Aeronaves Nível 14,Cargo de mecânico de aeronaves nível 14 na operação aeroportuária.,7,4743.1,18413.86
+Mecânico de Aeronaves Nível 15,Cargo de mecânico de aeronaves nível 15 na operação aeroportuária.,4,12725.33,19286.75
+Mecânico de Aeronaves Nível 16,Cargo de mecânico de aeronaves nível 16 na operação aeroportuária.,3,7258.77,19483.4
+Mecânico de Aeronaves Nível 17,Cargo de mecânico de aeronaves nível 17 na operação aeroportuária.,10,5739.62,11471.2
+Mecânico de Aeronaves Nível 18,Cargo de mecânico de aeronaves nível 18 na operação aeroportuária.,2,11189.76,17034.75
+Mecânico de Aeronaves Nível 19,Cargo de mecânico de aeronaves nível 19 na operação aeroportuária.,10,8469.8,28048.3
+Mecânico de Aeronaves Nível 20,Cargo de mecânico de aeronaves nível 20 na operação aeroportuária.,7,9679.59,24868.52
+Mecânico de Aeronaves Nível 21,Cargo de mecânico de aeronaves nível 21 na operação aeroportuária.,3,9496.01,25970.49
+Mecânico de Aeronaves Nível 22,Cargo de mecânico de aeronaves nível 22 na operação aeroportuária.,10,3559.7,17309.15
+Mecânico de Aeronaves Nível 23,Cargo de mecânico de aeronaves nível 23 na operação aeroportuária.,3,11243.89,16630.15
+Mecânico de Aeronaves Nível 24,Cargo de mecânico de aeronaves nível 24 na operação aeroportuária.,4,11683.44,26577.24
+Mecânico de Aeronaves Nível 25,Cargo de mecânico de aeronaves nível 25 na operação aeroportuária.,7,3728.51,8873.09
+Mecânico de Aeronaves Nível 26,Cargo de mecânico de aeronaves nível 26 na operação aeroportuária.,2,9469.47,22854.68
+Mecânico de Aeronaves Nível 27,Cargo de mecânico de aeronaves nível 27 na operação aeroportuária.,2,12789.62,14051.06
+Mecânico de Aeronaves Nível 28,Cargo de mecânico de aeronaves nível 28 na operação aeroportuária.,2,6437.64,15932.06
+Mecânico de Aeronaves Nível 29,Cargo de mecânico de aeronaves nível 29 na operação aeroportuária.,3,11416.08,27342.43
+Mecânico de Aeronaves Nível 30,Cargo de mecânico de aeronaves nível 30 na operação aeroportuária.,6,6226.45,15037.86
+Mecânico de Aeronaves Nível 31,Cargo de mecânico de aeronaves nível 31 na operação aeroportuária.,9,10844.09,20268.91
+Mecânico de Aeronaves Nível 32,Cargo de mecânico de aeronaves nível 32 na operação aeroportuária.,4,13150.83,16923.22
+Mecânico de Aeronaves Nível 33,Cargo de mecânico de aeronaves nível 33 na operação aeroportuária.,7,6591.32,24120.39
+Mecânico de Aeronaves Nível 34,Cargo de mecânico de aeronaves nível 34 na operação aeroportuária.,4,8368.87,27402.59
+Mecânico de Aeronaves Nível 35,Cargo de mecânico de aeronaves nível 35 na operação aeroportuária.,7,2636.13,3694.22
+Mecânico de Aeronaves Nível 36,Cargo de mecânico de aeronaves nível 36 na operação aeroportuária.,8,4061.87,19908.34
+Mecânico de Aeronaves Nível 37,Cargo de mecânico de aeronaves nível 37 na operação aeroportuária.,1,11728.22,22689.58
+Mecânico de Aeronaves Nível 38,Cargo de mecânico de aeronaves nível 38 na operação aeroportuária.,4,7374.26,25119.09
+Mecânico de Aeronaves Nível 39,Cargo de mecânico de aeronaves nível 39 na operação aeroportuária.,3,5684.8,10048.94
+Mecânico de Aeronaves Nível 40,Cargo de mecânico de aeronaves nível 40 na operação aeroportuária.,1,8152.04,23642.07
+Mecânico de Aeronaves Nível 41,Cargo de mecânico de aeronaves nível 41 na operação aeroportuária.,2,9624.3,17233.32
+Técnico de Manutenção Júnior,Cargo de técnico de manutenção júnior na operação aeroportuária.,4,7841.46,21921.65
+Técnico de Manutenção Pleno,Cargo de técnico de manutenção pleno na operação aeroportuária.,5,12913.08,32219.74
+Técnico de Manutenção Sénior,Cargo de técnico de manutenção sénior na operação aeroportuária.,5,4085.96,9276.71
+Técnico de Manutenção Master,Cargo de técnico de manutenção master na operação aeroportuária.,3,2222.9,7676.9
+Técnico de Manutenção Especialista,Cargo de técnico de manutenção especialista na operação aeroportuária.,8,6999.56,26742.93
+Técnico de Manutenção Setor A,Cargo de técnico de manutenção setor a na operação aeroportuária.,9,8626.07,27371.62
+Técnico de Manutenção Setor B,Cargo de técnico de manutenção setor b na operação aeroportuária.,2,5479.79,13525.64
+Técnico de Manutenção Setor C,Cargo de técnico de manutenção setor c na operação aeroportuária.,5,10968.8,17133.23
+Técnico de Manutenção Setor D,Cargo de técnico de manutenção setor d na operação aeroportuária.,9,12393.0,27574.66
+Técnico de Manutenção Setor E,Cargo de técnico de manutenção setor e na operação aeroportuária.,1,2818.58,22004.51
+Técnico de Manutenção Nível 1,Cargo de técnico de manutenção nível 1 na operação aeroportuária.,2,5135.94,11509.39
+Técnico de Manutenção Nível 2,Cargo de técnico de manutenção nível 2 na operação aeroportuária.,4,11850.58,25551.07
+Técnico de Manutenção Nível 3,Cargo de técnico de manutenção nível 3 na operação aeroportuária.,9,13126.05,25039.91
+Técnico de Manutenção Nível 4,Cargo de técnico de manutenção nível 4 na operação aeroportuária.,9,13983.76,26906.63
+Técnico de Manutenção Nível 5,Cargo de técnico de manutenção nível 5 na operação aeroportuária.,9,2043.82,21257.63
+Técnico de Manutenção Nível 6,Cargo de técnico de manutenção nível 6 na operação aeroportuária.,6,11990.41,27614.45
+Técnico de Manutenção Nível 7,Cargo de técnico de manutenção nível 7 na operação aeroportuária.,7,9383.36,10411.11
+Técnico de Manutenção Nível 8,Cargo de técnico de manutenção nível 8 na operação aeroportuária.,4,4435.83,19355.59
+Técnico de Manutenção Nível 9,Cargo de técnico de manutenção nível 9 na operação aeroportuária.,7,5265.18,21552.45
+Técnico de Manutenção Nível 10,Cargo de técnico de manutenção nível 10 na operação aeroportuária.,10,4593.07,13230.19
+Técnico de Manutenção Nível 11,Cargo de técnico de manutenção nível 11 na operação aeroportuária.,10,9347.8,17128.66
+Técnico de Manutenção Nível 12,Cargo de técnico de manutenção nível 12 na operação aeroportuária.,7,8134.11,12863.22
+Técnico de Manutenção Nível 13,Cargo de técnico de manutenção nível 13 na operação aeroportuária.,4,6221.3,23519.43
+Técnico de Manutenção Nível 14,Cargo de técnico de manutenção nível 14 na operação aeroportuária.,6,8127.99,13710.17
+Técnico de Manutenção Nível 15,Cargo de técnico de manutenção nível 15 na operação aeroportuária.,6,8410.96,17596.6
+Técnico de Manutenção Nível 16,Cargo de técnico de manutenção nível 16 na operação aeroportuária.,9,2213.61,4662.71
+Técnico de Manutenção Nível 17,Cargo de técnico de manutenção nível 17 na operação aeroportuária.,10,13647.03,19041.81
+Técnico de Manutenção Nível 18,Cargo de técnico de manutenção nível 18 na operação aeroportuária.,1,4664.47,13499.31
+Técnico de Manutenção Nível 19,Cargo de técnico de manutenção nível 19 na operação aeroportuária.,2,3334.0,23139.72
+Técnico de Manutenção Nível 20,Cargo de técnico de manutenção nível 20 na operação aeroportuária.,9,7736.66,11315.36
+Técnico de Manutenção Nível 21,Cargo de técnico de manutenção nível 21 na operação aeroportuária.,4,4840.12,7680.39
+Técnico de Manutenção Nível 22,Cargo de técnico de manutenção nível 22 na operação aeroportuária.,5,2152.07,14314.56
+Técnico de Manutenção Nível 23,Cargo de técnico de manutenção nível 23 na operação aeroportuária.,2,14887.1,28104.47
+Técnico de Manutenção Nível 24,Cargo de técnico de manutenção nível 24 na operação aeroportuária.,8,13610.34,16386.52
+Técnico de Manutenção Nível 25,Cargo de técnico de manutenção nível 25 na operação aeroportuária.,4,9953.06,12729.75
+Técnico de Manutenção Nível 26,Cargo de técnico de manutenção nível 26 na operação aeroportuária.,5,12284.29,23485.22
+Técnico de Manutenção Nível 27,Cargo de técnico de manutenção nível 27 na operação aeroportuária.,4,2574.22,16665.16
+Técnico de Manutenção Nível 28,Cargo de técnico de manutenção nível 28 na operação aeroportuária.,9,4171.49,19560.69
+Técnico de Manutenção Nível 29,Cargo de técnico de manutenção nível 29 na operação aeroportuária.,1,14040.97,24342.41
+Técnico de Manutenção Nível 30,Cargo de técnico de manutenção nível 30 na operação aeroportuária.,4,12344.39,30206.29
+Técnico de Manutenção Nível 31,Cargo de técnico de manutenção nível 31 na operação aeroportuária.,2,3153.23,15227.93
+Técnico de Manutenção Nível 32,Cargo de técnico de manutenção nível 32 na operação aeroportuária.,10,5609.71,14724.72
+Técnico de Manutenção Nível 33,Cargo de técnico de manutenção nível 33 na operação aeroportuária.,6,14150.51,29463.73
+Técnico de Manutenção Nível 34,Cargo de técnico de manutenção nível 34 na operação aeroportuária.,9,11047.21,12558.3
+Técnico de Manutenção Nível 35,Cargo de técnico de manutenção nível 35 na operação aeroportuária.,2,14749.16,26611.54
+Técnico de Manutenção Nível 36,Cargo de técnico de manutenção nível 36 na operação aeroportuária.,5,4503.08,21127.05
+Técnico de Manutenção Nível 37,Cargo de técnico de manutenção nível 37 na operação aeroportuária.,4,11587.18,26503.54
+Técnico de Manutenção Nível 38,Cargo de técnico de manutenção nível 38 na operação aeroportuária.,4,12754.61,17509.86
+Técnico de Manutenção Nível 39,Cargo de técnico de manutenção nível 39 na operação aeroportuária.,5,7991.12,21562.68
+Técnico de Manutenção Nível 40,Cargo de técnico de manutenção nível 40 na operação aeroportuária.,4,10042.4,11640.73
+Técnico de Manutenção Nível 41,Cargo de técnico de manutenção nível 41 na operação aeroportuária.,4,6766.35,22141.55
+Controlador de Tráfego Aéreo Júnior,Cargo de controlador de tráfego aéreo júnior na operação aeroportuária.,5,12851.7,22056.33
+Controlador de Tráfego Aéreo Pleno,Cargo de controlador de tráfego aéreo pleno na operação aeroportuária.,2,12837.06,16859.37
+Controlador de Tráfego Aéreo Sénior,Cargo de controlador de tráfego aéreo sénior na operação aeroportuária.,7,2099.1,10215.28
+Controlador de Tráfego Aéreo Master,Cargo de controlador de tráfego aéreo master na operação aeroportuária.,9,4276.24,21291.49
+Controlador de Tráfego Aéreo Especialista,Cargo de controlador de tráfego aéreo especialista na operação aeroportuária.,7,3410.82,18934.75
+Controlador de Tráfego Aéreo Setor A,Cargo de controlador de tráfego aéreo setor a na operação aeroportuária.,4,2951.77,11837.77
+Controlador de Tráfego Aéreo Setor B,Cargo de controlador de tráfego aéreo setor b na operação aeroportuária.,7,4980.34,21419.73
+Controlador de Tráfego Aéreo Setor C,Cargo de controlador de tráfego aéreo setor c na operação aeroportuária.,5,11278.06,25838.78
+Controlador de Tráfego Aéreo Setor D,Cargo de controlador de tráfego aéreo setor d na operação aeroportuária.,9,14349.57,33058.56
+Controlador de Tráfego Aéreo Setor E,Cargo de controlador de tráfego aéreo setor e na operação aeroportuária.,10,14797.3,32638.68
+Controlador de Tráfego Aéreo Nível 1,Cargo de controlador de tráfego aéreo nível 1 na operação aeroportuária.,3,12774.08,25065.2
+Controlador de Tráfego Aéreo Nível 2,Cargo de controlador de tráfego aéreo nível 2 na operação aeroportuária.,10,4802.64,14334.75
+Controlador de Tráfego Aéreo Nível 3,Cargo de controlador de tráfego aéreo nível 3 na operação aeroportuária.,3,9942.33,26041.94
+Controlador de Tráfego Aéreo Nível 4,Cargo de controlador de tráfego aéreo nível 4 na operação aeroportuária.,5,6104.49,18623.83
+Controlador de Tráfego Aéreo Nível 5,Cargo de controlador de tráfego aéreo nível 5 na operação aeroportuária.,1,4551.51,11166.66
+Controlador de Tráfego Aéreo Nível 6,Cargo de controlador de tráfego aéreo nível 6 na operação aeroportuária.,9,8043.29,10772.76
+Controlador de Tráfego Aéreo Nível 7,Cargo de controlador de tráfego aéreo nível 7 na operação aeroportuária.,10,3499.52,17695.35
+Controlador de Tráfego Aéreo Nível 8,Cargo de controlador de tráfego aéreo nível 8 na operação aeroportuária.,1,4986.59,19291.71
+Controlador de Tráfego Aéreo Nível 9,Cargo de controlador de tráfego aéreo nível 9 na operação aeroportuária.,2,9280.84,17778.37
+Controlador de Tráfego Aéreo Nível 10,Cargo de controlador de tráfego aéreo nível 10 na operação aeroportuária.,10,11261.84,27779.22
+Controlador de Tráfego Aéreo Nível 11,Cargo de controlador de tráfego aéreo nível 11 na operação aeroportuária.,1,8733.41,19974.89
+Controlador de Tráfego Aéreo Nível 12,Cargo de controlador de tráfego aéreo nível 12 na operação aeroportuária.,4,12386.26,17955.44
+Controlador de Tráfego Aéreo Nível 13,Cargo de controlador de tráfego aéreo nível 13 na operação aeroportuária.,1,8609.41,21140.54
+Controlador de Tráfego Aéreo Nível 14,Cargo de controlador de tráfego aéreo nível 14 na operação aeroportuária.,2,5139.43,16632.7
+Controlador de Tráfego Aéreo Nível 15,Cargo de controlador de tráfego aéreo nível 15 na operação aeroportuária.,6,8825.99,11603.18
+Controlador de Tráfego Aéreo Nível 16,Cargo de controlador de tráfego aéreo nível 16 na operação aeroportuária.,5,6316.99,9904.41
+Controlador de Tráfego Aéreo Nível 17,Cargo de controlador de tráfego aéreo nível 17 na operação aeroportuária.,3,2572.24,12891.9
+Controlador de Tráfego Aéreo Nível 18,Cargo de controlador de tráfego aéreo nível 18 na operação aeroportuária.,4,3816.26,19826.79
+Controlador de Tráfego Aéreo Nível 19,Cargo de controlador de tráfego aéreo nível 19 na operação aeroportuária.,2,8733.42,21605.38
+Controlador de Tráfego Aéreo Nível 20,Cargo de controlador de tráfego aéreo nível 20 na operação aeroportuária.,2,7487.59,20530.83
+Controlador de Tráfego Aéreo Nível 21,Cargo de controlador de tráfego aéreo nível 21 na operação aeroportuária.,2,11590.63,18705.64
+Controlador de Tráfego Aéreo Nível 22,Cargo de controlador de tráfego aéreo nível 22 na operação aeroportuária.,3,10857.41,30719.7
+Controlador de Tráfego Aéreo Nível 23,Cargo de controlador de tráfego aéreo nível 23 na operação aeroportuária.,6,2389.48,17933.59
+Controlador de Tráfego Aéreo Nível 24,Cargo de controlador de tráfego aéreo nível 24 na operação aeroportuária.,1,12078.96,26205.75
+Controlador de Tráfego Aéreo Nível 25,Cargo de controlador de tráfego aéreo nível 25 na operação aeroportuária.,1,3087.24,7220.79
+Controlador de Tráfego Aéreo Nível 26,Cargo de controlador de tráfego aéreo nível 26 na operação aeroportuária.,10,3053.82,17124.99
+Controlador de Tráfego Aéreo Nível 27,Cargo de controlador de tráfego aéreo nível 27 na operação aeroportuária.,8,14390.15,17257.1
+Controlador de Tráfego Aéreo Nível 28,Cargo de controlador de tráfego aéreo nível 28 na operação aeroportuária.,9,10418.12,12505.82
+Controlador de Tráfego Aéreo Nível 29,Cargo de controlador de tráfego aéreo nível 29 na operação aeroportuária.,10,2335.94,6181.67
+Controlador de Tráfego Aéreo Nível 30,Cargo de controlador de tráfego aéreo nível 30 na operação aeroportuária.,6,6066.97,19838.36
+Controlador de Tráfego Aéreo Nível 31,Cargo de controlador de tráfego aéreo nível 31 na operação aeroportuária.,9,10392.89,25690.95
+Controlador de Tráfego Aéreo Nível 32,Cargo de controlador de tráfego aéreo nível 32 na operação aeroportuária.,5,4070.57,15440.3
+Controlador de Tráfego Aéreo Nível 33,Cargo de controlador de tráfego aéreo nível 33 na operação aeroportuária.,3,9804.53,21755.85
+Controlador de Tráfego Aéreo Nível 34,Cargo de controlador de tráfego aéreo nível 34 na operação aeroportuária.,8,5733.39,16655.61
+Controlador de Tráfego Aéreo Nível 35,Cargo de controlador de tráfego aéreo nível 35 na operação aeroportuária.,2,3957.5,20620.28
+Controlador de Tráfego Aéreo Nível 36,Cargo de controlador de tráfego aéreo nível 36 na operação aeroportuária.,5,8518.4,24496.29
+Controlador de Tráfego Aéreo Nível 37,Cargo de controlador de tráfego aéreo nível 37 na operação aeroportuária.,6,6932.79,8700.07
+Controlador de Tráfego Aéreo Nível 38,Cargo de controlador de tráfego aéreo nível 38 na operação aeroportuária.,7,8075.07,9913.85
+Controlador de Tráfego Aéreo Nível 39,Cargo de controlador de tráfego aéreo nível 39 na operação aeroportuária.,1,2036.34,8000.76
+Controlador de Tráfego Aéreo Nível 40,Cargo de controlador de tráfego aéreo nível 40 na operação aeroportuária.,4,6912.64,20009.33
+Controlador de Tráfego Aéreo Nível 41,Cargo de controlador de tráfego aéreo nível 41 na operação aeroportuária.,2,6699.07,17500.99
+Despachante de Voo Júnior,Cargo de despachante de voo júnior na operação aeroportuária.,9,3949.46,12126.16
+Despachante de Voo Pleno,Cargo de despachante de voo pleno na operação aeroportuária.,2,5065.42,8901.61
+Despachante de Voo Sénior,Cargo de despachante de voo sénior na operação aeroportuária.,5,8651.87,28474.55
+Despachante de Voo Master,Cargo de despachante de voo master na operação aeroportuária.,6,10597.21,18555.21
+Despachante de Voo Especialista,Cargo de despachante de voo especialista na operação aeroportuária.,3,12206.82,20338.01
+Despachante de Voo Setor A,Cargo de despachante de voo setor a na operação aeroportuária.,1,9183.06,10931.2
+Despachante de Voo Setor B,Cargo de despachante de voo setor b na operação aeroportuária.,8,2689.48,7639.89
+Despachante de Voo Setor C,Cargo de despachante de voo setor c na operação aeroportuária.,7,9827.33,22497.3
+Despachante de Voo Setor D,Cargo de despachante de voo setor d na operação aeroportuária.,8,10035.18,25979.12
+Despachante de Voo Setor E,Cargo de despachante de voo setor e na operação aeroportuária.,1,12040.76,27834.42
+Despachante de Voo Nível 1,Cargo de despachante de voo nível 1 na operação aeroportuária.,9,4401.96,6627.74
+Despachante de Voo Nível 2,Cargo de despachante de voo nível 2 na operação aeroportuária.,5,12425.92,31060.55
+Despachante de Voo Nível 3,Cargo de despachante de voo nível 3 na operação aeroportuária.,7,5286.6,16329.54
+Despachante de Voo Nível 4,Cargo de despachante de voo nível 4 na operação aeroportuária.,9,13898.05,28929.67
+Despachante de Voo Nível 5,Cargo de despachante de voo nível 5 na operação aeroportuária.,5,10132.52,16047.09
+Despachante de Voo Nível 6,Cargo de despachante de voo nível 6 na operação aeroportuária.,3,9117.21,19116.4
+Despachante de Voo Nível 7,Cargo de despachante de voo nível 7 na operação aeroportuária.,4,8703.62,16887.29
+Despachante de Voo Nível 8,Cargo de despachante de voo nível 8 na operação aeroportuária.,4,8868.18,11087.33
+Despachante de Voo Nível 9,Cargo de despachante de voo nível 9 na operação aeroportuária.,5,5148.95,18935.95
+Despachante de Voo Nível 10,Cargo de despachante de voo nível 10 na operação aeroportuária.,3,11056.38,23818.8
+Despachante de Voo Nível 11,Cargo de despachante de voo nível 11 na operação aeroportuária.,5,11437.86,22350.61
+Despachante de Voo Nível 12,Cargo de despachante de voo nível 12 na operação aeroportuária.,5,7299.34,11312.6
+Despachante de Voo Nível 13,Cargo de despachante de voo nível 13 na operação aeroportuária.,4,13432.8,28805.91
+Despachante de Voo Nível 14,Cargo de despachante de voo nível 14 na operação aeroportuária.,3,6787.33,21566.67
+Despachante de Voo Nível 15,Cargo de despachante de voo nível 15 na operação aeroportuária.,9,7601.56,10579.32
+Despachante de Voo Nível 16,Cargo de despachante de voo nível 16 na operação aeroportuária.,5,3068.19,20663.63
+Despachante de Voo Nível 17,Cargo de despachante de voo nível 17 na operação aeroportuária.,7,5791.13,25453.09
+Despachante de Voo Nível 18,Cargo de despachante de voo nível 18 na operação aeroportuária.,7,4036.74,23013.43
+Despachante de Voo Nível 19,Cargo de despachante de voo nível 19 na operação aeroportuária.,6,11849.55,29308.75
+Despachante de Voo Nível 20,Cargo de despachante de voo nível 20 na operação aeroportuária.,1,4425.66,20410.18
+Despachante de Voo Nível 21,Cargo de despachante de voo nível 21 na operação aeroportuária.,6,6419.1,20399.58
+Despachante de Voo Nível 22,Cargo de despachante de voo nível 22 na operação aeroportuária.,5,4491.74,21935.63
+Despachante de Voo Nível 23,Cargo de despachante de voo nível 23 na operação aeroportuária.,1,10692.64,20619.45
+Despachante de Voo Nível 24,Cargo de despachante de voo nível 24 na operação aeroportuária.,5,7345.49,13661.46
+Despachante de Voo Nível 25,Cargo de despachante de voo nível 25 na operação aeroportuária.,5,8668.74,27908.2
+Despachante de Voo Nível 26,Cargo de despachante de voo nível 26 na operação aeroportuária.,9,8567.81,27010.79
+Despachante de Voo Nível 27,Cargo de despachante de voo nível 27 na operação aeroportuária.,4,11500.14,19499.2
+Despachante de Voo Nível 28,Cargo de despachante de voo nível 28 na operação aeroportuária.,9,11066.28,21922.47
+Despachante de Voo Nível 29,Cargo de despachante de voo nível 29 na operação aeroportuária.,5,6310.17,25787.22
+Despachante de Voo Nível 30,Cargo de despachante de voo nível 30 na operação aeroportuária.,8,9931.24,24177.86
+Despachante de Voo Nível 31,Cargo de despachante de voo nível 31 na operação aeroportuária.,6,2488.03,16537.75
+Despachante de Voo Nível 32,Cargo de despachante de voo nível 32 na operação aeroportuária.,1,14910.64,21446.79
+Despachante de Voo Nível 33,Cargo de despachante de voo nível 33 na operação aeroportuária.,4,13914.32,18884.13
+Despachante de Voo Nível 34,Cargo de despachante de voo nível 34 na operação aeroportuária.,6,4526.28,15524.32
+Despachante de Voo Nível 35,Cargo de despachante de voo nível 35 na operação aeroportuária.,10,6095.96,20564.64
+Despachante de Voo Nível 36,Cargo de despachante de voo nível 36 na operação aeroportuária.,7,11469.86,27797.25
+Despachante de Voo Nível 37,Cargo de despachante de voo nível 37 na operação aeroportuária.,2,3170.75,17685.56
+Despachante de Voo Nível 38,Cargo de despachante de voo nível 38 na operação aeroportuária.,8,8840.75,23544.53
+Despachante de Voo Nível 39,Cargo de despachante de voo nível 39 na operação aeroportuária.,2,9076.91,21599.58
+Despachante de Voo Nível 40,Cargo de despachante de voo nível 40 na operação aeroportuária.,4,5134.25,7871.21
+Despachante de Voo Nível 41,Cargo de despachante de voo nível 41 na operação aeroportuária.,4,8403.55,11962.98
+Gerente de Operações Júnior,Cargo de gerente de operações júnior na operação aeroportuária.,6,14992.77,16737.78
+Gerente de Operações Pleno,Cargo de gerente de operações pleno na operação aeroportuária.,7,13112.58,27856.44
+Gerente de Operações Sénior,Cargo de gerente de operações sénior na operação aeroportuária.,2,13935.7,26561.33
+Gerente de Operações Master,Cargo de gerente de operações master na operação aeroportuária.,9,8456.66,27728.98
+Gerente de Operações Especialista,Cargo de gerente de operações especialista na operação aeroportuária.,7,3239.0,22493.06
+Gerente de Operações Setor A,Cargo de gerente de operações setor a na operação aeroportuária.,7,12125.87,26811.31
+Gerente de Operações Setor B,Cargo de gerente de operações setor b na operação aeroportuária.,9,13593.71,14796.48
+Gerente de Operações Setor C,Cargo de gerente de operações setor c na operação aeroportuária.,3,4713.15,6217.97
+Gerente de Operações Setor D,Cargo de gerente de operações setor d na operação aeroportuária.,1,9619.17,16976.35
+Gerente de Operações Setor E,Cargo de gerente de operações setor e na operação aeroportuária.,7,3456.19,6886.42
+Gerente de Operações Nível 1,Cargo de gerente de operações nível 1 na operação aeroportuária.,10,8810.31,10059.59
+Gerente de Operações Nível 2,Cargo de gerente de operações nível 2 na operação aeroportuária.,7,6340.08,19439.92
+Gerente de Operações Nível 3,Cargo de gerente de operações nível 3 na operação aeroportuária.,8,5430.53,11819.86
+Gerente de Operações Nível 4,Cargo de gerente de operações nível 4 na operação aeroportuária.,10,3556.11,18326.89
+Gerente de Operações Nível 5,Cargo de gerente de operações nível 5 na operação aeroportuária.,7,13916.74,31680.08
+Gerente de Operações Nível 6,Cargo de gerente de operações nível 6 na operação aeroportuária.,4,7092.9,19678.01
+Gerente de Operações Nível 7,Cargo de gerente de operações nível 7 na operação aeroportuária.,6,3741.04,5842.0
+Gerente de Operações Nível 8,Cargo de gerente de operações nível 8 na operação aeroportuária.,5,9847.99,26209.75
+Gerente de Operações Nível 9,Cargo de gerente de operações nível 9 na operação aeroportuária.,9,10310.75,22236.29
+Gerente de Operações Nível 10,Cargo de gerente de operações nível 10 na operação aeroportuária.,2,9009.98,14301.02
+Gerente de Operações Nível 11,Cargo de gerente de operações nível 11 na operação aeroportuária.,7,8888.55,16404.61
+Gerente de Operações Nível 12,Cargo de gerente de operações nível 12 na operação aeroportuária.,1,9625.24,24999.14
+Gerente de Operações Nível 13,Cargo de gerente de operações nível 13 na operação aeroportuária.,7,4531.18,21015.16
+Gerente de Operações Nível 14,Cargo de gerente de operações nível 14 na operação aeroportuária.,3,14240.8,26765.6
+Gerente de Operações Nível 15,Cargo de gerente de operações nível 15 na operação aeroportuária.,9,3922.47,9485.18
+Gerente de Operações Nível 16,Cargo de gerente de operações nível 16 na operação aeroportuária.,5,6357.49,15304.6
+Gerente de Operações Nível 17,Cargo de gerente de operações nível 17 na operação aeroportuária.,2,5316.92,7010.09
+Gerente de Operações Nível 18,Cargo de gerente de operações nível 18 na operação aeroportuária.,5,3690.68,14876.68
+Gerente de Operações Nível 19,Cargo de gerente de operações nível 19 na operação aeroportuária.,1,12784.58,25763.66
+Gerente de Operações Nível 20,Cargo de gerente de operações nível 20 na operação aeroportuária.,6,5089.43,23865.68
+Gerente de Operações Nível 21,Cargo de gerente de operações nível 21 na operação aeroportuária.,7,7659.83,23683.74
+Gerente de Operações Nível 22,Cargo de gerente de operações nível 22 na operação aeroportuária.,1,8751.41,11575.13
+Gerente de Operações Nível 23,Cargo de gerente de operações nível 23 na operação aeroportuária.,3,7544.71,24628.91
+Gerente de Operações Nível 24,Cargo de gerente de operações nível 24 na operação aeroportuária.,1,14270.02,31891.77
+Gerente de Operações Nível 25,Cargo de gerente de operações nível 25 na operação aeroportuária.,1,8763.34,13623.8
+Gerente de Operações Nível 26,Cargo de gerente de operações nível 26 na operação aeroportuária.,7,7171.79,19712.91
+Gerente de Operações Nível 27,Cargo de gerente de operações nível 27 na operação aeroportuária.,1,7021.69,21034.94
+Gerente de Operações Nível 28,Cargo de gerente de operações nível 28 na operação aeroportuária.,2,6164.92,21322.98
+Gerente de Operações Nível 29,Cargo de gerente de operações nível 29 na operação aeroportuária.,2,14386.23,29970.53
+Gerente de Operações Nível 30,Cargo de gerente de operações nível 30 na operação aeroportuária.,5,13667.42,21427.53
+Gerente de Operações Nível 31,Cargo de gerente de operações nível 31 na operação aeroportuária.,7,8617.99,13102.66
+Gerente de Operações Nível 32,Cargo de gerente de operações nível 32 na operação aeroportuária.,10,3414.06,16315.25
+Gerente de Operações Nível 33,Cargo de gerente de operações nível 33 na operação aeroportuária.,8,7518.16,19184.21
+Gerente de Operações Nível 34,Cargo de gerente de operações nível 34 na operação aeroportuária.,3,10075.32,29769.8
+Gerente de Operações Nível 35,Cargo de gerente de operações nível 35 na operação aeroportuária.,5,5775.21,25074.66
+Gerente de Operações Nível 36,Cargo de gerente de operações nível 36 na operação aeroportuária.,2,5147.3,23178.15
+Gerente de Operações Nível 37,Cargo de gerente de operações nível 37 na operação aeroportuária.,1,12319.55,32037.34
+Gerente de Operações Nível 38,Cargo de gerente de operações nível 38 na operação aeroportuária.,4,6453.92,11965.01
+Gerente de Operações Nível 39,Cargo de gerente de operações nível 39 na operação aeroportuária.,9,11576.56,22620.11
+Gerente de Operações Nível 40,Cargo de gerente de operações nível 40 na operação aeroportuária.,7,2599.57,8040.77
+Gerente de Operações Nível 41,Cargo de gerente de operações nível 41 na operação aeroportuária.,6,9988.61,13347.22
+Supervisor de Pista Júnior,Cargo de supervisor de pista júnior na operação aeroportuária.,2,10671.33,20250.47
+Supervisor de Pista Pleno,Cargo de supervisor de pista pleno na operação aeroportuária.,1,9873.87,11776.2
+Supervisor de Pista Sénior,Cargo de supervisor de pista sénior na operação aeroportuária.,6,14911.48,26947.51
+Supervisor de Pista Master,Cargo de supervisor de pista master na operação aeroportuária.,2,12442.72,18872.24
+Supervisor de Pista Especialista,Cargo de supervisor de pista especialista na operação aeroportuária.,3,14154.5,28732.9
+Supervisor de Pista Setor A,Cargo de supervisor de pista setor a na operação aeroportuária.,8,14894.62,26969.7
+Supervisor de Pista Setor B,Cargo de supervisor de pista setor b na operação aeroportuária.,3,7237.12,19596.28
+Supervisor de Pista Setor C,Cargo de supervisor de pista setor c na operação aeroportuária.,10,10109.08,23002.37
+Supervisor de Pista Setor D,Cargo de supervisor de pista setor d na operação aeroportuária.,10,9445.3,17586.79
+Supervisor de Pista Setor E,Cargo de supervisor de pista setor e na operação aeroportuária.,5,12793.67,25986.91
+Supervisor de Pista Nível 1,Cargo de supervisor de pista nível 1 na operação aeroportuária.,10,11698.25,25540.51
+Supervisor de Pista Nível 2,Cargo de supervisor de pista nível 2 na operação aeroportuária.,8,3165.51,14087.55
+Supervisor de Pista Nível 3,Cargo de supervisor de pista nível 3 na operação aeroportuária.,3,8958.44,16915.87
+Supervisor de Pista Nível 4,Cargo de supervisor de pista nível 4 na operação aeroportuária.,7,10278.1,22084.56
+Supervisor de Pista Nível 5,Cargo de supervisor de pista nível 5 na operação aeroportuária.,3,6294.6,9250.54
+Supervisor de Pista Nível 6,Cargo de supervisor de pista nível 6 na operação aeroportuária.,1,12039.89,29899.32
+Supervisor de Pista Nível 7,Cargo de supervisor de pista nível 7 na operação aeroportuária.,10,10044.19,29566.41
+Supervisor de Pista Nível 8,Cargo de supervisor de pista nível 8 na operação aeroportuária.,4,14392.75,32313.0
+Supervisor de Pista Nível 9,Cargo de supervisor de pista nível 9 na operação aeroportuária.,2,4404.41,20230.77
+Supervisor de Pista Nível 10,Cargo de supervisor de pista nível 10 na operação aeroportuária.,4,5827.61,9512.16
+Supervisor de Pista Nível 11,Cargo de supervisor de pista nível 11 na operação aeroportuária.,7,7254.76,18891.89
+Supervisor de Pista Nível 12,Cargo de supervisor de pista nível 12 na operação aeroportuária.,1,7301.65,21595.52
+Supervisor de Pista Nível 13,Cargo de supervisor de pista nível 13 na operação aeroportuária.,9,8148.71,16710.59
+Supervisor de Pista Nível 14,Cargo de supervisor de pista nível 14 na operação aeroportuária.,2,7943.36,16879.73
+Supervisor de Pista Nível 15,Cargo de supervisor de pista nível 15 na operação aeroportuária.,1,10345.17,14649.55
+Supervisor de Pista Nível 16,Cargo de supervisor de pista nível 16 na operação aeroportuária.,4,6023.52,24941.12
+Supervisor de Pista Nível 17,Cargo de supervisor de pista nível 17 na operação aeroportuária.,4,8759.92,13947.47
+Supervisor de Pista Nível 18,Cargo de supervisor de pista nível 18 na operação aeroportuária.,10,13802.18,27155.78
+Supervisor de Pista Nível 19,Cargo de supervisor de pista nível 19 na operação aeroportuária.,9,3800.8,21845.05
+Supervisor de Pista Nível 20,Cargo de supervisor de pista nível 20 na operação aeroportuária.,1,12867.63,32505.43
+Supervisor de Pista Nível 21,Cargo de supervisor de pista nível 21 na operação aeroportuária.,1,13664.26,32904.65
+Supervisor de Pista Nível 22,Cargo de supervisor de pista nível 22 na operação aeroportuária.,2,14760.77,32903.49
+Supervisor de Pista Nível 23,Cargo de supervisor de pista nível 23 na operação aeroportuária.,10,9930.09,17415.54
+Supervisor de Pista Nível 24,Cargo de supervisor de pista nível 24 na operação aeroportuária.,9,12459.61,28357.05
+Supervisor de Pista Nível 25,Cargo de supervisor de pista nível 25 na operação aeroportuária.,7,9676.66,17492.38
+Supervisor de Pista Nível 26,Cargo de supervisor de pista nível 26 na operação aeroportuária.,3,7643.89,13698.62
+Supervisor de Pista Nível 27,Cargo de supervisor de pista nível 27 na operação aeroportuária.,9,6971.64,15159.27
+Supervisor de Pista Nível 28,Cargo de supervisor de pista nível 28 na operação aeroportuária.,7,10194.59,28740.36
+Supervisor de Pista Nível 29,Cargo de supervisor de pista nível 29 na operação aeroportuária.,4,2194.13,12350.78
+Supervisor de Pista Nível 30,Cargo de supervisor de pista nível 30 na operação aeroportuária.,7,3277.29,20058.96
+Supervisor de Pista Nível 31,Cargo de supervisor de pista nível 31 na operação aeroportuária.,3,11964.38,28301.8
+Supervisor de Pista Nível 32,Cargo de supervisor de pista nível 32 na operação aeroportuária.,6,9429.59,29058.6
+Supervisor de Pista Nível 33,Cargo de supervisor de pista nível 33 na operação aeroportuária.,2,5275.1,9923.88
+Supervisor de Pista Nível 34,Cargo de supervisor de pista nível 34 na operação aeroportuária.,5,7182.72,11012.81
+Supervisor de Pista Nível 35,Cargo de supervisor de pista nível 35 na operação aeroportuária.,10,12351.69,19255.8
+Supervisor de Pista Nível 36,Cargo de supervisor de pista nível 36 na operação aeroportuária.,9,5534.72,23615.6
+Supervisor de Pista Nível 37,Cargo de supervisor de pista nível 37 na operação aeroportuária.,1,12822.89,16943.55
+Supervisor de Pista Nível 38,Cargo de supervisor de pista nível 38 na operação aeroportuária.,4,2012.72,15699.33
+Supervisor de Pista Nível 39,Cargo de supervisor de pista nível 39 na operação aeroportuária.,9,7645.23,16068.02
+Supervisor de Pista Nível 40,Cargo de supervisor de pista nível 40 na operação aeroportuária.,7,2813.86,4861.73
+Supervisor de Pista Nível 41,Cargo de supervisor de pista nível 41 na operação aeroportuária.,7,8550.69,10976.77
+Agente de Check-in Júnior,Cargo de agente de check-in júnior na operação aeroportuária.,4,12586.08,19948.06
+Agente de Check-in Pleno,Cargo de agente de check-in pleno na operação aeroportuária.,1,2622.91,4881.14
+Agente de Check-in Sénior,Cargo de agente de check-in sénior na operação aeroportuária.,9,2727.82,16045.24
+Agente de Check-in Master,Cargo de agente de check-in master na operação aeroportuária.,2,5809.45,18333.59
+Agente de Check-in Especialista,Cargo de agente de check-in especialista na operação aeroportuária.,6,2706.21,11454.24
+Agente de Check-in Setor A,Cargo de agente de check-in setor a na operação aeroportuária.,3,13217.68,24132.03
+Agente de Check-in Setor B,Cargo de agente de check-in setor b na operação aeroportuária.,10,14342.51,27541.9
+Agente de Check-in Setor C,Cargo de agente de check-in setor c na operação aeroportuária.,3,2653.89,10652.75
+Agente de Check-in Setor D,Cargo de agente de check-in setor d na operação aeroportuária.,5,5511.58,23530.23
+Agente de Check-in Setor E,Cargo de agente de check-in setor e na operação aeroportuária.,8,7755.03,14103.55
+Agente de Check-in Nível 1,Cargo de agente de check-in nível 1 na operação aeroportuária.,3,2756.37,21672.06
+Agente de Check-in Nível 2,Cargo de agente de check-in nível 2 na operação aeroportuária.,3,11438.28,26934.64
+Agente de Check-in Nível 3,Cargo de agente de check-in nível 3 na operação aeroportuária.,7,10728.11,23058.04
+Agente de Check-in Nível 4,Cargo de agente de check-in nível 4 na operação aeroportuária.,6,2253.01,18427.68
+Agente de Check-in Nível 5,Cargo de agente de check-in nível 5 na operação aeroportuária.,8,11424.85,28118.96
+Agente de Check-in Nível 6,Cargo de agente de check-in nível 6 na operação aeroportuária.,7,14000.17,33657.84
+Agente de Check-in Nível 7,Cargo de agente de check-in nível 7 na operação aeroportuária.,10,11090.64,23524.81
+Agente de Check-in Nível 8,Cargo de agente de check-in nível 8 na operação aeroportuária.,5,2295.56,21090.48
+Agente de Check-in Nível 9,Cargo de agente de check-in nível 9 na operação aeroportuária.,9,5416.39,24852.03
+Agente de Check-in Nível 10,Cargo de agente de check-in nível 10 na operação aeroportuária.,4,4634.66,10044.81
+Agente de Check-in Nível 11,Cargo de agente de check-in nível 11 na operação aeroportuária.,3,14404.51,21374.31
+Agente de Check-in Nível 12,Cargo de agente de check-in nível 12 na operação aeroportuária.,3,4634.04,23034.61
+Agente de Check-in Nível 13,Cargo de agente de check-in nível 13 na operação aeroportuária.,7,3413.27,14762.29
+Agente de Check-in Nível 14,Cargo de agente de check-in nível 14 na operação aeroportuária.,2,8035.32,12928.74
+Agente de Check-in Nível 15,Cargo de agente de check-in nível 15 na operação aeroportuária.,3,10814.43,13307.73
+Agente de Check-in Nível 16,Cargo de agente de check-in nível 16 na operação aeroportuária.,3,2006.04,5145.82
+Agente de Check-in Nível 17,Cargo de agente de check-in nível 17 na operação aeroportuária.,7,5093.65,15846.24
+Agente de Check-in Nível 18,Cargo de agente de check-in nível 18 na operação aeroportuária.,6,3720.63,14139.84
+Agente de Check-in Nível 19,Cargo de agente de check-in nível 19 na operação aeroportuária.,10,14693.63,22837.27
+Agente de Check-in Nível 20,Cargo de agente de check-in nível 20 na operação aeroportuária.,4,4837.3,7249.68
+Agente de Check-in Nível 21,Cargo de agente de check-in nível 21 na operação aeroportuária.,9,5857.47,11884.84
+Agente de Check-in Nível 22,Cargo de agente de check-in nível 22 na operação aeroportuária.,1,11437.83,15643.01
+Agente de Check-in Nível 23,Cargo de agente de check-in nível 23 na operação aeroportuária.,10,6199.29,9875.46
+Agente de Check-in Nível 24,Cargo de agente de check-in nível 24 na operação aeroportuária.,7,5822.21,7639.23
+Agente de Check-in Nível 25,Cargo de agente de check-in nível 25 na operação aeroportuária.,2,7605.08,14015.53
+Agente de Check-in Nível 26,Cargo de agente de check-in nível 26 na operação aeroportuária.,1,5074.6,9967.52
+Agente de Check-in Nível 27,Cargo de agente de check-in nível 27 na operação aeroportuária.,5,12816.01,21384.84
+Agente de Check-in Nível 28,Cargo de agente de check-in nível 28 na operação aeroportuária.,9,3407.67,7101.36
+Agente de Check-in Nível 29,Cargo de agente de check-in nível 29 na operação aeroportuária.,8,11631.91,22125.42
+Agente de Check-in Nível 30,Cargo de agente de check-in nível 30 na operação aeroportuária.,9,4214.14,8760.46
+Agente de Check-in Nível 31,Cargo de agente de check-in nível 31 na operação aeroportuária.,1,12841.45,25983.64
+Agente de Check-in Nível 32,Cargo de agente de check-in nível 32 na operação aeroportuária.,8,13625.46,25816.33
+Agente de Check-in Nível 33,Cargo de agente de check-in nível 33 na operação aeroportuária.,3,3330.39,8004.71
+Agente de Check-in Nível 34,Cargo de agente de check-in nível 34 na operação aeroportuária.,9,14097.61,23075.1
+Agente de Check-in Nível 35,Cargo de agente de check-in nível 35 na operação aeroportuária.,10,9099.63,24056.04
+Agente de Check-in Nível 36,Cargo de agente de check-in nível 36 na operação aeroportuária.,8,12197.13,26245.94
+Agente de Check-in Nível 37,Cargo de agente de check-in nível 37 na operação aeroportuária.,8,5040.24,14134.63
+Agente de Check-in Nível 38,Cargo de agente de check-in nível 38 na operação aeroportuária.,4,13371.53,24619.37
+Agente de Check-in Nível 39,Cargo de agente de check-in nível 39 na operação aeroportuária.,2,13024.99,17392.11
+Agente de Check-in Nível 40,Cargo de agente de check-in nível 40 na operação aeroportuária.,6,7309.53,14740.48
+Agente de Check-in Nível 41,Cargo de agente de check-in nível 41 na operação aeroportuária.,10,11753.53,30989.11
+Agente de Embarque Júnior,Cargo de agente de embarque júnior na operação aeroportuária.,1,8406.74,22760.31
+Agente de Embarque Pleno,Cargo de agente de embarque pleno na operação aeroportuária.,9,11349.38,20494.47
+Agente de Embarque Sénior,Cargo de agente de embarque sénior na operação aeroportuária.,2,7896.46,22198.58
+Agente de Embarque Master,Cargo de agente de embarque master na operação aeroportuária.,7,13191.75,23624.57
+Agente de Embarque Especialista,Cargo de agente de embarque especialista na operação aeroportuária.,7,8737.61,25082.12
+Agente de Embarque Setor A,Cargo de agente de embarque setor a na operação aeroportuária.,1,6746.12,7788.9
+Agente de Embarque Setor B,Cargo de agente de embarque setor b na operação aeroportuária.,9,3867.18,17386.48
+Agente de Embarque Setor C,Cargo de agente de embarque setor c na operação aeroportuária.,3,4345.84,17300.16
+Agente de Embarque Setor D,Cargo de agente de embarque setor d na operação aeroportuária.,6,10760.48,13398.07
+Agente de Embarque Setor E,Cargo de agente de embarque setor e na operação aeroportuária.,7,10823.71,24355.26
+Agente de Embarque Nível 1,Cargo de agente de embarque nível 1 na operação aeroportuária.,1,12104.73,23347.15
+Agente de Embarque Nível 2,Cargo de agente de embarque nível 2 na operação aeroportuária.,8,14181.76,28229.96
+Agente de Embarque Nível 3,Cargo de agente de embarque nível 3 na operação aeroportuária.,7,9402.61,24319.91
+Agente de Embarque Nível 4,Cargo de agente de embarque nível 4 na operação aeroportuária.,9,10466.92,29271.2
+Agente de Embarque Nível 5,Cargo de agente de embarque nível 5 na operação aeroportuária.,2,14762.13,18398.27
+Agente de Embarque Nível 6,Cargo de agente de embarque nível 6 na operação aeroportuária.,10,7173.1,16850.89
+Agente de Embarque Nível 7,Cargo de agente de embarque nível 7 na operação aeroportuária.,10,14413.59,26006.59
+Agente de Embarque Nível 8,Cargo de agente de embarque nível 8 na operação aeroportuária.,9,12043.42,18145.25
+Agente de Embarque Nível 9,Cargo de agente de embarque nível 9 na operação aeroportuária.,7,10104.68,21399.98
+Agente de Embarque Nível 10,Cargo de agente de embarque nível 10 na operação aeroportuária.,9,13285.01,32393.66
+Agente de Embarque Nível 11,Cargo de agente de embarque nível 11 na operação aeroportuária.,3,13598.3,15316.27
+Agente de Embarque Nível 12,Cargo de agente de embarque nível 12 na operação aeroportuária.,6,12379.01,31455.61
+Agente de Embarque Nível 13,Cargo de agente de embarque nível 13 na operação aeroportuária.,4,10610.08,21913.44
+Agente de Embarque Nível 14,Cargo de agente de embarque nível 14 na operação aeroportuária.,10,11317.76,17082.41
+Agente de Embarque Nível 15,Cargo de agente de embarque nível 15 na operação aeroportuária.,5,10428.82,17093.43
+Agente de Embarque Nível 16,Cargo de agente de embarque nível 16 na operação aeroportuária.,10,6390.37,21363.44
+Agente de Embarque Nível 17,Cargo de agente de embarque nível 17 na operação aeroportuária.,9,9196.03,11450.36
+Agente de Embarque Nível 18,Cargo de agente de embarque nível 18 na operação aeroportuária.,2,5686.36,15271.77
+Agente de Embarque Nível 19,Cargo de agente de embarque nível 19 na operação aeroportuária.,9,8597.95,27884.12
+Agente de Embarque Nível 20,Cargo de agente de embarque nível 20 na operação aeroportuária.,1,11038.64,20425.35
+Agente de Embarque Nível 21,Cargo de agente de embarque nível 21 na operação aeroportuária.,6,14007.44,19477.78
+Agente de Embarque Nível 22,Cargo de agente de embarque nível 22 na operação aeroportuária.,9,7221.49,15640.92
+Agente de Embarque Nível 23,Cargo de agente de embarque nível 23 na operação aeroportuária.,4,9010.51,28480.59
+Agente de Embarque Nível 24,Cargo de agente de embarque nível 24 na operação aeroportuária.,3,2340.83,15036.9
+Agente de Embarque Nível 25,Cargo de agente de embarque nível 25 na operação aeroportuária.,5,6945.83,9427.68
+Agente de Embarque Nível 26,Cargo de agente de embarque nível 26 na operação aeroportuária.,10,2825.25,15753.81
+Agente de Embarque Nível 27,Cargo de agente de embarque nível 27 na operação aeroportuária.,8,8433.68,19545.43
+Agente de Embarque Nível 28,Cargo de agente de embarque nível 28 na operação aeroportuária.,7,9045.7,26329.15
+Agente de Embarque Nível 29,Cargo de agente de embarque nível 29 na operação aeroportuária.,10,13899.14,24509.44
+Agente de Embarque Nível 30,Cargo de agente de embarque nível 30 na operação aeroportuária.,3,12881.59,16341.85
+Agente de Embarque Nível 31,Cargo de agente de embarque nível 31 na operação aeroportuária.,9,9498.46,19882.7
+Agente de Embarque Nível 32,Cargo de agente de embarque nível 32 na operação aeroportuária.,1,12276.86,23387.53
+Agente de Embarque Nível 33,Cargo de agente de embarque nível 33 na operação aeroportuária.,9,2008.51,15235.95
+Agente de Embarque Nível 34,Cargo de agente de embarque nível 34 na operação aeroportuária.,4,6792.85,21007.38
+Agente de Embarque Nível 35,Cargo de agente de embarque nível 35 na operação aeroportuária.,1,10626.41,28114.37
+Agente de Embarque Nível 36,Cargo de agente de embarque nível 36 na operação aeroportuária.,7,6952.21,19723.45
+Agente de Embarque Nível 37,Cargo de agente de embarque nível 37 na operação aeroportuária.,8,9399.52,10981.57
+Agente de Embarque Nível 38,Cargo de agente de embarque nível 38 na operação aeroportuária.,2,4182.96,22278.53
+Agente de Embarque Nível 39,Cargo de agente de embarque nível 39 na operação aeroportuária.,3,12118.93,19628.93
+Agente de Embarque Nível 40,Cargo de agente de embarque nível 40 na operação aeroportuária.,6,5488.19,9956.75
+Agente de Embarque Nível 41,Cargo de agente de embarque nível 41 na operação aeroportuária.,9,7111.25,19389.55
+Agente de Segurança Júnior,Cargo de agente de segurança júnior na operação aeroportuária.,4,3824.6,20527.5
+Agente de Segurança Pleno,Cargo de agente de segurança pleno na operação aeroportuária.,10,5824.13,18951.85
+Agente de Segurança Sénior,Cargo de agente de segurança sénior na operação aeroportuária.,3,10885.83,25933.68
+Agente de Segurança Master,Cargo de agente de segurança master na operação aeroportuária.,5,12263.96,29039.82
+Agente de Segurança Especialista,Cargo de agente de segurança especialista na operação aeroportuária.,4,13261.8,17958.59
+Agente de Segurança Setor A,Cargo de agente de segurança setor a na operação aeroportuária.,10,14148.97,21612.51
+Agente de Segurança Setor B,Cargo de agente de segurança setor b na operação aeroportuária.,3,5389.47,19394.39
+Agente de Segurança Setor C,Cargo de agente de segurança setor c na operação aeroportuária.,6,4425.82,19894.29
+Agente de Segurança Setor D,Cargo de agente de segurança setor d na operação aeroportuária.,8,4312.68,23268.14
+Agente de Segurança Setor E,Cargo de agente de segurança setor e na operação aeroportuária.,7,4179.83,16113.26
+Agente de Segurança Nível 1,Cargo de agente de segurança nível 1 na operação aeroportuária.,7,14298.84,19510.23
+Agente de Segurança Nível 2,Cargo de agente de segurança nível 2 na operação aeroportuária.,4,6463.23,19014.04
+Agente de Segurança Nível 3,Cargo de agente de segurança nível 3 na operação aeroportuária.,6,3328.87,20677.42
+Agente de Segurança Nível 4,Cargo de agente de segurança nível 4 na operação aeroportuária.,9,3380.74,17882.43
+Agente de Segurança Nível 5,Cargo de agente de segurança nível 5 na operação aeroportuária.,6,6755.45,25836.39
+Agente de Segurança Nível 6,Cargo de agente de segurança nível 6 na operação aeroportuária.,8,8746.15,27915.07
+Agente de Segurança Nível 7,Cargo de agente de segurança nível 7 na operação aeroportuária.,9,6216.89,18804.68
+Agente de Segurança Nível 8,Cargo de agente de segurança nível 8 na operação aeroportuária.,8,12049.04,18507.83
+Agente de Segurança Nível 9,Cargo de agente de segurança nível 9 na operação aeroportuária.,5,4914.69,9603.72
+Agente de Segurança Nível 10,Cargo de agente de segurança nível 10 na operação aeroportuária.,10,3559.71,17392.82
+Agente de Segurança Nível 11,Cargo de agente de segurança nível 11 na operação aeroportuária.,9,12716.27,15131.95
+Agente de Segurança Nível 12,Cargo de agente de segurança nível 12 na operação aeroportuária.,2,13880.45,26261.47
+Agente de Segurança Nível 13,Cargo de agente de segurança nível 13 na operação aeroportuária.,3,2609.57,13518.88
+Agente de Segurança Nível 14,Cargo de agente de segurança nível 14 na operação aeroportuária.,6,9565.7,15679.24
+Agente de Segurança Nível 15,Cargo de agente de segurança nível 15 na operação aeroportuária.,1,3118.13,11038.38
+Agente de Segurança Nível 16,Cargo de agente de segurança nível 16 na operação aeroportuária.,7,5998.55,13178.22
+Agente de Segurança Nível 17,Cargo de agente de segurança nível 17 na operação aeroportuária.,8,3397.79,20122.18
+Agente de Segurança Nível 18,Cargo de agente de segurança nível 18 na operação aeroportuária.,4,3393.89,18243.61
+Agente de Segurança Nível 19,Cargo de agente de segurança nível 19 na operação aeroportuária.,6,10051.93,15126.81
+Agente de Segurança Nível 20,Cargo de agente de segurança nível 20 na operação aeroportuária.,7,8186.12,25257.75
+Agente de Segurança Nível 21,Cargo de agente de segurança nível 21 na operação aeroportuária.,9,3265.91,19443.18
+Agente de Segurança Nível 22,Cargo de agente de segurança nível 22 na operação aeroportuária.,8,13070.27,14940.32
+Agente de Segurança Nível 23,Cargo de agente de segurança nível 23 na operação aeroportuária.,10,5454.81,22540.31
+Agente de Segurança Nível 24,Cargo de agente de segurança nível 24 na operação aeroportuária.,2,5685.22,21310.65
+Agente de Segurança Nível 25,Cargo de agente de segurança nível 25 na operação aeroportuária.,2,2457.5,10180.83
+Agente de Segurança Nível 26,Cargo de agente de segurança nível 26 na operação aeroportuária.,8,6978.12,18033.15
+Agente de Segurança Nível 27,Cargo de agente de segurança nível 27 na operação aeroportuária.,2,11049.03,21999.73
+Agente de Segurança Nível 28,Cargo de agente de segurança nível 28 na operação aeroportuária.,9,2781.85,17699.38
+Agente de Segurança Nível 29,Cargo de agente de segurança nível 29 na operação aeroportuária.,3,11850.94,12978.74
+Agente de Segurança Nível 30,Cargo de agente de segurança nível 30 na operação aeroportuária.,6,3687.09,20736.43
+Agente de Segurança Nível 31,Cargo de agente de segurança nível 31 na operação aeroportuária.,9,9251.46,24824.19
+Agente de Segurança Nível 32,Cargo de agente de segurança nível 32 na operação aeroportuária.,7,4116.26,7716.41
+Agente de Segurança Nível 33,Cargo de agente de segurança nível 33 na operação aeroportuária.,6,9246.29,27591.25
+Agente de Segurança Nível 34,Cargo de agente de segurança nível 34 na operação aeroportuária.,7,7409.08,26564.46
+Agente de Segurança Nível 35,Cargo de agente de segurança nível 35 na operação aeroportuária.,10,8583.71,24637.33
+Agente de Segurança Nível 36,Cargo de agente de segurança nível 36 na operação aeroportuária.,8,9005.89,15317.11
+Agente de Segurança Nível 37,Cargo de agente de segurança nível 37 na operação aeroportuária.,3,3796.85,18212.78
+Agente de Segurança Nível 38,Cargo de agente de segurança nível 38 na operação aeroportuária.,9,6384.71,21459.95
+Agente de Segurança Nível 39,Cargo de agente de segurança nível 39 na operação aeroportuária.,5,9037.54,16488.73
+Agente de Segurança Nível 40,Cargo de agente de segurança nível 40 na operação aeroportuária.,10,7485.54,15396.03
+Agente de Segurança Nível 41,Cargo de agente de segurança nível 41 na operação aeroportuária.,6,12238.9,29228.85
+Inspetor de Segurança Júnior,Cargo de inspetor de segurança júnior na operação aeroportuária.,5,4311.08,7760.12
+Inspetor de Segurança Pleno,Cargo de inspetor de segurança pleno na operação aeroportuária.,10,13836.33,33221.38
+Inspetor de Segurança Sénior,Cargo de inspetor de segurança sénior na operação aeroportuária.,7,14810.02,16292.54
+Inspetor de Segurança Master,Cargo de inspetor de segurança master na operação aeroportuária.,1,13472.37,15286.99
+Inspetor de Segurança Especialista,Cargo de inspetor de segurança especialista na operação aeroportuária.,5,6842.55,12204.44
+Inspetor de Segurança Setor A,Cargo de inspetor de segurança setor a na operação aeroportuária.,4,2945.73,8437.73
+Inspetor de Segurança Setor B,Cargo de inspetor de segurança setor b na operação aeroportuária.,2,12391.06,29892.28
+Inspetor de Segurança Setor C,Cargo de inspetor de segurança setor c na operação aeroportuária.,2,4708.47,11864.03
+Inspetor de Segurança Setor D,Cargo de inspetor de segurança setor d na operação aeroportuária.,8,2439.26,7316.99
+Inspetor de Segurança Setor E,Cargo de inspetor de segurança setor e na operação aeroportuária.,7,9222.1,13682.93
+Inspetor de Segurança Nível 1,Cargo de inspetor de segurança nível 1 na operação aeroportuária.,2,5690.82,12093.72
+Inspetor de Segurança Nível 2,Cargo de inspetor de segurança nível 2 na operação aeroportuária.,9,8822.29,17100.57
+Inspetor de Segurança Nível 3,Cargo de inspetor de segurança nível 3 na operação aeroportuária.,10,10059.51,24677.52
+Inspetor de Segurança Nível 4,Cargo de inspetor de segurança nível 4 na operação aeroportuária.,3,8494.6,25651.1
+Inspetor de Segurança Nível 5,Cargo de inspetor de segurança nível 5 na operação aeroportuária.,4,7499.94,25578.45
+Inspetor de Segurança Nível 6,Cargo de inspetor de segurança nível 6 na operação aeroportuária.,8,11351.69,17912.39
+Inspetor de Segurança Nível 7,Cargo de inspetor de segurança nível 7 na operação aeroportuária.,7,3946.16,5067.1
+Inspetor de Segurança Nível 8,Cargo de inspetor de segurança nível 8 na operação aeroportuária.,6,12997.52,32708.53
+Inspetor de Segurança Nível 9,Cargo de inspetor de segurança nível 9 na operação aeroportuária.,3,13950.13,20420.48
+Inspetor de Segurança Nível 10,Cargo de inspetor de segurança nível 10 na operação aeroportuária.,2,8835.76,25138.07
+Inspetor de Segurança Nível 11,Cargo de inspetor de segurança nível 11 na operação aeroportuária.,3,11198.36,27545.21
+Inspetor de Segurança Nível 12,Cargo de inspetor de segurança nível 12 na operação aeroportuária.,2,11581.6,16199.65
+Inspetor de Segurança Nível 13,Cargo de inspetor de segurança nível 13 na operação aeroportuária.,2,3641.84,16166.85
+Inspetor de Segurança Nível 14,Cargo de inspetor de segurança nível 14 na operação aeroportuária.,1,10149.86,23007.15
+Inspetor de Segurança Nível 15,Cargo de inspetor de segurança nível 15 na operação aeroportuária.,1,6903.03,8057.21
+Inspetor de Segurança Nível 16,Cargo de inspetor de segurança nível 16 na operação aeroportuária.,2,8754.68,17646.67
+Inspetor de Segurança Nível 17,Cargo de inspetor de segurança nível 17 na operação aeroportuária.,8,4081.96,18715.31
+Inspetor de Segurança Nível 18,Cargo de inspetor de segurança nível 18 na operação aeroportuária.,8,6485.09,17602.84
+Inspetor de Segurança Nível 19,Cargo de inspetor de segurança nível 19 na operação aeroportuária.,8,7252.33,21669.5
+Inspetor de Segurança Nível 20,Cargo de inspetor de segurança nível 20 na operação aeroportuária.,8,4300.24,8732.88
+Inspetor de Segurança Nível 21,Cargo de inspetor de segurança nível 21 na operação aeroportuária.,6,8241.03,15337.16
+Inspetor de Segurança Nível 22,Cargo de inspetor de segurança nível 22 na operação aeroportuária.,6,9306.54,15353.52
+Inspetor de Segurança Nível 23,Cargo de inspetor de segurança nível 23 na operação aeroportuária.,3,6925.82,24317.84
+Inspetor de Segurança Nível 24,Cargo de inspetor de segurança nível 24 na operação aeroportuária.,1,6230.65,18984.27
+Inspetor de Segurança Nível 25,Cargo de inspetor de segurança nível 25 na operação aeroportuária.,9,12616.68,29859.38
+Inspetor de Segurança Nível 26,Cargo de inspetor de segurança nível 26 na operação aeroportuária.,8,6971.37,20467.25
+Inspetor de Segurança Nível 27,Cargo de inspetor de segurança nível 27 na operação aeroportuária.,4,11484.23,19941.65
+Inspetor de Segurança Nível 28,Cargo de inspetor de segurança nível 28 na operação aeroportuária.,9,13297.39,27944.88
+Inspetor de Segurança Nível 29,Cargo de inspetor de segurança nível 29 na operação aeroportuária.,2,10390.46,14725.89
+Inspetor de Segurança Nível 30,Cargo de inspetor de segurança nível 30 na operação aeroportuária.,8,10937.28,15705.38
+Inspetor de Segurança Nível 31,Cargo de inspetor de segurança nível 31 na operação aeroportuária.,4,14035.33,27487.86
+Inspetor de Segurança Nível 32,Cargo de inspetor de segurança nível 32 na operação aeroportuária.,3,14436.98,33032.64
+Inspetor de Segurança Nível 33,Cargo de inspetor de segurança nível 33 na operação aeroportuária.,6,4363.26,8311.9
+Inspetor de Segurança Nível 34,Cargo de inspetor de segurança nível 34 na operação aeroportuária.,10,13825.34,18893.21
+Inspetor de Segurança Nível 35,Cargo de inspetor de segurança nível 35 na operação aeroportuária.,7,13460.26,32611.76
+Inspetor de Segurança Nível 36,Cargo de inspetor de segurança nível 36 na operação aeroportuária.,7,12392.24,25879.93
+Inspetor de Segurança Nível 37,Cargo de inspetor de segurança nível 37 na operação aeroportuária.,10,2979.72,9740.49
+Inspetor de Segurança Nível 38,Cargo de inspetor de segurança nível 38 na operação aeroportuária.,9,9158.57,14651.21
+Inspetor de Segurança Nível 39,Cargo de inspetor de segurança nível 39 na operação aeroportuária.,3,6226.33,14136.48
+Inspetor de Segurança Nível 40,Cargo de inspetor de segurança nível 40 na operação aeroportuária.,4,12261.57,29519.85
+Inspetor de Segurança Nível 41,Cargo de inspetor de segurança nível 41 na operação aeroportuária.,9,4641.42,16204.36
+Coordenador de Logística Júnior,Cargo de coordenador de logística júnior na operação aeroportuária.,5,5468.12,8789.09
+Coordenador de Logística Pleno,Cargo de coordenador de logística pleno na operação aeroportuária.,8,11582.49,29350.11
+Coordenador de Logística Sénior,Cargo de coordenador de logística sénior na operação aeroportuária.,4,4100.3,12568.85
+Coordenador de Logística Master,Cargo de coordenador de logística master na operação aeroportuária.,4,14244.68,26094.51
+Coordenador de Logística Especialista,Cargo de coordenador de logística especialista na operação aeroportuária.,5,13250.63,25225.2
+Coordenador de Logística Setor A,Cargo de coordenador de logística setor a na operação aeroportuária.,8,9945.77,24721.34
+Coordenador de Logística Setor B,Cargo de coordenador de logística setor b na operação aeroportuária.,3,13612.53,26081.07
+Coordenador de Logística Setor C,Cargo de coordenador de logística setor c na operação aeroportuária.,10,7704.35,12253.45
+Coordenador de Logística Setor D,Cargo de coordenador de logística setor d na operação aeroportuária.,3,7721.84,11801.54
+Coordenador de Logística Setor E,Cargo de coordenador de logística setor e na operação aeroportuária.,6,5204.36,23324.74
+Coordenador de Logística Nível 1,Cargo de coordenador de logística nível 1 na operação aeroportuária.,8,11876.69,30179.3
+Coordenador de Logística Nível 2,Cargo de coordenador de logística nível 2 na operação aeroportuária.,2,4785.08,19235.53
+Coordenador de Logística Nível 3,Cargo de coordenador de logística nível 3 na operação aeroportuária.,6,3797.58,22871.06
+Coordenador de Logística Nível 4,Cargo de coordenador de logística nível 4 na operação aeroportuária.,9,5159.35,8994.9
+Coordenador de Logística Nível 5,Cargo de coordenador de logística nível 5 na operação aeroportuária.,2,3751.31,11673.15
+Coordenador de Logística Nível 6,Cargo de coordenador de logística nível 6 na operação aeroportuária.,1,9123.73,13415.79
+Coordenador de Logística Nível 7,Cargo de coordenador de logística nível 7 na operação aeroportuária.,1,5449.05,16979.04
+Coordenador de Logística Nível 8,Cargo de coordenador de logística nível 8 na operação aeroportuária.,10,12540.83,26575.11
+Coordenador de Logística Nível 9,Cargo de coordenador de logística nível 9 na operação aeroportuária.,8,8742.11,19354.5
+Coordenador de Logística Nível 10,Cargo de coordenador de logística nível 10 na operação aeroportuária.,10,7698.81,21687.16
+Coordenador de Logística Nível 11,Cargo de coordenador de logística nível 11 na operação aeroportuária.,6,10675.52,18465.44
+Coordenador de Logística Nível 12,Cargo de coordenador de logística nível 12 na operação aeroportuária.,4,10286.55,18779.12
+Coordenador de Logística Nível 13,Cargo de coordenador de logística nível 13 na operação aeroportuária.,1,12383.0,30911.4
+Coordenador de Logística Nível 14,Cargo de coordenador de logística nível 14 na operação aeroportuária.,1,4625.94,10910.41
+Coordenador de Logística Nível 15,Cargo de coordenador de logística nível 15 na operação aeroportuária.,5,5071.74,13440.91
+Coordenador de Logística Nível 16,Cargo de coordenador de logística nível 16 na operação aeroportuária.,2,12590.75,29839.28
+Coordenador de Logística Nível 17,Cargo de coordenador de logística nível 17 na operação aeroportuária.,10,6169.54,15913.62
+Coordenador de Logística Nível 18,Cargo de coordenador de logística nível 18 na operação aeroportuária.,6,12857.39,16954.48
+Coordenador de Logística Nível 19,Cargo de coordenador de logística nível 19 na operação aeroportuária.,4,13336.09,25175.9
+Coordenador de Logística Nível 20,Cargo de coordenador de logística nível 20 na operação aeroportuária.,2,2296.93,6132.02
+Coordenador de Logística Nível 21,Cargo de coordenador de logística nível 21 na operação aeroportuária.,10,4177.24,22787.61
+Coordenador de Logística Nível 22,Cargo de coordenador de logística nível 22 na operação aeroportuária.,10,11740.62,25356.78
+Coordenador de Logística Nível 23,Cargo de coordenador de logística nível 23 na operação aeroportuária.,2,5936.28,16017.69
+Coordenador de Logística Nível 24,Cargo de coordenador de logística nível 24 na operação aeroportuária.,9,4507.07,17136.59
+Coordenador de Logística Nível 25,Cargo de coordenador de logística nível 25 na operação aeroportuária.,4,13851.51,25805.94
+Coordenador de Logística Nível 26,Cargo de coordenador de logística nível 26 na operação aeroportuária.,8,3074.42,17123.12
+Coordenador de Logística Nível 27,Cargo de coordenador de logística nível 27 na operação aeroportuária.,8,3208.08,22588.96
+Coordenador de Logística Nível 28,Cargo de coordenador de logística nível 28 na operação aeroportuária.,3,7171.65,20204.17
+Coordenador de Logística Nível 29,Cargo de coordenador de logística nível 29 na operação aeroportuária.,3,3502.27,7492.96
+Coordenador de Logística Nível 30,Cargo de coordenador de logística nível 30 na operação aeroportuária.,8,7331.45,22631.99
+Coordenador de Logística Nível 31,Cargo de coordenador de logística nível 31 na operação aeroportuária.,3,2695.55,15206.46
+Coordenador de Logística Nível 32,Cargo de coordenador de logística nível 32 na operação aeroportuária.,2,3507.14,11776.2
+Coordenador de Logística Nível 33,Cargo de coordenador de logística nível 33 na operação aeroportuária.,2,3683.53,8116.96
+Coordenador de Logística Nível 34,Cargo de coordenador de logística nível 34 na operação aeroportuária.,2,10027.6,11634.03
+Coordenador de Logística Nível 35,Cargo de coordenador de logística nível 35 na operação aeroportuária.,3,11398.99,24971.63
+Coordenador de Logística Nível 36,Cargo de coordenador de logística nível 36 na operação aeroportuária.,9,11879.38,30595.03
+Coordenador de Logística Nível 37,Cargo de coordenador de logística nível 37 na operação aeroportuária.,4,14031.28,29219.97
+Coordenador de Logística Nível 38,Cargo de coordenador de logística nível 38 na operação aeroportuária.,4,2481.3,14347.09
+Coordenador de Logística Nível 39,Cargo de coordenador de logística nível 39 na operação aeroportuária.,7,6943.69,11903.33
+Coordenador de Logística Nível 40,Cargo de coordenador de logística nível 40 na operação aeroportuária.,1,10584.38,20235.9
+Coordenador de Logística Nível 41,Cargo de coordenador de logística nível 41 na operação aeroportuária.,5,12096.43,15065.39
+Analista de Operações Júnior,Cargo de analista de operações júnior na operação aeroportuária.,5,4289.78,7001.69
+Analista de Operações Pleno,Cargo de analista de operações pleno na operação aeroportuária.,1,12267.88,26245.67
+Analista de Operações Sénior,Cargo de analista de operações sénior na operação aeroportuária.,9,3827.95,11233.91
+Analista de Operações Master,Cargo de analista de operações master na operação aeroportuária.,1,9493.58,16699.73
+Analista de Operações Especialista,Cargo de analista de operações especialista na operação aeroportuária.,3,3951.67,10399.22
+Analista de Operações Setor A,Cargo de analista de operações setor a na operação aeroportuária.,3,2222.49,18864.02
+Analista de Operações Setor B,Cargo de analista de operações setor b na operação aeroportuária.,4,11108.13,19075.95
+Analista de Operações Setor C,Cargo de analista de operações setor c na operação aeroportuária.,6,11380.46,28333.74
+Analista de Operações Setor D,Cargo de analista de operações setor d na operação aeroportuária.,2,12536.04,27519.72
+Analista de Operações Setor E,Cargo de analista de operações setor e na operação aeroportuária.,1,12469.71,17547.46
+Analista de Operações Nível 1,Cargo de analista de operações nível 1 na operação aeroportuária.,10,9750.64,13186.5
+Analista de Operações Nível 2,Cargo de analista de operações nível 2 na operação aeroportuária.,10,8455.25,9779.93
+Analista de Operações Nível 3,Cargo de analista de operações nível 3 na operação aeroportuária.,2,4975.22,14596.17
+Analista de Operações Nível 4,Cargo de analista de operações nível 4 na operação aeroportuária.,3,5581.01,14634.39
+Analista de Operações Nível 5,Cargo de analista de operações nível 5 na operação aeroportuária.,6,9146.03,20399.18
+Analista de Operações Nível 6,Cargo de analista de operações nível 6 na operação aeroportuária.,7,5990.29,24546.67
+Analista de Operações Nível 7,Cargo de analista de operações nível 7 na operação aeroportuária.,4,13002.45,18930.24
+Analista de Operações Nível 8,Cargo de analista de operações nível 8 na operação aeroportuária.,2,13545.33,29337.23
+Analista de Operações Nível 9,Cargo de analista de operações nível 9 na operação aeroportuária.,1,3831.0,13986.2
+Analista de Operações Nível 10,Cargo de analista de operações nível 10 na operação aeroportuária.,1,7491.98,15366.61
+Analista de Operações Nível 11,Cargo de analista de operações nível 11 na operação aeroportuária.,3,8231.04,19824.08
+Analista de Operações Nível 12,Cargo de analista de operações nível 12 na operação aeroportuária.,5,2784.02,15166.29
+Analista de Operações Nível 13,Cargo de analista de operações nível 13 na operação aeroportuária.,1,7760.49,22469.89
+Analista de Operações Nível 14,Cargo de analista de operações nível 14 na operação aeroportuária.,2,7605.88,24983.2
+Analista de Operações Nível 15,Cargo de analista de operações nível 15 na operação aeroportuária.,1,7360.43,10830.19
+Analista de Operações Nível 16,Cargo de analista de operações nível 16 na operação aeroportuária.,5,8903.61,27861.51
+Analista de Operações Nível 17,Cargo de analista de operações nível 17 na operação aeroportuária.,2,6451.07,12411.25
+Analista de Operações Nível 18,Cargo de analista de operações nível 18 na operação aeroportuária.,3,12760.98,26765.51
+Analista de Operações Nível 19,Cargo de analista de operações nível 19 na operação aeroportuária.,1,4883.88,19380.18
+Analista de Operações Nível 20,Cargo de analista de operações nível 20 na operação aeroportuária.,5,2420.98,4535.29
+Analista de Operações Nível 21,Cargo de analista de operações nível 21 na operação aeroportuária.,1,10009.78,28261.41
+Analista de Operações Nível 22,Cargo de analista de operações nível 22 na operação aeroportuária.,7,14435.66,26159.8
+Analista de Operações Nível 23,Cargo de analista de operações nível 23 na operação aeroportuária.,8,6791.36,24759.17
+Analista de Operações Nível 24,Cargo de analista de operações nível 24 na operação aeroportuária.,5,10097.78,18144.65
+Analista de Operações Nível 25,Cargo de analista de operações nível 25 na operação aeroportuária.,10,10801.89,30764.64
+Analista de Operações Nível 26,Cargo de analista de operações nível 26 na operação aeroportuária.,6,5705.57,22732.17
+Analista de Operações Nível 27,Cargo de analista de operações nível 27 na operação aeroportuária.,4,5266.66,22256.66
+Analista de Operações Nível 28,Cargo de analista de operações nível 28 na operação aeroportuária.,3,12878.01,18648.9
+Analista de Operações Nível 29,Cargo de analista de operações nível 29 na operação aeroportuária.,7,2035.52,3873.87
+Analista de Operações Nível 30,Cargo de analista de operações nível 30 na operação aeroportuária.,1,11999.04,28146.96
+Analista de Operações Nível 31,Cargo de analista de operações nível 31 na operação aeroportuária.,9,3594.28,8531.45
+Analista de Operações Nível 32,Cargo de analista de operações nível 32 na operação aeroportuária.,7,9199.96,12107.13

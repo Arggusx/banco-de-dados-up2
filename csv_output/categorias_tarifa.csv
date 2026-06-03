@@ -1,0 +1,1001 @@
+nome,descricao,multiplicador_preco,bagagem_inclusa_kg,prioridade_embarque
+ECONOMICA_LIGHT,Tarifa economica light.,0.8,0,5
+ECONOMICA_STANDARD,Tarifa economica standard.,1.0,23,4
+ECONOMICA_PLUS,Tarifa economica plus.,1.2,30,3
+ECONOMICA_FLEX,Tarifa economica flex.,1.4,30,3
+EXECUTIVA_LIGHT,Tarifa executiva light.,2.0,32,2
+EXECUTIVA_STANDARD,Tarifa executiva standard.,2.5,40,2
+EXECUTIVA_FLEX,Tarifa executiva flex.,3.0,40,1
+PRIMEIRA_CLASSE,Tarifa primeira classe.,4.0,50,1
+PRIMEIRA_FLEX,Tarifa primeira flex.,5.0,50,1
+PREMIUM_ECONOMY,Tarifa premium economy.,1.6,25,3
+BUSINESS_SAVER,Tarifa business saver.,2.2,35,2
+BUSINESS_FULL,Tarifa business full.,3.5,45,1
+PROMO_BASICA,Tarifa promo basica.,0.6,0,5
+PROMO_ESPECIAL,Tarifa promo especial.,0.7,15,4
+CORPORATE,Tarifa corporate.,1.8,30,2
+ESTUDANTE,Tarifa estudante.,0.75,20,4
+MILITAR,Tarifa militar.,0.85,25,3
+IDOSO,Tarifa idoso.,0.9,23,4
+FAMILIA,Tarifa familia.,1.1,25,3
+GRUPO,Tarifa grupo.,0.95,20,4
+ECONOMICA_LIGHT_1,Variante 1 da tarifa economica light.,1.05,4,4
+ECONOMICA_STANDARD_1,Variante 1 da tarifa economica standard.,1.25,19,3
+ECONOMICA_PLUS_1,Variante 1 da tarifa economica plus.,1.1,39,4
+ECONOMICA_FLEX_1,Variante 1 da tarifa economica flex.,1.66,26,4
+EXECUTIVA_LIGHT_1,Variante 1 da tarifa executiva light.,1.92,37,3
+EXECUTIVA_STANDARD_1,Variante 1 da tarifa executiva standard.,2.25,47,2
+EXECUTIVA_FLEX_1,Variante 1 da tarifa executiva flex.,2.82,40,1
+PRIMEIRA_CLASSE_1,Variante 1 da tarifa primeira classe.,4.06,55,3
+PRIMEIRA_FLEX_1,Variante 1 da tarifa primeira flex.,4.76,60,3
+PREMIUM_ECONOMY_1,Variante 1 da tarifa premium economy.,1.74,23,2
+BUSINESS_SAVER_1,Variante 1 da tarifa business saver.,1.96,32,1
+BUSINESS_FULL_1,Variante 1 da tarifa business full.,3.48,52,1
+PROMO_BASICA_1,Variante 1 da tarifa promo basica.,0.66,0,2
+PROMO_ESPECIAL_1,Variante 1 da tarifa promo especial.,0.6,19,4
+CORPORATE_1,Variante 1 da tarifa corporate.,1.91,26,2
+ESTUDANTE_1,Variante 1 da tarifa estudante.,0.55,15,4
+MILITAR_1,Variante 1 da tarifa militar.,0.98,31,2
+IDOSO_1,Variante 1 da tarifa idoso.,0.79,26,1
+FAMILIA_1,Variante 1 da tarifa familia.,1.21,20,1
+GRUPO_1,Variante 1 da tarifa grupo.,1.05,20,4
+ECONOMICA_LIGHT_2,Variante 2 da tarifa economica light.,1.04,6,1
+ECONOMICA_STANDARD_2,Variante 2 da tarifa economica standard.,0.71,31,1
+ECONOMICA_PLUS_2,Variante 2 da tarifa economica plus.,0.95,28,3
+ECONOMICA_FLEX_2,Variante 2 da tarifa economica flex.,1.23,30,3
+EXECUTIVA_LIGHT_2,Variante 2 da tarifa executiva light.,2.28,35,4
+EXECUTIVA_STANDARD_2,Variante 2 da tarifa executiva standard.,2.58,45,1
+EXECUTIVA_FLEX_2,Variante 2 da tarifa executiva flex.,2.96,36,4
+PRIMEIRA_CLASSE_2,Variante 2 da tarifa primeira classe.,3.76,59,2
+PRIMEIRA_FLEX_2,Variante 2 da tarifa primeira flex.,5.21,59,5
+PREMIUM_ECONOMY_2,Variante 2 da tarifa premium economy.,1.63,31,5
+BUSINESS_SAVER_2,Variante 2 da tarifa business saver.,2.3,30,2
+BUSINESS_FULL_2,Variante 2 da tarifa business full.,3.6,42,1
+PROMO_BASICA_2,Variante 2 da tarifa promo basica.,0.31,7,3
+PROMO_ESPECIAL_2,Variante 2 da tarifa promo especial.,0.97,16,3
+CORPORATE_2,Variante 2 da tarifa corporate.,1.96,25,2
+ESTUDANTE_2,Variante 2 da tarifa estudante.,0.86,18,1
+MILITAR_2,Variante 2 da tarifa militar.,0.72,24,1
+IDOSO_2,Variante 2 da tarifa idoso.,1.13,31,1
+FAMILIA_2,Variante 2 da tarifa familia.,1.1,29,1
+GRUPO_2,Variante 2 da tarifa grupo.,0.69,24,5
+ECONOMICA_LIGHT_3,Variante 3 da tarifa economica light.,1.05,2,3
+ECONOMICA_STANDARD_3,Variante 3 da tarifa economica standard.,1.23,23,5
+ECONOMICA_PLUS_3,Variante 3 da tarifa economica plus.,1.12,32,3
+ECONOMICA_FLEX_3,Variante 3 da tarifa economica flex.,1.51,35,2
+EXECUTIVA_LIGHT_3,Variante 3 da tarifa executiva light.,1.73,39,1
+EXECUTIVA_STANDARD_3,Variante 3 da tarifa executiva standard.,2.22,48,4
+EXECUTIVA_FLEX_3,Variante 3 da tarifa executiva flex.,3.04,35,1
+PRIMEIRA_CLASSE_3,Variante 3 da tarifa primeira classe.,3.94,58,5
+PRIMEIRA_FLEX_3,Variante 3 da tarifa primeira flex.,4.74,57,4
+PREMIUM_ECONOMY_3,Variante 3 da tarifa premium economy.,1.59,21,2
+BUSINESS_SAVER_3,Variante 3 da tarifa business saver.,2.5,38,2
+BUSINESS_FULL_3,Variante 3 da tarifa business full.,3.63,46,2
+PROMO_BASICA_3,Variante 3 da tarifa promo basica.,0.64,4,3
+PROMO_ESPECIAL_3,Variante 3 da tarifa promo especial.,0.75,21,2
+CORPORATE_3,Variante 3 da tarifa corporate.,1.51,37,4
+ESTUDANTE_3,Variante 3 da tarifa estudante.,0.73,20,3
+MILITAR_3,Variante 3 da tarifa militar.,0.75,26,2
+IDOSO_3,Variante 3 da tarifa idoso.,0.98,18,1
+FAMILIA_3,Variante 3 da tarifa familia.,1.1,32,3
+GRUPO_3,Variante 3 da tarifa grupo.,0.8,27,2
+ECONOMICA_LIGHT_4,Variante 4 da tarifa economica light.,0.67,9,5
+ECONOMICA_STANDARD_4,Variante 4 da tarifa economica standard.,0.85,19,2
+ECONOMICA_PLUS_4,Variante 4 da tarifa economica plus.,1.3,29,2
+ECONOMICA_FLEX_4,Variante 4 da tarifa economica flex.,1.57,34,3
+EXECUTIVA_LIGHT_4,Variante 4 da tarifa executiva light.,2.21,29,1
+EXECUTIVA_STANDARD_4,Variante 4 da tarifa executiva standard.,2.64,36,5
+EXECUTIVA_FLEX_4,Variante 4 da tarifa executiva flex.,2.72,48,1
+PRIMEIRA_CLASSE_4,Variante 4 da tarifa primeira classe.,3.91,45,5
+PRIMEIRA_FLEX_4,Variante 4 da tarifa primeira flex.,5.03,58,5
+PREMIUM_ECONOMY_4,Variante 4 da tarifa premium economy.,1.45,20,2
+BUSINESS_SAVER_4,Variante 4 da tarifa business saver.,2.43,33,1
+BUSINESS_FULL_4,Variante 4 da tarifa business full.,3.43,54,2
+PROMO_BASICA_4,Variante 4 da tarifa promo basica.,0.78,0,3
+PROMO_ESPECIAL_4,Variante 4 da tarifa promo especial.,0.94,20,4
+CORPORATE_4,Variante 4 da tarifa corporate.,1.7,39,3
+ESTUDANTE_4,Variante 4 da tarifa estudante.,0.96,20,1
+MILITAR_4,Variante 4 da tarifa militar.,0.65,33,3
+IDOSO_4,Variante 4 da tarifa idoso.,0.7,19,2
+FAMILIA_4,Variante 4 da tarifa familia.,1.37,27,4
+GRUPO_4,Variante 4 da tarifa grupo.,1.05,20,1
+ECONOMICA_LIGHT_5,Variante 5 da tarifa economica light.,1.03,0,4
+ECONOMICA_STANDARD_5,Variante 5 da tarifa economica standard.,0.92,23,1
+ECONOMICA_PLUS_5,Variante 5 da tarifa economica plus.,1.05,39,1
+ECONOMICA_FLEX_5,Variante 5 da tarifa economica flex.,1.52,29,1
+EXECUTIVA_LIGHT_5,Variante 5 da tarifa executiva light.,2.24,30,1
+EXECUTIVA_STANDARD_5,Variante 5 da tarifa executiva standard.,2.68,40,2
+EXECUTIVA_FLEX_5,Variante 5 da tarifa executiva flex.,3.13,35,2
+PRIMEIRA_CLASSE_5,Variante 5 da tarifa primeira classe.,3.81,50,1
+PRIMEIRA_FLEX_5,Variante 5 da tarifa primeira flex.,5.09,50,1
+PREMIUM_ECONOMY_5,Variante 5 da tarifa premium economy.,1.51,23,5
+BUSINESS_SAVER_5,Variante 5 da tarifa business saver.,2.24,45,1
+BUSINESS_FULL_5,Variante 5 da tarifa business full.,3.61,43,4
+PROMO_BASICA_5,Variante 5 da tarifa promo basica.,0.36,0,5
+PROMO_ESPECIAL_5,Variante 5 da tarifa promo especial.,0.66,21,3
+CORPORATE_5,Variante 5 da tarifa corporate.,1.83,27,5
+ESTUDANTE_5,Variante 5 da tarifa estudante.,0.98,29,4
+MILITAR_5,Variante 5 da tarifa militar.,0.65,23,4
+IDOSO_5,Variante 5 da tarifa idoso.,0.93,19,1
+FAMILIA_5,Variante 5 da tarifa familia.,1.25,30,2
+GRUPO_5,Variante 5 da tarifa grupo.,0.94,21,1
+ECONOMICA_LIGHT_6,Variante 6 da tarifa economica light.,0.83,7,5
+ECONOMICA_STANDARD_6,Variante 6 da tarifa economica standard.,1.27,33,2
+ECONOMICA_PLUS_6,Variante 6 da tarifa economica plus.,1.38,33,3
+ECONOMICA_FLEX_6,Variante 6 da tarifa economica flex.,1.68,34,1
+EXECUTIVA_LIGHT_6,Variante 6 da tarifa executiva light.,2.09,31,2
+EXECUTIVA_STANDARD_6,Variante 6 da tarifa executiva standard.,2.63,50,2
+EXECUTIVA_FLEX_6,Variante 6 da tarifa executiva flex.,2.7,40,5
+PRIMEIRA_CLASSE_6,Variante 6 da tarifa primeira classe.,3.83,54,5
+PRIMEIRA_FLEX_6,Variante 6 da tarifa primeira flex.,4.78,52,2
+PREMIUM_ECONOMY_6,Variante 6 da tarifa premium economy.,1.7,24,1
+BUSINESS_SAVER_6,Variante 6 da tarifa business saver.,2.05,38,3
+BUSINESS_FULL_6,Variante 6 da tarifa business full.,3.49,48,2
+PROMO_BASICA_6,Variante 6 da tarifa promo basica.,0.74,0,1
+PROMO_ESPECIAL_6,Variante 6 da tarifa promo especial.,0.65,21,5
+CORPORATE_6,Variante 6 da tarifa corporate.,1.86,31,1
+ESTUDANTE_6,Variante 6 da tarifa estudante.,0.85,15,2
+MILITAR_6,Variante 6 da tarifa militar.,0.57,26,1
+IDOSO_6,Variante 6 da tarifa idoso.,0.77,22,2
+FAMILIA_6,Variante 6 da tarifa familia.,1.31,24,4
+GRUPO_6,Variante 6 da tarifa grupo.,0.95,19,1
+ECONOMICA_LIGHT_7,Variante 7 da tarifa economica light.,0.65,1,1
+ECONOMICA_STANDARD_7,Variante 7 da tarifa economica standard.,1.24,22,5
+ECONOMICA_PLUS_7,Variante 7 da tarifa economica plus.,0.96,35,1
+ECONOMICA_FLEX_7,Variante 7 da tarifa economica flex.,1.34,37,2
+EXECUTIVA_LIGHT_7,Variante 7 da tarifa executiva light.,1.7,28,3
+EXECUTIVA_STANDARD_7,Variante 7 da tarifa executiva standard.,2.63,42,4
+EXECUTIVA_FLEX_7,Variante 7 da tarifa executiva flex.,2.97,46,4
+PRIMEIRA_CLASSE_7,Variante 7 da tarifa primeira classe.,4.24,48,5
+PRIMEIRA_FLEX_7,Variante 7 da tarifa primeira flex.,5.02,49,1
+PREMIUM_ECONOMY_7,Variante 7 da tarifa premium economy.,1.71,25,5
+BUSINESS_SAVER_7,Variante 7 da tarifa business saver.,1.95,32,4
+BUSINESS_FULL_7,Variante 7 da tarifa business full.,3.38,41,2
+PROMO_BASICA_7,Variante 7 da tarifa promo basica.,0.65,1,1
+PROMO_ESPECIAL_7,Variante 7 da tarifa promo especial.,0.97,10,3
+CORPORATE_7,Variante 7 da tarifa corporate.,1.65,33,1
+ESTUDANTE_7,Variante 7 da tarifa estudante.,0.82,27,2
+MILITAR_7,Variante 7 da tarifa militar.,0.64,22,2
+IDOSO_7,Variante 7 da tarifa idoso.,1.16,31,4
+FAMILIA_7,Variante 7 da tarifa familia.,0.81,21,3
+GRUPO_7,Variante 7 da tarifa grupo.,0.89,26,4
+ECONOMICA_LIGHT_8,Variante 8 da tarifa economica light.,1.0,7,4
+ECONOMICA_STANDARD_8,Variante 8 da tarifa economica standard.,1.27,19,4
+ECONOMICA_PLUS_8,Variante 8 da tarifa economica plus.,1.04,37,2
+ECONOMICA_FLEX_8,Variante 8 da tarifa economica flex.,1.15,37,3
+EXECUTIVA_LIGHT_8,Variante 8 da tarifa executiva light.,1.92,36,5
+EXECUTIVA_STANDARD_8,Variante 8 da tarifa executiva standard.,2.37,43,3
+EXECUTIVA_FLEX_8,Variante 8 da tarifa executiva flex.,3.09,49,4
+PRIMEIRA_CLASSE_8,Variante 8 da tarifa primeira classe.,3.93,51,3
+PRIMEIRA_FLEX_8,Variante 8 da tarifa primeira flex.,5.06,51,2
+PREMIUM_ECONOMY_8,Variante 8 da tarifa premium economy.,1.64,31,1
+BUSINESS_SAVER_8,Variante 8 da tarifa business saver.,2.08,42,2
+BUSINESS_FULL_8,Variante 8 da tarifa business full.,3.47,44,2
+PROMO_BASICA_8,Variante 8 da tarifa promo basica.,0.53,8,1
+PROMO_ESPECIAL_8,Variante 8 da tarifa promo especial.,0.45,14,3
+CORPORATE_8,Variante 8 da tarifa corporate.,1.63,38,2
+ESTUDANTE_8,Variante 8 da tarifa estudante.,1.0,25,5
+MILITAR_8,Variante 8 da tarifa militar.,0.97,28,2
+IDOSO_8,Variante 8 da tarifa idoso.,0.66,19,5
+FAMILIA_8,Variante 8 da tarifa familia.,1.24,23,5
+GRUPO_8,Variante 8 da tarifa grupo.,1.21,19,2
+ECONOMICA_LIGHT_9,Variante 9 da tarifa economica light.,0.93,0,5
+ECONOMICA_STANDARD_9,Variante 9 da tarifa economica standard.,1.04,30,3
+ECONOMICA_PLUS_9,Variante 9 da tarifa economica plus.,1.03,35,2
+ECONOMICA_FLEX_9,Variante 9 da tarifa economica flex.,1.63,34,4
+EXECUTIVA_LIGHT_9,Variante 9 da tarifa executiva light.,2.28,32,3
+EXECUTIVA_STANDARD_9,Variante 9 da tarifa executiva standard.,2.6,46,5
+EXECUTIVA_FLEX_9,Variante 9 da tarifa executiva flex.,2.84,42,3
+PRIMEIRA_CLASSE_9,Variante 9 da tarifa primeira classe.,4.27,46,2
+PRIMEIRA_FLEX_9,Variante 9 da tarifa primeira flex.,4.75,56,5
+PREMIUM_ECONOMY_9,Variante 9 da tarifa premium economy.,1.6,20,3
+BUSINESS_SAVER_9,Variante 9 da tarifa business saver.,2.49,38,3
+BUSINESS_FULL_9,Variante 9 da tarifa business full.,3.72,52,5
+PROMO_BASICA_9,Variante 9 da tarifa promo basica.,0.71,10,3
+PROMO_ESPECIAL_9,Variante 9 da tarifa promo especial.,0.88,22,5
+CORPORATE_9,Variante 9 da tarifa corporate.,1.93,33,3
+ESTUDANTE_9,Variante 9 da tarifa estudante.,1.02,26,2
+MILITAR_9,Variante 9 da tarifa militar.,0.81,35,3
+IDOSO_9,Variante 9 da tarifa idoso.,0.84,30,1
+FAMILIA_9,Variante 9 da tarifa familia.,1.06,28,2
+GRUPO_9,Variante 9 da tarifa grupo.,0.7,25,3
+ECONOMICA_LIGHT_10,Variante 10 da tarifa economica light.,0.72,0,5
+ECONOMICA_STANDARD_10,Variante 10 da tarifa economica standard.,0.9,27,5
+ECONOMICA_PLUS_10,Variante 10 da tarifa economica plus.,0.95,35,2
+ECONOMICA_FLEX_10,Variante 10 da tarifa economica flex.,1.56,29,3
+EXECUTIVA_LIGHT_10,Variante 10 da tarifa executiva light.,2.17,38,5
+EXECUTIVA_STANDARD_10,Variante 10 da tarifa executiva standard.,2.43,44,4
+EXECUTIVA_FLEX_10,Variante 10 da tarifa executiva flex.,2.81,42,1
+PRIMEIRA_CLASSE_10,Variante 10 da tarifa primeira classe.,3.97,53,2
+PRIMEIRA_FLEX_10,Variante 10 da tarifa primeira flex.,4.84,48,3
+PREMIUM_ECONOMY_10,Variante 10 da tarifa premium economy.,1.41,23,3
+BUSINESS_SAVER_10,Variante 10 da tarifa business saver.,1.93,38,5
+BUSINESS_FULL_10,Variante 10 da tarifa business full.,3.55,47,2
+PROMO_BASICA_10,Variante 10 da tarifa promo basica.,0.86,0,3
+PROMO_ESPECIAL_10,Variante 10 da tarifa promo especial.,0.87,19,2
+CORPORATE_10,Variante 10 da tarifa corporate.,1.93,26,4
+ESTUDANTE_10,Variante 10 da tarifa estudante.,0.79,22,4
+MILITAR_10,Variante 10 da tarifa militar.,0.69,20,1
+IDOSO_10,Variante 10 da tarifa idoso.,0.92,21,4
+FAMILIA_10,Variante 10 da tarifa familia.,1.36,31,2
+GRUPO_10,Variante 10 da tarifa grupo.,0.74,18,1
+ECONOMICA_LIGHT_11,Variante 11 da tarifa economica light.,0.72,9,1
+ECONOMICA_STANDARD_11,Variante 11 da tarifa economica standard.,1.25,26,3
+ECONOMICA_PLUS_11,Variante 11 da tarifa economica plus.,0.99,36,3
+ECONOMICA_FLEX_11,Variante 11 da tarifa economica flex.,1.54,30,4
+EXECUTIVA_LIGHT_11,Variante 11 da tarifa executiva light.,2.23,41,3
+EXECUTIVA_STANDARD_11,Variante 11 da tarifa executiva standard.,2.36,50,1
+EXECUTIVA_FLEX_11,Variante 11 da tarifa executiva flex.,2.77,41,2
+PRIMEIRA_CLASSE_11,Variante 11 da tarifa primeira classe.,4.22,45,5
+PRIMEIRA_FLEX_11,Variante 11 da tarifa primeira flex.,4.95,55,2
+PREMIUM_ECONOMY_11,Variante 11 da tarifa premium economy.,1.43,34,4
+BUSINESS_SAVER_11,Variante 11 da tarifa business saver.,2.17,43,4
+BUSINESS_FULL_11,Variante 11 da tarifa business full.,3.61,53,2
+PROMO_BASICA_11,Variante 11 da tarifa promo basica.,0.42,0,1
+PROMO_ESPECIAL_11,Variante 11 da tarifa promo especial.,0.57,11,1
+CORPORATE_11,Variante 11 da tarifa corporate.,2.06,36,2
+ESTUDANTE_11,Variante 11 da tarifa estudante.,0.94,17,1
+MILITAR_11,Variante 11 da tarifa militar.,1.11,31,3
+IDOSO_11,Variante 11 da tarifa idoso.,0.99,19,1
+FAMILIA_11,Variante 11 da tarifa familia.,0.82,24,4
+GRUPO_11,Variante 11 da tarifa grupo.,1.16,20,2
+ECONOMICA_LIGHT_12,Variante 12 da tarifa economica light.,0.54,0,3
+ECONOMICA_STANDARD_12,Variante 12 da tarifa economica standard.,0.98,24,1
+ECONOMICA_PLUS_12,Variante 12 da tarifa economica plus.,1.16,34,2
+ECONOMICA_FLEX_12,Variante 12 da tarifa economica flex.,1.68,28,2
+EXECUTIVA_LIGHT_12,Variante 12 da tarifa executiva light.,2.16,29,4
+EXECUTIVA_STANDARD_12,Variante 12 da tarifa executiva standard.,2.8,36,2
+EXECUTIVA_FLEX_12,Variante 12 da tarifa executiva flex.,2.77,47,5
+PRIMEIRA_CLASSE_12,Variante 12 da tarifa primeira classe.,3.91,49,5
+PRIMEIRA_FLEX_12,Variante 12 da tarifa primeira flex.,5.17,50,1
+PREMIUM_ECONOMY_12,Variante 12 da tarifa premium economy.,1.66,25,5
+BUSINESS_SAVER_12,Variante 12 da tarifa business saver.,2.34,45,2
+BUSINESS_FULL_12,Variante 12 da tarifa business full.,3.41,51,5
+PROMO_BASICA_12,Variante 12 da tarifa promo basica.,0.51,1,2
+PROMO_ESPECIAL_12,Variante 12 da tarifa promo especial.,0.49,14,4
+CORPORATE_12,Variante 12 da tarifa corporate.,1.64,31,5
+ESTUDANTE_12,Variante 12 da tarifa estudante.,0.81,20,1
+MILITAR_12,Variante 12 da tarifa militar.,0.72,35,2
+IDOSO_12,Variante 12 da tarifa idoso.,1.07,25,2
+FAMILIA_12,Variante 12 da tarifa familia.,0.94,33,1
+GRUPO_12,Variante 12 da tarifa grupo.,0.95,16,4
+ECONOMICA_LIGHT_13,Variante 13 da tarifa economica light.,0.74,0,5
+ECONOMICA_STANDARD_13,Variante 13 da tarifa economica standard.,1.29,19,5
+ECONOMICA_PLUS_13,Variante 13 da tarifa economica plus.,1.01,40,1
+ECONOMICA_FLEX_13,Variante 13 da tarifa economica flex.,1.56,30,2
+EXECUTIVA_LIGHT_13,Variante 13 da tarifa executiva light.,1.93,30,1
+EXECUTIVA_STANDARD_13,Variante 13 da tarifa executiva standard.,2.49,39,4
+EXECUTIVA_FLEX_13,Variante 13 da tarifa executiva flex.,2.76,42,5
+PRIMEIRA_CLASSE_13,Variante 13 da tarifa primeira classe.,4.11,50,1
+PRIMEIRA_FLEX_13,Variante 13 da tarifa primeira flex.,5.28,60,4
+PREMIUM_ECONOMY_13,Variante 13 da tarifa premium economy.,1.85,28,5
+BUSINESS_SAVER_13,Variante 13 da tarifa business saver.,2.42,42,4
+BUSINESS_FULL_13,Variante 13 da tarifa business full.,3.32,54,3
+PROMO_BASICA_13,Variante 13 da tarifa promo basica.,0.38,1,2
+PROMO_ESPECIAL_13,Variante 13 da tarifa promo especial.,0.99,14,2
+CORPORATE_13,Variante 13 da tarifa corporate.,2.07,25,1
+ESTUDANTE_13,Variante 13 da tarifa estudante.,0.9,24,3
+MILITAR_13,Variante 13 da tarifa militar.,1.15,31,5
+IDOSO_13,Variante 13 da tarifa idoso.,1.19,22,2
+FAMILIA_13,Variante 13 da tarifa familia.,0.91,31,4
+GRUPO_13,Variante 13 da tarifa grupo.,0.68,20,5
+ECONOMICA_LIGHT_14,Variante 14 da tarifa economica light.,1.1,5,2
+ECONOMICA_STANDARD_14,Variante 14 da tarifa economica standard.,0.92,19,4
+ECONOMICA_PLUS_14,Variante 14 da tarifa economica plus.,1.05,40,2
+ECONOMICA_FLEX_14,Variante 14 da tarifa economica flex.,1.14,28,5
+EXECUTIVA_LIGHT_14,Variante 14 da tarifa executiva light.,1.73,39,4
+EXECUTIVA_STANDARD_14,Variante 14 da tarifa executiva standard.,2.37,42,1
+EXECUTIVA_FLEX_14,Variante 14 da tarifa executiva flex.,2.99,45,2
+PRIMEIRA_CLASSE_14,Variante 14 da tarifa primeira classe.,4.21,54,1
+PRIMEIRA_FLEX_14,Variante 14 da tarifa primeira flex.,5.09,55,2
+PREMIUM_ECONOMY_14,Variante 14 da tarifa premium economy.,1.31,22,2
+BUSINESS_SAVER_14,Variante 14 da tarifa business saver.,2.36,35,4
+BUSINESS_FULL_14,Variante 14 da tarifa business full.,3.6,49,4
+PROMO_BASICA_14,Variante 14 da tarifa promo basica.,0.44,10,3
+PROMO_ESPECIAL_14,Variante 14 da tarifa promo especial.,0.63,20,3
+CORPORATE_14,Variante 14 da tarifa corporate.,1.97,26,3
+ESTUDANTE_14,Variante 14 da tarifa estudante.,0.64,17,2
+MILITAR_14,Variante 14 da tarifa militar.,1.11,22,3
+IDOSO_14,Variante 14 da tarifa idoso.,0.65,26,1
+FAMILIA_14,Variante 14 da tarifa familia.,0.85,30,3
+GRUPO_14,Variante 14 da tarifa grupo.,0.91,15,5
+ECONOMICA_LIGHT_15,Variante 15 da tarifa economica light.,1.06,0,5
+ECONOMICA_STANDARD_15,Variante 15 da tarifa economica standard.,1.13,24,5
+ECONOMICA_PLUS_15,Variante 15 da tarifa economica plus.,1.09,40,3
+ECONOMICA_FLEX_15,Variante 15 da tarifa economica flex.,1.58,26,4
+EXECUTIVA_LIGHT_15,Variante 15 da tarifa executiva light.,2.18,31,1
+EXECUTIVA_STANDARD_15,Variante 15 da tarifa executiva standard.,2.35,48,2
+EXECUTIVA_FLEX_15,Variante 15 da tarifa executiva flex.,3.1,37,5
+PRIMEIRA_CLASSE_15,Variante 15 da tarifa primeira classe.,4.22,60,1
+PRIMEIRA_FLEX_15,Variante 15 da tarifa primeira flex.,4.78,47,2
+PREMIUM_ECONOMY_15,Variante 15 da tarifa premium economy.,1.48,26,5
+BUSINESS_SAVER_15,Variante 15 da tarifa business saver.,2.05,43,5
+BUSINESS_FULL_15,Variante 15 da tarifa business full.,3.44,54,4
+PROMO_BASICA_15,Variante 15 da tarifa promo basica.,0.32,10,2
+PROMO_ESPECIAL_15,Variante 15 da tarifa promo especial.,0.44,23,4
+CORPORATE_15,Variante 15 da tarifa corporate.,2.04,32,1
+ESTUDANTE_15,Variante 15 da tarifa estudante.,0.93,20,2
+MILITAR_15,Variante 15 da tarifa militar.,0.81,32,1
+IDOSO_15,Variante 15 da tarifa idoso.,0.88,28,5
+FAMILIA_15,Variante 15 da tarifa familia.,1.38,35,5
+GRUPO_15,Variante 15 da tarifa grupo.,0.9,22,2
+ECONOMICA_LIGHT_16,Variante 16 da tarifa economica light.,1.06,4,2
+ECONOMICA_STANDARD_16,Variante 16 da tarifa economica standard.,0.77,20,4
+ECONOMICA_PLUS_16,Variante 16 da tarifa economica plus.,1.1,31,1
+ECONOMICA_FLEX_16,Variante 16 da tarifa economica flex.,1.67,35,2
+EXECUTIVA_LIGHT_16,Variante 16 da tarifa executiva light.,1.84,31,1
+EXECUTIVA_STANDARD_16,Variante 16 da tarifa executiva standard.,2.3,37,3
+EXECUTIVA_FLEX_16,Variante 16 da tarifa executiva flex.,3.21,46,4
+PRIMEIRA_CLASSE_16,Variante 16 da tarifa primeira classe.,4.18,53,3
+PRIMEIRA_FLEX_16,Variante 16 da tarifa primeira flex.,5.04,59,3
+PREMIUM_ECONOMY_16,Variante 16 da tarifa premium economy.,1.59,21,1
+BUSINESS_SAVER_16,Variante 16 da tarifa business saver.,1.98,44,4
+BUSINESS_FULL_16,Variante 16 da tarifa business full.,3.38,53,4
+PROMO_BASICA_16,Variante 16 da tarifa promo basica.,0.54,9,5
+PROMO_ESPECIAL_16,Variante 16 da tarifa promo especial.,0.67,19,1
+CORPORATE_16,Variante 16 da tarifa corporate.,1.75,31,4
+ESTUDANTE_16,Variante 16 da tarifa estudante.,0.98,28,1
+MILITAR_16,Variante 16 da tarifa militar.,0.7,30,1
+IDOSO_16,Variante 16 da tarifa idoso.,0.61,25,3
+FAMILIA_16,Variante 16 da tarifa familia.,0.99,27,4
+GRUPO_16,Variante 16 da tarifa grupo.,0.77,27,3
+ECONOMICA_LIGHT_17,Variante 17 da tarifa economica light.,0.84,0,4
+ECONOMICA_STANDARD_17,Variante 17 da tarifa economica standard.,0.96,21,5
+ECONOMICA_PLUS_17,Variante 17 da tarifa economica plus.,1.29,29,5
+ECONOMICA_FLEX_17,Variante 17 da tarifa economica flex.,1.52,32,3
+EXECUTIVA_LIGHT_17,Variante 17 da tarifa executiva light.,1.82,38,5
+EXECUTIVA_STANDARD_17,Variante 17 da tarifa executiva standard.,2.48,35,2
+EXECUTIVA_FLEX_17,Variante 17 da tarifa executiva flex.,2.92,38,2
+PRIMEIRA_CLASSE_17,Variante 17 da tarifa primeira classe.,4.02,59,4
+PRIMEIRA_FLEX_17,Variante 17 da tarifa primeira flex.,5.1,58,3
+PREMIUM_ECONOMY_17,Variante 17 da tarifa premium economy.,1.44,22,3
+BUSINESS_SAVER_17,Variante 17 da tarifa business saver.,2.27,40,5
+BUSINESS_FULL_17,Variante 17 da tarifa business full.,3.44,49,4
+PROMO_BASICA_17,Variante 17 da tarifa promo basica.,0.69,2,3
+PROMO_ESPECIAL_17,Variante 17 da tarifa promo especial.,0.98,18,3
+CORPORATE_17,Variante 17 da tarifa corporate.,1.95,34,3
+ESTUDANTE_17,Variante 17 da tarifa estudante.,0.92,24,5
+MILITAR_17,Variante 17 da tarifa militar.,0.62,27,5
+IDOSO_17,Variante 17 da tarifa idoso.,0.75,26,3
+FAMILIA_17,Variante 17 da tarifa familia.,1.15,29,2
+GRUPO_17,Variante 17 da tarifa grupo.,0.99,23,4
+ECONOMICA_LIGHT_18,Variante 18 da tarifa economica light.,0.66,0,2
+ECONOMICA_STANDARD_18,Variante 18 da tarifa economica standard.,0.83,28,5
+ECONOMICA_PLUS_18,Variante 18 da tarifa economica plus.,1.15,40,2
+ECONOMICA_FLEX_18,Variante 18 da tarifa economica flex.,1.69,33,1
+EXECUTIVA_LIGHT_18,Variante 18 da tarifa executiva light.,1.85,30,1
+EXECUTIVA_STANDARD_18,Variante 18 da tarifa executiva standard.,2.8,49,2
+EXECUTIVA_FLEX_18,Variante 18 da tarifa executiva flex.,2.74,40,1
+PRIMEIRA_CLASSE_18,Variante 18 da tarifa primeira classe.,4.22,46,4
+PRIMEIRA_FLEX_18,Variante 18 da tarifa primeira flex.,4.9,56,2
+PREMIUM_ECONOMY_18,Variante 18 da tarifa premium economy.,1.47,33,3
+BUSINESS_SAVER_18,Variante 18 da tarifa business saver.,2.1,34,2
+BUSINESS_FULL_18,Variante 18 da tarifa business full.,3.22,40,1
+PROMO_BASICA_18,Variante 18 da tarifa promo basica.,0.48,8,3
+PROMO_ESPECIAL_18,Variante 18 da tarifa promo especial.,0.63,12,2
+CORPORATE_18,Variante 18 da tarifa corporate.,1.93,32,5
+ESTUDANTE_18,Variante 18 da tarifa estudante.,0.48,15,2
+MILITAR_18,Variante 18 da tarifa militar.,1.09,31,1
+IDOSO_18,Variante 18 da tarifa idoso.,0.68,21,2
+FAMILIA_18,Variante 18 da tarifa familia.,1.24,34,3
+GRUPO_18,Variante 18 da tarifa grupo.,1.17,26,5
+ECONOMICA_LIGHT_19,Variante 19 da tarifa economica light.,0.92,7,2
+ECONOMICA_STANDARD_19,Variante 19 da tarifa economica standard.,0.9,28,4
+ECONOMICA_PLUS_19,Variante 19 da tarifa economica plus.,1.48,38,1
+ECONOMICA_FLEX_19,Variante 19 da tarifa economica flex.,1.65,31,1
+EXECUTIVA_LIGHT_19,Variante 19 da tarifa executiva light.,1.86,38,5
+EXECUTIVA_STANDARD_19,Variante 19 da tarifa executiva standard.,2.38,43,3
+EXECUTIVA_FLEX_19,Variante 19 da tarifa executiva flex.,2.94,42,1
+PRIMEIRA_CLASSE_19,Variante 19 da tarifa primeira classe.,3.74,56,1
+PRIMEIRA_FLEX_19,Variante 19 da tarifa primeira flex.,5.23,54,2
+PREMIUM_ECONOMY_19,Variante 19 da tarifa premium economy.,1.41,33,2
+BUSINESS_SAVER_19,Variante 19 da tarifa business saver.,2.46,34,1
+BUSINESS_FULL_19,Variante 19 da tarifa business full.,3.71,46,3
+PROMO_BASICA_19,Variante 19 da tarifa promo basica.,0.57,0,3
+PROMO_ESPECIAL_19,Variante 19 da tarifa promo especial.,0.64,13,1
+CORPORATE_19,Variante 19 da tarifa corporate.,1.68,39,5
+ESTUDANTE_19,Variante 19 da tarifa estudante.,0.7,27,5
+MILITAR_19,Variante 19 da tarifa militar.,1.05,21,5
+IDOSO_19,Variante 19 da tarifa idoso.,1.07,28,2
+FAMILIA_19,Variante 19 da tarifa familia.,1.14,28,4
+GRUPO_19,Variante 19 da tarifa grupo.,1.1,16,2
+ECONOMICA_LIGHT_20,Variante 20 da tarifa economica light.,1.03,0,4
+ECONOMICA_STANDARD_20,Variante 20 da tarifa economica standard.,0.96,27,1
+ECONOMICA_PLUS_20,Variante 20 da tarifa economica plus.,1.18,31,1
+ECONOMICA_FLEX_20,Variante 20 da tarifa economica flex.,1.28,35,1
+EXECUTIVA_LIGHT_20,Variante 20 da tarifa executiva light.,1.79,38,1
+EXECUTIVA_STANDARD_20,Variante 20 da tarifa executiva standard.,2.3,43,4
+EXECUTIVA_FLEX_20,Variante 20 da tarifa executiva flex.,2.93,40,4
+PRIMEIRA_CLASSE_20,Variante 20 da tarifa primeira classe.,4.15,50,2
+PRIMEIRA_FLEX_20,Variante 20 da tarifa primeira flex.,4.82,49,5
+PREMIUM_ECONOMY_20,Variante 20 da tarifa premium economy.,1.78,20,2
+BUSINESS_SAVER_20,Variante 20 da tarifa business saver.,1.91,40,4
+BUSINESS_FULL_20,Variante 20 da tarifa business full.,3.54,43,2
+PROMO_BASICA_20,Variante 20 da tarifa promo basica.,0.42,0,2
+PROMO_ESPECIAL_20,Variante 20 da tarifa promo especial.,0.41,16,3
+CORPORATE_20,Variante 20 da tarifa corporate.,1.74,39,1
+ESTUDANTE_20,Variante 20 da tarifa estudante.,0.89,18,4
+MILITAR_20,Variante 20 da tarifa militar.,1.02,31,1
+IDOSO_20,Variante 20 da tarifa idoso.,0.86,31,2
+FAMILIA_20,Variante 20 da tarifa familia.,1.27,31,3
+GRUPO_20,Variante 20 da tarifa grupo.,0.8,16,2
+ECONOMICA_LIGHT_21,Variante 21 da tarifa economica light.,0.67,6,2
+ECONOMICA_STANDARD_21,Variante 21 da tarifa economica standard.,0.73,23,2
+ECONOMICA_PLUS_21,Variante 21 da tarifa economica plus.,1.34,33,4
+ECONOMICA_FLEX_21,Variante 21 da tarifa economica flex.,1.2,25,2
+EXECUTIVA_LIGHT_21,Variante 21 da tarifa executiva light.,1.86,31,1
+EXECUTIVA_STANDARD_21,Variante 21 da tarifa executiva standard.,2.28,44,4
+EXECUTIVA_FLEX_21,Variante 21 da tarifa executiva flex.,2.74,35,1
+PRIMEIRA_CLASSE_21,Variante 21 da tarifa primeira classe.,3.97,50,2
+PRIMEIRA_FLEX_21,Variante 21 da tarifa primeira flex.,5.1,49,3
+PREMIUM_ECONOMY_21,Variante 21 da tarifa premium economy.,1.33,31,1
+BUSINESS_SAVER_21,Variante 21 da tarifa business saver.,2.16,43,3
+BUSINESS_FULL_21,Variante 21 da tarifa business full.,3.6,54,1
+PROMO_BASICA_21,Variante 21 da tarifa promo basica.,0.8,10,4
+PROMO_ESPECIAL_21,Variante 21 da tarifa promo especial.,0.59,18,4
+CORPORATE_21,Variante 21 da tarifa corporate.,1.56,30,3
+ESTUDANTE_21,Variante 21 da tarifa estudante.,0.48,26,5
+MILITAR_21,Variante 21 da tarifa militar.,0.69,34,2
+IDOSO_21,Variante 21 da tarifa idoso.,1.07,33,2
+FAMILIA_21,Variante 21 da tarifa familia.,1.0,22,2
+GRUPO_21,Variante 21 da tarifa grupo.,0.74,16,5
+ECONOMICA_LIGHT_22,Variante 22 da tarifa economica light.,0.97,5,4
+ECONOMICA_STANDARD_22,Variante 22 da tarifa economica standard.,0.94,27,3
+ECONOMICA_PLUS_22,Variante 22 da tarifa economica plus.,1.45,29,2
+ECONOMICA_FLEX_22,Variante 22 da tarifa economica flex.,1.39,31,4
+EXECUTIVA_LIGHT_22,Variante 22 da tarifa executiva light.,2.04,29,2
+EXECUTIVA_STANDARD_22,Variante 22 da tarifa executiva standard.,2.26,37,1
+EXECUTIVA_FLEX_22,Variante 22 da tarifa executiva flex.,3.29,38,5
+PRIMEIRA_CLASSE_22,Variante 22 da tarifa primeira classe.,3.97,46,2
+PRIMEIRA_FLEX_22,Variante 22 da tarifa primeira flex.,5.12,58,5
+PREMIUM_ECONOMY_22,Variante 22 da tarifa premium economy.,1.33,22,4
+BUSINESS_SAVER_22,Variante 22 da tarifa business saver.,2.41,45,3
+BUSINESS_FULL_22,Variante 22 da tarifa business full.,3.62,47,5
+PROMO_BASICA_22,Variante 22 da tarifa promo basica.,0.39,0,5
+PROMO_ESPECIAL_22,Variante 22 da tarifa promo especial.,0.98,18,3
+CORPORATE_22,Variante 22 da tarifa corporate.,1.61,35,1
+ESTUDANTE_22,Variante 22 da tarifa estudante.,0.75,20,2
+MILITAR_22,Variante 22 da tarifa militar.,0.64,35,4
+IDOSO_22,Variante 22 da tarifa idoso.,1.05,25,2
+FAMILIA_22,Variante 22 da tarifa familia.,1.13,25,2
+GRUPO_22,Variante 22 da tarifa grupo.,0.66,24,2
+ECONOMICA_LIGHT_23,Variante 23 da tarifa economica light.,0.59,7,2
+ECONOMICA_STANDARD_23,Variante 23 da tarifa economica standard.,0.93,28,3
+ECONOMICA_PLUS_23,Variante 23 da tarifa economica plus.,1.25,37,2
+ECONOMICA_FLEX_23,Variante 23 da tarifa economica flex.,1.65,25,5
+EXECUTIVA_LIGHT_23,Variante 23 da tarifa executiva light.,2.19,33,3
+EXECUTIVA_STANDARD_23,Variante 23 da tarifa executiva standard.,2.38,49,1
+EXECUTIVA_FLEX_23,Variante 23 da tarifa executiva flex.,2.88,50,5
+PRIMEIRA_CLASSE_23,Variante 23 da tarifa primeira classe.,4.06,55,1
+PRIMEIRA_FLEX_23,Variante 23 da tarifa primeira flex.,4.86,45,2
+PREMIUM_ECONOMY_23,Variante 23 da tarifa premium economy.,1.31,31,5
+BUSINESS_SAVER_23,Variante 23 da tarifa business saver.,2.31,41,1
+BUSINESS_FULL_23,Variante 23 da tarifa business full.,3.57,50,2
+PROMO_BASICA_23,Variante 23 da tarifa promo basica.,0.77,9,4
+PROMO_ESPECIAL_23,Variante 23 da tarifa promo especial.,0.55,15,4
+CORPORATE_23,Variante 23 da tarifa corporate.,1.76,31,2
+ESTUDANTE_23,Variante 23 da tarifa estudante.,1.02,25,4
+MILITAR_23,Variante 23 da tarifa militar.,0.69,25,4
+IDOSO_23,Variante 23 da tarifa idoso.,1.15,33,3
+FAMILIA_23,Variante 23 da tarifa familia.,1.28,25,3
+GRUPO_23,Variante 23 da tarifa grupo.,0.99,15,4
+ECONOMICA_LIGHT_24,Variante 24 da tarifa economica light.,0.55,7,3
+ECONOMICA_STANDARD_24,Variante 24 da tarifa economica standard.,1.03,22,5
+ECONOMICA_PLUS_24,Variante 24 da tarifa economica plus.,0.98,36,5
+ECONOMICA_FLEX_24,Variante 24 da tarifa economica flex.,1.54,30,2
+EXECUTIVA_LIGHT_24,Variante 24 da tarifa executiva light.,2.06,30,1
+EXECUTIVA_STANDARD_24,Variante 24 da tarifa executiva standard.,2.39,48,2
+EXECUTIVA_FLEX_24,Variante 24 da tarifa executiva flex.,2.73,45,3
+PRIMEIRA_CLASSE_24,Variante 24 da tarifa primeira classe.,4.15,57,2
+PRIMEIRA_FLEX_24,Variante 24 da tarifa primeira flex.,4.96,59,2
+PREMIUM_ECONOMY_24,Variante 24 da tarifa premium economy.,1.69,25,5
+BUSINESS_SAVER_24,Variante 24 da tarifa business saver.,2.33,35,1
+BUSINESS_FULL_24,Variante 24 da tarifa business full.,3.46,42,3
+PROMO_BASICA_24,Variante 24 da tarifa promo basica.,0.7,0,5
+PROMO_ESPECIAL_24,Variante 24 da tarifa promo especial.,0.6,16,2
+CORPORATE_24,Variante 24 da tarifa corporate.,1.93,32,5
+ESTUDANTE_24,Variante 24 da tarifa estudante.,0.91,16,1
+MILITAR_24,Variante 24 da tarifa militar.,0.71,27,2
+IDOSO_24,Variante 24 da tarifa idoso.,0.64,20,2
+FAMILIA_24,Variante 24 da tarifa familia.,1.31,23,2
+GRUPO_24,Variante 24 da tarifa grupo.,1.12,26,3
+ECONOMICA_LIGHT_25,Variante 25 da tarifa economica light.,0.81,0,3
+ECONOMICA_STANDARD_25,Variante 25 da tarifa economica standard.,1.02,31,5
+ECONOMICA_PLUS_25,Variante 25 da tarifa economica plus.,1.15,40,4
+ECONOMICA_FLEX_25,Variante 25 da tarifa economica flex.,1.28,25,1
+EXECUTIVA_LIGHT_25,Variante 25 da tarifa executiva light.,2.16,30,5
+EXECUTIVA_STANDARD_25,Variante 25 da tarifa executiva standard.,2.4,36,4
+EXECUTIVA_FLEX_25,Variante 25 da tarifa executiva flex.,2.89,44,2
+PRIMEIRA_CLASSE_25,Variante 25 da tarifa primeira classe.,4.2,45,1
+PRIMEIRA_FLEX_25,Variante 25 da tarifa primeira flex.,5.18,50,5
+PREMIUM_ECONOMY_25,Variante 25 da tarifa premium economy.,1.86,35,4
+BUSINESS_SAVER_25,Variante 25 da tarifa business saver.,2.28,45,2
+BUSINESS_FULL_25,Variante 25 da tarifa business full.,3.7,50,4
+PROMO_BASICA_25,Variante 25 da tarifa promo basica.,0.68,4,4
+PROMO_ESPECIAL_25,Variante 25 da tarifa promo especial.,0.85,13,5
+CORPORATE_25,Variante 25 da tarifa corporate.,1.76,29,2
+ESTUDANTE_25,Variante 25 da tarifa estudante.,0.63,20,1
+MILITAR_25,Variante 25 da tarifa militar.,0.92,33,2
+IDOSO_25,Variante 25 da tarifa idoso.,0.71,24,2
+FAMILIA_25,Variante 25 da tarifa familia.,0.81,22,1
+GRUPO_25,Variante 25 da tarifa grupo.,0.82,23,5
+ECONOMICA_LIGHT_26,Variante 26 da tarifa economica light.,0.63,0,3
+ECONOMICA_STANDARD_26,Variante 26 da tarifa economica standard.,1.14,21,1
+ECONOMICA_PLUS_26,Variante 26 da tarifa economica plus.,1.18,39,2
+ECONOMICA_FLEX_26,Variante 26 da tarifa economica flex.,1.6,38,5
+EXECUTIVA_LIGHT_26,Variante 26 da tarifa executiva light.,2.07,35,5
+EXECUTIVA_STANDARD_26,Variante 26 da tarifa executiva standard.,2.61,38,2
+EXECUTIVA_FLEX_26,Variante 26 da tarifa executiva flex.,3.01,41,1
+PRIMEIRA_CLASSE_26,Variante 26 da tarifa primeira classe.,4.14,45,1
+PRIMEIRA_FLEX_26,Variante 26 da tarifa primeira flex.,4.83,58,4
+PREMIUM_ECONOMY_26,Variante 26 da tarifa premium economy.,1.55,25,1
+BUSINESS_SAVER_26,Variante 26 da tarifa business saver.,1.94,41,2
+BUSINESS_FULL_26,Variante 26 da tarifa business full.,3.65,50,2
+PROMO_BASICA_26,Variante 26 da tarifa promo basica.,0.63,1,1
+PROMO_ESPECIAL_26,Variante 26 da tarifa promo especial.,0.4,11,3
+CORPORATE_26,Variante 26 da tarifa corporate.,1.99,33,2
+ESTUDANTE_26,Variante 26 da tarifa estudante.,0.98,22,5
+MILITAR_26,Variante 26 da tarifa militar.,0.98,31,5
+IDOSO_26,Variante 26 da tarifa idoso.,1.01,31,5
+FAMILIA_26,Variante 26 da tarifa familia.,0.9,21,1
+GRUPO_26,Variante 26 da tarifa grupo.,0.92,28,2
+ECONOMICA_LIGHT_27,Variante 27 da tarifa economica light.,0.99,8,2
+ECONOMICA_STANDARD_27,Variante 27 da tarifa economica standard.,1.21,23,5
+ECONOMICA_PLUS_27,Variante 27 da tarifa economica plus.,1.5,31,5
+ECONOMICA_FLEX_27,Variante 27 da tarifa economica flex.,1.47,37,2
+EXECUTIVA_LIGHT_27,Variante 27 da tarifa executiva light.,1.83,42,4
+EXECUTIVA_STANDARD_27,Variante 27 da tarifa executiva standard.,2.74,37,5
+EXECUTIVA_FLEX_27,Variante 27 da tarifa executiva flex.,2.9,38,5
+PRIMEIRA_CLASSE_27,Variante 27 da tarifa primeira classe.,4.25,57,2
+PRIMEIRA_FLEX_27,Variante 27 da tarifa primeira flex.,4.94,48,2
+PREMIUM_ECONOMY_27,Variante 27 da tarifa premium economy.,1.56,29,1
+BUSINESS_SAVER_27,Variante 27 da tarifa business saver.,1.9,32,2
+BUSINESS_FULL_27,Variante 27 da tarifa business full.,3.29,45,2
+PROMO_BASICA_27,Variante 27 da tarifa promo basica.,0.84,0,1
+PROMO_ESPECIAL_27,Variante 27 da tarifa promo especial.,0.8,17,3
+CORPORATE_27,Variante 27 da tarifa corporate.,2.04,39,5
+ESTUDANTE_27,Variante 27 da tarifa estudante.,0.89,17,5
+MILITAR_27,Variante 27 da tarifa militar.,0.84,20,4
+IDOSO_27,Variante 27 da tarifa idoso.,1.17,33,4
+FAMILIA_27,Variante 27 da tarifa familia.,1.03,21,4
+GRUPO_27,Variante 27 da tarifa grupo.,1.1,26,5
+ECONOMICA_LIGHT_28,Variante 28 da tarifa economica light.,0.6,0,3
+ECONOMICA_STANDARD_28,Variante 28 da tarifa economica standard.,0.85,20,5
+ECONOMICA_PLUS_28,Variante 28 da tarifa economica plus.,0.98,39,4
+ECONOMICA_FLEX_28,Variante 28 da tarifa economica flex.,1.17,28,3
+EXECUTIVA_LIGHT_28,Variante 28 da tarifa executiva light.,2.28,40,5
+EXECUTIVA_STANDARD_28,Variante 28 da tarifa executiva standard.,2.71,42,5
+EXECUTIVA_FLEX_28,Variante 28 da tarifa executiva flex.,3.12,46,4
+PRIMEIRA_CLASSE_28,Variante 28 da tarifa primeira classe.,3.81,45,2
+PRIMEIRA_FLEX_28,Variante 28 da tarifa primeira flex.,5.12,57,3
+PREMIUM_ECONOMY_28,Variante 28 da tarifa premium economy.,1.72,32,5
+BUSINESS_SAVER_28,Variante 28 da tarifa business saver.,2.13,35,5
+BUSINESS_FULL_28,Variante 28 da tarifa business full.,3.72,43,2
+PROMO_BASICA_28,Variante 28 da tarifa promo basica.,0.49,1,3
+PROMO_ESPECIAL_28,Variante 28 da tarifa promo especial.,0.77,15,3
+CORPORATE_28,Variante 28 da tarifa corporate.,1.7,33,4
+ESTUDANTE_28,Variante 28 da tarifa estudante.,0.83,15,4
+MILITAR_28,Variante 28 da tarifa militar.,0.99,24,5
+IDOSO_28,Variante 28 da tarifa idoso.,1.12,18,4
+FAMILIA_28,Variante 28 da tarifa familia.,0.96,35,2
+GRUPO_28,Variante 28 da tarifa grupo.,1.11,28,4
+ECONOMICA_LIGHT_29,Variante 29 da tarifa economica light.,0.85,4,1
+ECONOMICA_STANDARD_29,Variante 29 da tarifa economica standard.,1.16,30,4
+ECONOMICA_PLUS_29,Variante 29 da tarifa economica plus.,0.91,25,5
+ECONOMICA_FLEX_29,Variante 29 da tarifa economica flex.,1.57,39,3
+EXECUTIVA_LIGHT_29,Variante 29 da tarifa executiva light.,2.11,42,3
+EXECUTIVA_STANDARD_29,Variante 29 da tarifa executiva standard.,2.54,44,4
+EXECUTIVA_FLEX_29,Variante 29 da tarifa executiva flex.,2.87,41,5
+PRIMEIRA_CLASSE_29,Variante 29 da tarifa primeira classe.,4.18,54,1
+PRIMEIRA_FLEX_29,Variante 29 da tarifa primeira flex.,4.95,52,3
+PREMIUM_ECONOMY_29,Variante 29 da tarifa premium economy.,1.8,30,2
+BUSINESS_SAVER_29,Variante 29 da tarifa business saver.,2.14,33,4
+BUSINESS_FULL_29,Variante 29 da tarifa business full.,3.38,40,3
+PROMO_BASICA_29,Variante 29 da tarifa promo basica.,0.47,0,5
+PROMO_ESPECIAL_29,Variante 29 da tarifa promo especial.,0.5,22,1
+CORPORATE_29,Variante 29 da tarifa corporate.,1.7,30,1
+ESTUDANTE_29,Variante 29 da tarifa estudante.,0.95,16,2
+MILITAR_29,Variante 29 da tarifa militar.,0.79,34,1
+IDOSO_29,Variante 29 da tarifa idoso.,0.84,27,5
+FAMILIA_29,Variante 29 da tarifa familia.,1.16,21,1
+GRUPO_29,Variante 29 da tarifa grupo.,1.15,20,3
+ECONOMICA_LIGHT_30,Variante 30 da tarifa economica light.,0.82,3,3
+ECONOMICA_STANDARD_30,Variante 30 da tarifa economica standard.,1.01,25,1
+ECONOMICA_PLUS_30,Variante 30 da tarifa economica plus.,1.23,31,1
+ECONOMICA_FLEX_30,Variante 30 da tarifa economica flex.,1.3,34,5
+EXECUTIVA_LIGHT_30,Variante 30 da tarifa executiva light.,2.03,42,3
+EXECUTIVA_STANDARD_30,Variante 30 da tarifa executiva standard.,2.7,38,5
+EXECUTIVA_FLEX_30,Variante 30 da tarifa executiva flex.,2.91,42,1
+PRIMEIRA_CLASSE_30,Variante 30 da tarifa primeira classe.,3.79,59,3
+PRIMEIRA_FLEX_30,Variante 30 da tarifa primeira flex.,5.25,46,1
+PREMIUM_ECONOMY_30,Variante 30 da tarifa premium economy.,1.43,31,4
+BUSINESS_SAVER_30,Variante 30 da tarifa business saver.,2.36,42,1
+BUSINESS_FULL_30,Variante 30 da tarifa business full.,3.56,51,2
+PROMO_BASICA_30,Variante 30 da tarifa promo basica.,0.31,6,4
+PROMO_ESPECIAL_30,Variante 30 da tarifa promo especial.,0.58,18,5
+CORPORATE_30,Variante 30 da tarifa corporate.,1.61,39,5
+ESTUDANTE_30,Variante 30 da tarifa estudante.,0.85,24,4
+MILITAR_30,Variante 30 da tarifa militar.,0.82,21,5
+IDOSO_30,Variante 30 da tarifa idoso.,1.06,18,1
+FAMILIA_30,Variante 30 da tarifa familia.,1.12,25,4
+GRUPO_30,Variante 30 da tarifa grupo.,1.18,16,1
+ECONOMICA_LIGHT_31,Variante 31 da tarifa economica light.,0.57,1,4
+ECONOMICA_STANDARD_31,Variante 31 da tarifa economica standard.,0.92,21,1
+ECONOMICA_PLUS_31,Variante 31 da tarifa economica plus.,1.04,34,3
+ECONOMICA_FLEX_31,Variante 31 da tarifa economica flex.,1.67,33,2
+EXECUTIVA_LIGHT_31,Variante 31 da tarifa executiva light.,2.06,28,4
+EXECUTIVA_STANDARD_31,Variante 31 da tarifa executiva standard.,2.49,45,4
+EXECUTIVA_FLEX_31,Variante 31 da tarifa executiva flex.,3.04,47,3
+PRIMEIRA_CLASSE_31,Variante 31 da tarifa primeira classe.,3.8,46,4
+PRIMEIRA_FLEX_31,Variante 31 da tarifa primeira flex.,4.79,49,1
+PREMIUM_ECONOMY_31,Variante 31 da tarifa premium economy.,1.49,31,5
+BUSINESS_SAVER_31,Variante 31 da tarifa business saver.,2.26,45,2
+BUSINESS_FULL_31,Variante 31 da tarifa business full.,3.39,53,2
+PROMO_BASICA_31,Variante 31 da tarifa promo basica.,0.41,0,1
+PROMO_ESPECIAL_31,Variante 31 da tarifa promo especial.,0.77,20,2
+CORPORATE_31,Variante 31 da tarifa corporate.,1.63,34,4
+ESTUDANTE_31,Variante 31 da tarifa estudante.,0.93,23,4
+MILITAR_31,Variante 31 da tarifa militar.,0.73,32,3
+IDOSO_31,Variante 31 da tarifa idoso.,0.92,28,3
+FAMILIA_31,Variante 31 da tarifa familia.,1.16,33,3
+GRUPO_31,Variante 31 da tarifa grupo.,0.75,22,5
+ECONOMICA_LIGHT_32,Variante 32 da tarifa economica light.,0.64,0,4
+ECONOMICA_STANDARD_32,Variante 32 da tarifa economica standard.,1.2,22,3
+ECONOMICA_PLUS_32,Variante 32 da tarifa economica plus.,1.1,36,2
+ECONOMICA_FLEX_32,Variante 32 da tarifa economica flex.,1.16,26,1
+EXECUTIVA_LIGHT_32,Variante 32 da tarifa executiva light.,2.14,39,2
+EXECUTIVA_STANDARD_32,Variante 32 da tarifa executiva standard.,2.6,37,1
+EXECUTIVA_FLEX_32,Variante 32 da tarifa executiva flex.,3.26,50,2
+PRIMEIRA_CLASSE_32,Variante 32 da tarifa primeira classe.,4.25,49,4
+PRIMEIRA_FLEX_32,Variante 32 da tarifa primeira flex.,5.0,58,3
+PREMIUM_ECONOMY_32,Variante 32 da tarifa premium economy.,1.62,27,5
+BUSINESS_SAVER_32,Variante 32 da tarifa business saver.,2.11,40,3
+BUSINESS_FULL_32,Variante 32 da tarifa business full.,3.53,45,2
+PROMO_BASICA_32,Variante 32 da tarifa promo basica.,0.65,4,2
+PROMO_ESPECIAL_32,Variante 32 da tarifa promo especial.,0.81,21,2
+CORPORATE_32,Variante 32 da tarifa corporate.,1.93,35,1
+ESTUDANTE_32,Variante 32 da tarifa estudante.,0.69,25,4
+MILITAR_32,Variante 32 da tarifa militar.,0.77,22,4
+IDOSO_32,Variante 32 da tarifa idoso.,0.64,28,1
+FAMILIA_32,Variante 32 da tarifa familia.,1.12,21,3
+GRUPO_32,Variante 32 da tarifa grupo.,0.84,17,3
+ECONOMICA_LIGHT_33,Variante 33 da tarifa economica light.,0.77,4,3
+ECONOMICA_STANDARD_33,Variante 33 da tarifa economica standard.,0.98,29,2
+ECONOMICA_PLUS_33,Variante 33 da tarifa economica plus.,1.11,29,3
+ECONOMICA_FLEX_33,Variante 33 da tarifa economica flex.,1.36,34,1
+EXECUTIVA_LIGHT_33,Variante 33 da tarifa executiva light.,2.2,41,1
+EXECUTIVA_STANDARD_33,Variante 33 da tarifa executiva standard.,2.41,44,5
+EXECUTIVA_FLEX_33,Variante 33 da tarifa executiva flex.,2.98,43,3
+PRIMEIRA_CLASSE_33,Variante 33 da tarifa primeira classe.,4.21,51,1
+PRIMEIRA_FLEX_33,Variante 33 da tarifa primeira flex.,4.9,60,5
+PREMIUM_ECONOMY_33,Variante 33 da tarifa premium economy.,1.62,27,2
+BUSINESS_SAVER_33,Variante 33 da tarifa business saver.,1.97,36,4
+BUSINESS_FULL_33,Variante 33 da tarifa business full.,3.25,42,2
+PROMO_BASICA_33,Variante 33 da tarifa promo basica.,0.44,0,4
+PROMO_ESPECIAL_33,Variante 33 da tarifa promo especial.,0.96,25,5
+CORPORATE_33,Variante 33 da tarifa corporate.,1.82,30,5
+ESTUDANTE_33,Variante 33 da tarifa estudante.,0.49,20,4
+MILITAR_33,Variante 33 da tarifa militar.,0.88,26,1
+IDOSO_33,Variante 33 da tarifa idoso.,0.77,31,2
+FAMILIA_33,Variante 33 da tarifa familia.,0.99,22,3
+GRUPO_33,Variante 33 da tarifa grupo.,0.76,29,3
+ECONOMICA_LIGHT_34,Variante 34 da tarifa economica light.,0.75,1,3
+ECONOMICA_STANDARD_34,Variante 34 da tarifa economica standard.,1.14,33,5
+ECONOMICA_PLUS_34,Variante 34 da tarifa economica plus.,0.93,28,3
+ECONOMICA_FLEX_34,Variante 34 da tarifa economica flex.,1.35,40,2
+EXECUTIVA_LIGHT_34,Variante 34 da tarifa executiva light.,1.88,39,4
+EXECUTIVA_STANDARD_34,Variante 34 da tarifa executiva standard.,2.25,50,4
+EXECUTIVA_FLEX_34,Variante 34 da tarifa executiva flex.,3.15,40,5
+PRIMEIRA_CLASSE_34,Variante 34 da tarifa primeira classe.,4.19,47,3
+PRIMEIRA_FLEX_34,Variante 34 da tarifa primeira flex.,4.83,57,2
+PREMIUM_ECONOMY_34,Variante 34 da tarifa premium economy.,1.65,28,4
+BUSINESS_SAVER_34,Variante 34 da tarifa business saver.,2.28,43,3
+BUSINESS_FULL_34,Variante 34 da tarifa business full.,3.78,50,1
+PROMO_BASICA_34,Variante 34 da tarifa promo basica.,0.67,0,1
+PROMO_ESPECIAL_34,Variante 34 da tarifa promo especial.,0.47,20,4
+CORPORATE_34,Variante 34 da tarifa corporate.,1.64,25,5
+ESTUDANTE_34,Variante 34 da tarifa estudante.,0.99,25,2
+MILITAR_34,Variante 34 da tarifa militar.,0.61,22,5
+IDOSO_34,Variante 34 da tarifa idoso.,0.96,27,3
+FAMILIA_34,Variante 34 da tarifa familia.,0.9,29,4
+GRUPO_34,Variante 34 da tarifa grupo.,0.82,24,5
+ECONOMICA_LIGHT_35,Variante 35 da tarifa economica light.,0.95,9,5
+ECONOMICA_STANDARD_35,Variante 35 da tarifa economica standard.,0.92,23,5
+ECONOMICA_PLUS_35,Variante 35 da tarifa economica plus.,1.45,36,4
+ECONOMICA_FLEX_35,Variante 35 da tarifa economica flex.,1.3,36,5
+EXECUTIVA_LIGHT_35,Variante 35 da tarifa executiva light.,1.78,30,5
+EXECUTIVA_STANDARD_35,Variante 35 da tarifa executiva standard.,2.23,39,1
+EXECUTIVA_FLEX_35,Variante 35 da tarifa executiva flex.,2.96,49,5
+PRIMEIRA_CLASSE_35,Variante 35 da tarifa primeira classe.,4.07,47,2
+PRIMEIRA_FLEX_35,Variante 35 da tarifa primeira flex.,4.88,51,5
+PREMIUM_ECONOMY_35,Variante 35 da tarifa premium economy.,1.84,34,1
+BUSINESS_SAVER_35,Variante 35 da tarifa business saver.,2.18,40,5
+BUSINESS_FULL_35,Variante 35 da tarifa business full.,3.52,48,3
+PROMO_BASICA_35,Variante 35 da tarifa promo basica.,0.79,3,2
+PROMO_ESPECIAL_35,Variante 35 da tarifa promo especial.,0.66,15,5
+CORPORATE_35,Variante 35 da tarifa corporate.,2.1,28,1
+ESTUDANTE_35,Variante 35 da tarifa estudante.,0.56,21,1
+MILITAR_35,Variante 35 da tarifa militar.,0.68,30,4
+IDOSO_35,Variante 35 da tarifa idoso.,1.11,21,1
+FAMILIA_35,Variante 35 da tarifa familia.,1.15,35,5
+GRUPO_35,Variante 35 da tarifa grupo.,0.7,25,5
+ECONOMICA_LIGHT_36,Variante 36 da tarifa economica light.,0.51,0,5
+ECONOMICA_STANDARD_36,Variante 36 da tarifa economica standard.,1.09,23,1
+ECONOMICA_PLUS_36,Variante 36 da tarifa economica plus.,1.17,26,3
+ECONOMICA_FLEX_36,Variante 36 da tarifa economica flex.,1.29,38,4
+EXECUTIVA_LIGHT_36,Variante 36 da tarifa executiva light.,2.05,34,3
+EXECUTIVA_STANDARD_36,Variante 36 da tarifa executiva standard.,2.25,45,5
+EXECUTIVA_FLEX_36,Variante 36 da tarifa executiva flex.,3.02,35,4
+PRIMEIRA_CLASSE_36,Variante 36 da tarifa primeira classe.,4.28,45,3
+PRIMEIRA_FLEX_36,Variante 36 da tarifa primeira flex.,4.82,57,1
+PREMIUM_ECONOMY_36,Variante 36 da tarifa premium economy.,1.75,23,1
+BUSINESS_SAVER_36,Variante 36 da tarifa business saver.,2.25,32,1
+BUSINESS_FULL_36,Variante 36 da tarifa business full.,3.35,44,5
+PROMO_BASICA_36,Variante 36 da tarifa promo basica.,0.89,4,2
+PROMO_ESPECIAL_36,Variante 36 da tarifa promo especial.,0.79,20,3
+CORPORATE_36,Variante 36 da tarifa corporate.,1.57,38,1
+ESTUDANTE_36,Variante 36 da tarifa estudante.,0.79,25,5
+MILITAR_36,Variante 36 da tarifa militar.,1.03,23,1
+IDOSO_36,Variante 36 da tarifa idoso.,0.77,19,2
+FAMILIA_36,Variante 36 da tarifa familia.,0.98,34,2
+GRUPO_36,Variante 36 da tarifa grupo.,0.89,25,5
+ECONOMICA_LIGHT_37,Variante 37 da tarifa economica light.,0.8,7,4
+ECONOMICA_STANDARD_37,Variante 37 da tarifa economica standard.,0.78,32,1
+ECONOMICA_PLUS_37,Variante 37 da tarifa economica plus.,1.03,36,5
+ECONOMICA_FLEX_37,Variante 37 da tarifa economica flex.,1.53,37,5
+EXECUTIVA_LIGHT_37,Variante 37 da tarifa executiva light.,1.85,38,2
+EXECUTIVA_STANDARD_37,Variante 37 da tarifa executiva standard.,2.68,36,1
+EXECUTIVA_FLEX_37,Variante 37 da tarifa executiva flex.,3.08,45,4
+PRIMEIRA_CLASSE_37,Variante 37 da tarifa primeira classe.,3.75,54,4
+PRIMEIRA_FLEX_37,Variante 37 da tarifa primeira flex.,5.1,47,3
+PREMIUM_ECONOMY_37,Variante 37 da tarifa premium economy.,1.82,32,2
+BUSINESS_SAVER_37,Variante 37 da tarifa business saver.,2.25,35,3
+BUSINESS_FULL_37,Variante 37 da tarifa business full.,3.41,43,1
+PROMO_BASICA_37,Variante 37 da tarifa promo basica.,0.53,2,4
+PROMO_ESPECIAL_37,Variante 37 da tarifa promo especial.,0.97,11,2
+CORPORATE_37,Variante 37 da tarifa corporate.,2.0,32,4
+ESTUDANTE_37,Variante 37 da tarifa estudante.,0.74,29,1
+MILITAR_37,Variante 37 da tarifa militar.,1.06,33,4
+IDOSO_37,Variante 37 da tarifa idoso.,0.85,28,2
+FAMILIA_37,Variante 37 da tarifa familia.,0.98,22,4
+GRUPO_37,Variante 37 da tarifa grupo.,1.13,23,1
+ECONOMICA_LIGHT_38,Variante 38 da tarifa economica light.,0.99,8,1
+ECONOMICA_STANDARD_38,Variante 38 da tarifa economica standard.,0.72,21,5
+ECONOMICA_PLUS_38,Variante 38 da tarifa economica plus.,1.5,39,3
+ECONOMICA_FLEX_38,Variante 38 da tarifa economica flex.,1.48,31,3
+EXECUTIVA_LIGHT_38,Variante 38 da tarifa executiva light.,2.02,36,4
+EXECUTIVA_STANDARD_38,Variante 38 da tarifa executiva standard.,2.7,36,3
+EXECUTIVA_FLEX_38,Variante 38 da tarifa executiva flex.,3.28,36,2
+PRIMEIRA_CLASSE_38,Variante 38 da tarifa primeira classe.,4.1,45,2
+PRIMEIRA_FLEX_38,Variante 38 da tarifa primeira flex.,4.99,51,1
+PREMIUM_ECONOMY_38,Variante 38 da tarifa premium economy.,1.46,35,4
+BUSINESS_SAVER_38,Variante 38 da tarifa business saver.,2.03,34,5
+BUSINESS_FULL_38,Variante 38 da tarifa business full.,3.72,48,3
+PROMO_BASICA_38,Variante 38 da tarifa promo basica.,0.71,9,1
+PROMO_ESPECIAL_38,Variante 38 da tarifa promo especial.,0.72,17,5
+CORPORATE_38,Variante 38 da tarifa corporate.,1.69,31,1
+ESTUDANTE_38,Variante 38 da tarifa estudante.,0.8,16,4
+MILITAR_38,Variante 38 da tarifa militar.,0.85,28,5
+IDOSO_38,Variante 38 da tarifa idoso.,0.98,18,5
+FAMILIA_38,Variante 38 da tarifa familia.,0.9,28,5
+GRUPO_38,Variante 38 da tarifa grupo.,0.96,23,3
+ECONOMICA_LIGHT_39,Variante 39 da tarifa economica light.,0.95,6,1
+ECONOMICA_STANDARD_39,Variante 39 da tarifa economica standard.,1.21,25,3
+ECONOMICA_PLUS_39,Variante 39 da tarifa economica plus.,1.22,39,2
+ECONOMICA_FLEX_39,Variante 39 da tarifa economica flex.,1.61,28,4
+EXECUTIVA_LIGHT_39,Variante 39 da tarifa executiva light.,1.86,33,1
+EXECUTIVA_STANDARD_39,Variante 39 da tarifa executiva standard.,2.59,48,5
+EXECUTIVA_FLEX_39,Variante 39 da tarifa executiva flex.,3.28,38,1
+PRIMEIRA_CLASSE_39,Variante 39 da tarifa primeira classe.,4.15,53,1
+PRIMEIRA_FLEX_39,Variante 39 da tarifa primeira flex.,4.82,51,5
+PREMIUM_ECONOMY_39,Variante 39 da tarifa premium economy.,1.6,22,5
+BUSINESS_SAVER_39,Variante 39 da tarifa business saver.,2.2,45,4
+BUSINESS_FULL_39,Variante 39 da tarifa business full.,3.59,51,5
+PROMO_BASICA_39,Variante 39 da tarifa promo basica.,0.43,2,2
+PROMO_ESPECIAL_39,Variante 39 da tarifa promo especial.,0.64,25,4
+CORPORATE_39,Variante 39 da tarifa corporate.,1.51,33,1
+ESTUDANTE_39,Variante 39 da tarifa estudante.,0.59,15,5
+MILITAR_39,Variante 39 da tarifa militar.,0.56,23,3
+IDOSO_39,Variante 39 da tarifa idoso.,0.72,31,1
+FAMILIA_39,Variante 39 da tarifa familia.,0.91,24,4
+GRUPO_39,Variante 39 da tarifa grupo.,0.73,23,2
+ECONOMICA_LIGHT_40,Variante 40 da tarifa economica light.,1.08,3,1
+ECONOMICA_STANDARD_40,Variante 40 da tarifa economica standard.,1.09,23,2
+ECONOMICA_PLUS_40,Variante 40 da tarifa economica plus.,1.44,26,3
+ECONOMICA_FLEX_40,Variante 40 da tarifa economica flex.,1.37,29,1
+EXECUTIVA_LIGHT_40,Variante 40 da tarifa executiva light.,1.86,35,1
+EXECUTIVA_STANDARD_40,Variante 40 da tarifa executiva standard.,2.21,50,5
+EXECUTIVA_FLEX_40,Variante 40 da tarifa executiva flex.,3.2,43,1
+PRIMEIRA_CLASSE_40,Variante 40 da tarifa primeira classe.,4.04,50,3
+PRIMEIRA_FLEX_40,Variante 40 da tarifa primeira flex.,4.92,52,5
+PREMIUM_ECONOMY_40,Variante 40 da tarifa premium economy.,1.69,21,5
+BUSINESS_SAVER_40,Variante 40 da tarifa business saver.,2.19,39,1
+BUSINESS_FULL_40,Variante 40 da tarifa business full.,3.77,44,2
+PROMO_BASICA_40,Variante 40 da tarifa promo basica.,0.75,9,1
+PROMO_ESPECIAL_40,Variante 40 da tarifa promo especial.,0.75,25,2
+CORPORATE_40,Variante 40 da tarifa corporate.,1.95,33,5
+ESTUDANTE_40,Variante 40 da tarifa estudante.,0.69,20,2
+MILITAR_40,Variante 40 da tarifa militar.,0.77,35,3
+IDOSO_40,Variante 40 da tarifa idoso.,1.08,23,3
+FAMILIA_40,Variante 40 da tarifa familia.,0.81,26,2
+GRUPO_40,Variante 40 da tarifa grupo.,0.9,18,5
+ECONOMICA_LIGHT_41,Variante 41 da tarifa economica light.,1.0,0,1
+ECONOMICA_STANDARD_41,Variante 41 da tarifa economica standard.,0.82,30,5
+ECONOMICA_PLUS_41,Variante 41 da tarifa economica plus.,1.16,37,2
+ECONOMICA_FLEX_41,Variante 41 da tarifa economica flex.,1.13,25,2
+EXECUTIVA_LIGHT_41,Variante 41 da tarifa executiva light.,2.03,41,2
+EXECUTIVA_STANDARD_41,Variante 41 da tarifa executiva standard.,2.23,39,1
+EXECUTIVA_FLEX_41,Variante 41 da tarifa executiva flex.,2.72,45,2
+PRIMEIRA_CLASSE_41,Variante 41 da tarifa primeira classe.,3.93,58,2
+PRIMEIRA_FLEX_41,Variante 41 da tarifa primeira flex.,4.74,56,2
+PREMIUM_ECONOMY_41,Variante 41 da tarifa premium economy.,1.55,20,1
+BUSINESS_SAVER_41,Variante 41 da tarifa business saver.,2.1,45,5
+BUSINESS_FULL_41,Variante 41 da tarifa business full.,3.39,41,1
+PROMO_BASICA_41,Variante 41 da tarifa promo basica.,0.6,0,3
+PROMO_ESPECIAL_41,Variante 41 da tarifa promo especial.,0.97,10,1
+CORPORATE_41,Variante 41 da tarifa corporate.,1.98,31,5
+ESTUDANTE_41,Variante 41 da tarifa estudante.,0.73,21,1
+MILITAR_41,Variante 41 da tarifa militar.,0.94,25,2
+IDOSO_41,Variante 41 da tarifa idoso.,0.66,24,5
+FAMILIA_41,Variante 41 da tarifa familia.,1.29,21,5
+GRUPO_41,Variante 41 da tarifa grupo.,0.93,17,4
+ECONOMICA_LIGHT_42,Variante 42 da tarifa economica light.,0.8,0,1
+ECONOMICA_STANDARD_42,Variante 42 da tarifa economica standard.,0.71,26,3
+ECONOMICA_PLUS_42,Variante 42 da tarifa economica plus.,1.42,33,4
+ECONOMICA_FLEX_42,Variante 42 da tarifa economica flex.,1.58,40,1
+EXECUTIVA_LIGHT_42,Variante 42 da tarifa executiva light.,2.04,29,4
+EXECUTIVA_STANDARD_42,Variante 42 da tarifa executiva standard.,2.7,49,3
+EXECUTIVA_FLEX_42,Variante 42 da tarifa executiva flex.,2.88,48,1
+PRIMEIRA_CLASSE_42,Variante 42 da tarifa primeira classe.,4.29,49,2
+PRIMEIRA_FLEX_42,Variante 42 da tarifa primeira flex.,5.16,54,2
+PREMIUM_ECONOMY_42,Variante 42 da tarifa premium economy.,1.41,24,1
+BUSINESS_SAVER_42,Variante 42 da tarifa business saver.,2.29,30,2
+BUSINESS_FULL_42,Variante 42 da tarifa business full.,3.41,46,5
+PROMO_BASICA_42,Variante 42 da tarifa promo basica.,0.46,0,2
+PROMO_ESPECIAL_42,Variante 42 da tarifa promo especial.,0.97,10,5
+CORPORATE_42,Variante 42 da tarifa corporate.,1.66,39,4
+ESTUDANTE_42,Variante 42 da tarifa estudante.,0.98,27,5
+MILITAR_42,Variante 42 da tarifa militar.,0.56,25,4
+IDOSO_42,Variante 42 da tarifa idoso.,0.98,29,3
+FAMILIA_42,Variante 42 da tarifa familia.,0.86,24,4
+GRUPO_42,Variante 42 da tarifa grupo.,0.9,29,5
+ECONOMICA_LIGHT_43,Variante 43 da tarifa economica light.,0.99,0,2
+ECONOMICA_STANDARD_43,Variante 43 da tarifa economica standard.,0.86,29,3
+ECONOMICA_PLUS_43,Variante 43 da tarifa economica plus.,1.25,36,1
+ECONOMICA_FLEX_43,Variante 43 da tarifa economica flex.,1.33,29,1
+EXECUTIVA_LIGHT_43,Variante 43 da tarifa executiva light.,1.76,30,3
+EXECUTIVA_STANDARD_43,Variante 43 da tarifa executiva standard.,2.77,37,2
+EXECUTIVA_FLEX_43,Variante 43 da tarifa executiva flex.,3.18,47,3
+PRIMEIRA_CLASSE_43,Variante 43 da tarifa primeira classe.,4.14,58,3
+PRIMEIRA_FLEX_43,Variante 43 da tarifa primeira flex.,4.99,58,5
+PREMIUM_ECONOMY_43,Variante 43 da tarifa premium economy.,1.7,24,2
+BUSINESS_SAVER_43,Variante 43 da tarifa business saver.,2.18,31,1
+BUSINESS_FULL_43,Variante 43 da tarifa business full.,3.5,48,3
+PROMO_BASICA_43,Variante 43 da tarifa promo basica.,0.57,0,5
+PROMO_ESPECIAL_43,Variante 43 da tarifa promo especial.,0.85,24,5
+CORPORATE_43,Variante 43 da tarifa corporate.,2.09,28,5
+ESTUDANTE_43,Variante 43 da tarifa estudante.,0.47,24,5
+MILITAR_43,Variante 43 da tarifa militar.,1.06,24,1
+IDOSO_43,Variante 43 da tarifa idoso.,0.86,19,1
+FAMILIA_43,Variante 43 da tarifa familia.,1.04,26,4
+GRUPO_43,Variante 43 da tarifa grupo.,1.01,19,2
+ECONOMICA_LIGHT_44,Variante 44 da tarifa economica light.,0.97,2,3
+ECONOMICA_STANDARD_44,Variante 44 da tarifa economica standard.,1.02,31,3
+ECONOMICA_PLUS_44,Variante 44 da tarifa economica plus.,1.17,26,5
+ECONOMICA_FLEX_44,Variante 44 da tarifa economica flex.,1.19,32,5
+EXECUTIVA_LIGHT_44,Variante 44 da tarifa executiva light.,2.28,40,3
+EXECUTIVA_STANDARD_44,Variante 44 da tarifa executiva standard.,2.36,40,2
+EXECUTIVA_FLEX_44,Variante 44 da tarifa executiva flex.,3.13,35,2
+PRIMEIRA_CLASSE_44,Variante 44 da tarifa primeira classe.,3.74,50,2
+PRIMEIRA_FLEX_44,Variante 44 da tarifa primeira flex.,5.15,60,2
+PREMIUM_ECONOMY_44,Variante 44 da tarifa premium economy.,1.82,31,3
+BUSINESS_SAVER_44,Variante 44 da tarifa business saver.,1.9,36,2
+BUSINESS_FULL_44,Variante 44 da tarifa business full.,3.2,40,1
+PROMO_BASICA_44,Variante 44 da tarifa promo basica.,0.63,7,2
+PROMO_ESPECIAL_44,Variante 44 da tarifa promo especial.,0.88,22,4
+CORPORATE_44,Variante 44 da tarifa corporate.,1.64,28,5
+ESTUDANTE_44,Variante 44 da tarifa estudante.,0.45,17,1
+MILITAR_44,Variante 44 da tarifa militar.,0.7,32,1
+IDOSO_44,Variante 44 da tarifa idoso.,0.61,20,4
+FAMILIA_44,Variante 44 da tarifa familia.,1.14,24,2
+GRUPO_44,Variante 44 da tarifa grupo.,0.73,30,2
+ECONOMICA_LIGHT_45,Variante 45 da tarifa economica light.,1.06,9,5
+ECONOMICA_STANDARD_45,Variante 45 da tarifa economica standard.,0.73,18,5
+ECONOMICA_PLUS_45,Variante 45 da tarifa economica plus.,1.38,35,3
+ECONOMICA_FLEX_45,Variante 45 da tarifa economica flex.,1.43,27,5
+EXECUTIVA_LIGHT_45,Variante 45 da tarifa executiva light.,1.96,35,4
+EXECUTIVA_STANDARD_45,Variante 45 da tarifa executiva standard.,2.35,36,1
+EXECUTIVA_FLEX_45,Variante 45 da tarifa executiva flex.,3.25,43,2
+PRIMEIRA_CLASSE_45,Variante 45 da tarifa primeira classe.,3.85,48,1
+PRIMEIRA_FLEX_45,Variante 45 da tarifa primeira flex.,5.13,52,4
+PREMIUM_ECONOMY_45,Variante 45 da tarifa premium economy.,1.35,23,5
+BUSINESS_SAVER_45,Variante 45 da tarifa business saver.,2.43,40,1
+BUSINESS_FULL_45,Variante 45 da tarifa business full.,3.6,51,3
+PROMO_BASICA_45,Variante 45 da tarifa promo basica.,0.5,0,5
+PROMO_ESPECIAL_45,Variante 45 da tarifa promo especial.,0.98,19,2
+CORPORATE_45,Variante 45 da tarifa corporate.,2.08,31,3
+ESTUDANTE_45,Variante 45 da tarifa estudante.,0.93,15,1
+MILITAR_45,Variante 45 da tarifa militar.,0.77,30,2
+IDOSO_45,Variante 45 da tarifa idoso.,0.77,31,1
+FAMILIA_45,Variante 45 da tarifa familia.,1.07,32,5
+GRUPO_45,Variante 45 da tarifa grupo.,1.01,23,3
+ECONOMICA_LIGHT_46,Variante 46 da tarifa economica light.,0.85,3,4
+ECONOMICA_STANDARD_46,Variante 46 da tarifa economica standard.,0.96,22,1
+ECONOMICA_PLUS_46,Variante 46 da tarifa economica plus.,0.96,29,3
+ECONOMICA_FLEX_46,Variante 46 da tarifa economica flex.,1.63,25,2
+EXECUTIVA_LIGHT_46,Variante 46 da tarifa executiva light.,2.12,29,5
+EXECUTIVA_STANDARD_46,Variante 46 da tarifa executiva standard.,2.29,39,2
+EXECUTIVA_FLEX_46,Variante 46 da tarifa executiva flex.,3.01,44,1
+PRIMEIRA_CLASSE_46,Variante 46 da tarifa primeira classe.,3.79,57,2
+PRIMEIRA_FLEX_46,Variante 46 da tarifa primeira flex.,4.72,56,5
+PREMIUM_ECONOMY_46,Variante 46 da tarifa premium economy.,1.83,35,3
+BUSINESS_SAVER_46,Variante 46 da tarifa business saver.,2.31,34,4
+BUSINESS_FULL_46,Variante 46 da tarifa business full.,3.34,51,2
+PROMO_BASICA_46,Variante 46 da tarifa promo basica.,0.55,0,2
+PROMO_ESPECIAL_46,Variante 46 da tarifa promo especial.,0.61,24,1
+CORPORATE_46,Variante 46 da tarifa corporate.,1.51,27,2
+ESTUDANTE_46,Variante 46 da tarifa estudante.,0.82,19,5
+MILITAR_46,Variante 46 da tarifa militar.,0.97,23,5
+IDOSO_46,Variante 46 da tarifa idoso.,0.67,31,1
+FAMILIA_46,Variante 46 da tarifa familia.,1.18,30,3
+GRUPO_46,Variante 46 da tarifa grupo.,0.99,24,4
+ECONOMICA_LIGHT_47,Variante 47 da tarifa economica light.,0.57,0,1
+ECONOMICA_STANDARD_47,Variante 47 da tarifa economica standard.,0.98,23,2
+ECONOMICA_PLUS_47,Variante 47 da tarifa economica plus.,0.93,38,4
+ECONOMICA_FLEX_47,Variante 47 da tarifa economica flex.,1.11,27,2
+EXECUTIVA_LIGHT_47,Variante 47 da tarifa executiva light.,2.04,31,4
+EXECUTIVA_STANDARD_47,Variante 47 da tarifa executiva standard.,2.25,37,2
+EXECUTIVA_FLEX_47,Variante 47 da tarifa executiva flex.,2.82,39,5
+PRIMEIRA_CLASSE_47,Variante 47 da tarifa primeira classe.,4.14,58,1
+PRIMEIRA_FLEX_47,Variante 47 da tarifa primeira flex.,4.91,49,1
+PREMIUM_ECONOMY_47,Variante 47 da tarifa premium economy.,1.69,28,5
+BUSINESS_SAVER_47,Variante 47 da tarifa business saver.,2.33,30,4
+BUSINESS_FULL_47,Variante 47 da tarifa business full.,3.64,53,3
+PROMO_BASICA_47,Variante 47 da tarifa promo basica.,0.43,3,3
+PROMO_ESPECIAL_47,Variante 47 da tarifa promo especial.,0.63,11,3
+CORPORATE_47,Variante 47 da tarifa corporate.,1.89,29,4
+ESTUDANTE_47,Variante 47 da tarifa estudante.,0.7,22,3
+MILITAR_47,Variante 47 da tarifa militar.,0.78,20,1
+IDOSO_47,Variante 47 da tarifa idoso.,0.97,28,2
+FAMILIA_47,Variante 47 da tarifa familia.,0.8,35,2
+GRUPO_47,Variante 47 da tarifa grupo.,1.23,24,4
+ECONOMICA_LIGHT_48,Variante 48 da tarifa economica light.,1.01,3,2
+ECONOMICA_STANDARD_48,Variante 48 da tarifa economica standard.,0.91,31,1
+ECONOMICA_PLUS_48,Variante 48 da tarifa economica plus.,1.19,38,5
+ECONOMICA_FLEX_48,Variante 48 da tarifa economica flex.,1.2,35,1
+EXECUTIVA_LIGHT_48,Variante 48 da tarifa executiva light.,2.15,31,4
+EXECUTIVA_STANDARD_48,Variante 48 da tarifa executiva standard.,2.6,40,4
+EXECUTIVA_FLEX_48,Variante 48 da tarifa executiva flex.,2.97,35,5
+PRIMEIRA_CLASSE_48,Variante 48 da tarifa primeira classe.,3.94,58,4
+PRIMEIRA_FLEX_48,Variante 48 da tarifa primeira flex.,5.26,57,2
+PREMIUM_ECONOMY_48,Variante 48 da tarifa premium economy.,1.81,28,1
+BUSINESS_SAVER_48,Variante 48 da tarifa business saver.,2.47,44,4
+BUSINESS_FULL_48,Variante 48 da tarifa business full.,3.71,54,5
+PROMO_BASICA_48,Variante 48 da tarifa promo basica.,0.81,3,5
+PROMO_ESPECIAL_48,Variante 48 da tarifa promo especial.,0.58,24,1
+CORPORATE_48,Variante 48 da tarifa corporate.,1.9,26,2
+ESTUDANTE_48,Variante 48 da tarifa estudante.,0.67,16,4
+MILITAR_48,Variante 48 da tarifa militar.,1.13,23,5
+IDOSO_48,Variante 48 da tarifa idoso.,0.78,33,3
+FAMILIA_48,Variante 48 da tarifa familia.,1.38,24,2
+GRUPO_48,Variante 48 da tarifa grupo.,0.84,23,2
+ECONOMICA_LIGHT_49,Variante 49 da tarifa economica light.,0.68,4,4
+ECONOMICA_STANDARD_49,Variante 49 da tarifa economica standard.,1.23,30,5
+ECONOMICA_PLUS_49,Variante 49 da tarifa economica plus.,0.99,28,2
+ECONOMICA_FLEX_49,Variante 49 da tarifa economica flex.,1.15,38,3
+EXECUTIVA_LIGHT_49,Variante 49 da tarifa executiva light.,2.06,38,2
+EXECUTIVA_STANDARD_49,Variante 49 da tarifa executiva standard.,2.41,40,1
+EXECUTIVA_FLEX_49,Variante 49 da tarifa executiva flex.,3.28,43,3
+PRIMEIRA_CLASSE_49,Variante 49 da tarifa primeira classe.,4.09,47,1
+PRIMEIRA_FLEX_49,Variante 49 da tarifa primeira flex.,4.76,60,2
+PREMIUM_ECONOMY_49,Variante 49 da tarifa premium economy.,1.63,22,5
+BUSINESS_SAVER_49,Variante 49 da tarifa business saver.,1.99,37,1
+BUSINESS_FULL_49,Variante 49 da tarifa business full.,3.71,53,2
+PROMO_BASICA_49,Variante 49 da tarifa promo basica.,0.48,5,5
+PROMO_ESPECIAL_49,Variante 49 da tarifa promo especial.,0.87,15,1
+CORPORATE_49,Variante 49 da tarifa corporate.,1.82,33,5
+ESTUDANTE_49,Variante 49 da tarifa estudante.,0.93,15,4
+MILITAR_49,Variante 49 da tarifa militar.,0.79,20,3
+IDOSO_49,Variante 49 da tarifa idoso.,1.11,21,1
+FAMILIA_49,Variante 49 da tarifa familia.,0.91,25,3
+GRUPO_49,Variante 49 da tarifa grupo.,0.84,23,1

@@ -1,0 +1,1001 @@
+nome,codigo_iso2,codigo_iso3,continente
+Brasil,BR,BRA,AMERICA_DO_SUL
+Portugal,PT,PRT,EUROPA
+Estados Unidos,US,USA,AMERICA_DO_NORTE
+Argentina,AR,ARG,AMERICA_DO_SUL
+Alemanha,DE,DEU,EUROPA
+França,FR,FRA,EUROPA
+Itália,IT,ITA,EUROPA
+Espanha,ES,ESP,EUROPA
+Reino Unido,GB,GBR,EUROPA
+Japão,JP,JPN,ASIA
+China,CN,CHN,ASIA
+Índia,IN,IND,ASIA
+Austrália,AU,AUS,OCEANIA
+Canadá,CA,CAN,AMERICA_DO_NORTE
+México,MX,MEX,AMERICA_DO_NORTE
+Rússia,RU,RUS,EUROPA
+Coreia do Sul,KR,KOR,ASIA
+Indonésia,ID,IDN,ASIA
+Turquia,TR,TUR,ASIA
+Arábia Saudita,SA,SAU,ASIA
+África do Sul,ZA,ZAF,AFRICA
+Nigéria,NG,NGA,AFRICA
+Egito,EG,EGY,AFRICA
+Chile,CL,CHL,AMERICA_DO_SUL
+Colômbia,CO,COL,AMERICA_DO_SUL
+Peru,PE,PER,AMERICA_DO_SUL
+Venezuela,VE,VEN,AMERICA_DO_SUL
+Uruguai,UY,URY,AMERICA_DO_SUL
+Paraguai,PY,PRY,AMERICA_DO_SUL
+Bolívia,BO,BOL,AMERICA_DO_SUL
+Equador,EC,ECU,AMERICA_DO_SUL
+Noruega,NO,NOR,EUROPA
+Suécia,SE,SWE,EUROPA
+Dinamarca,DK,DNK,EUROPA
+Finlândia,FI,FIN,EUROPA
+Polónia,PL,POL,EUROPA
+Holanda,NL,NLD,EUROPA
+Bélgica,BE,BEL,EUROPA
+Suíça,CH,CHE,EUROPA
+Áustria,AT,AUT,EUROPA
+Grécia,GR,GRC,EUROPA
+Irlanda,IE,IRL,EUROPA
+República Checa,CZ,CZE,EUROPA
+Roménia,RO,ROU,EUROPA
+Hungria,HU,HUN,EUROPA
+Nova Zelândia,NZ,NZL,OCEANIA
+Tailândia,TH,THA,ASIA
+Malásia,MY,MYS,ASIA
+Filipinas,PH,PHL,ASIA
+Vietname,VN,VNM,ASIA
+República de Alves,00,AAA,OCEANIA
+República de da Cruz de Goiás,01,AAB,EUROPA
+República de Sousa,02,AAC,EUROPA
+República de Rocha,03,AAD,OCEANIA
+República de Pastor,04,AAE,AFRICA
+República de Andrade do Sul,05,AAF,ASIA
+República de Cunha,06,AAG,ASIA
+República de Montenegro,07,AAH,ASIA
+República de Novais,08,AAI,OCEANIA
+República de Silva,09,AAJ,EUROPA
+República de Câmara dos Dourados,0A,AAK,OCEANIA
+República de Abreu da Serra,0B,AAL,OCEANIA
+República de Fernandes Paulista,0C,AAM,AMERICA_DO_SUL
+República de Cunha 1,0D,AAN,EUROPA
+República de Caldeira de Minas,0E,AAO,AMERICA_DO_SUL
+República de Brito da Praia,0F,AAP,AMERICA_DO_NORTE
+República de Pereira Paulista,0G,AAQ,EUROPA
+República de Siqueira,0H,AAR,EUROPA
+República de Nascimento de Campos,0I,AAS,EUROPA
+República de Barros da Prata,0J,AAT,ASIA
+República de Pires da Praia,0K,AAU,ASIA
+República de Santos,0L,AAV,AMERICA_DO_SUL
+República de Aparecida,0M,AAW,AMERICA_DO_SUL
+República de Vargas,0N,AAX,EUROPA
+República de Barros de Goiás,0O,AAY,AMERICA_DO_SUL
+República de Garcia,0P,AAZ,ASIA
+República de Marques da Praia,0Q,ABA,OCEANIA
+República de Freitas,0R,ABB,OCEANIA
+República de Costela Paulista,0S,ABC,OCEANIA
+República de Pereira,0T,ABD,AMERICA_DO_SUL
+República de Nascimento,0U,ABE,AMERICA_DO_NORTE
+República de Castro,0V,ABF,ASIA
+República de Garcia de da Mata,0W,ABG,AMERICA_DO_NORTE
+República de Rodrigues,0X,ABH,AMERICA_DO_SUL
+República de Vargas do Norte,0Y,ABI,AFRICA
+República de Andrade,0Z,ABJ,ANTARTICA
+República de Guerra Paulista,10,ABK,ANTARTICA
+República de Cunha 2,11,ABL,EUROPA
+República de Cunha do Amparo,1A,ABM,ANTARTICA
+República de Ramos dos Dourados,1B,ABN,ANTARTICA
+República de da Luz,1C,ABO,ASIA
+República de da Cruz,1D,ABP,OCEANIA
+República de Souza Verde,1E,ABQ,AMERICA_DO_NORTE
+República de Pacheco das Flores,1F,ABR,AFRICA
+República de Câmara Grande,1G,ABS,AFRICA
+República de Borges de Sá,1H,ABT,ASIA
+República de Camargo,1I,ABU,ASIA
+República de Pires,1J,ABV,ANTARTICA
+República de Vieira,1K,ABW,AFRICA
+República de Peixoto de Minas,1L,ABX,EUROPA
+República de Garcia dos Dourados,1M,ABY,EUROPA
+República de Novaes do Sul,1N,ABZ,AMERICA_DO_NORTE
+República de Rodrigues 1,1O,ACA,EUROPA
+República de Vargas Alegre,1P,ACB,AFRICA
+República de da Rocha,1Q,ACC,ANTARTICA
+República de Castro dos Dourados,1R,ACD,AFRICA
+República de Silveira,1S,ACE,AMERICA_DO_SUL
+República de Montenegro da Serra,1T,ACF,AFRICA
+República de Pires 1,1U,ACG,ANTARTICA
+República de Porto do Galho,1V,ACH,EUROPA
+República de Cassiano,1W,ACI,OCEANIA
+República de Teixeira da Serra,1X,ACJ,AMERICA_DO_NORTE
+República de Peixoto,1Y,ACK,AMERICA_DO_SUL
+República de Mendonça do Sul,1Z,ACL,EUROPA
+República de Fonseca,A0,ACM,AMERICA_DO_NORTE
+República de da Costa do Norte,A1,ACN,EUROPA
+República de Nunes,A2,ACO,AMERICA_DO_SUL
+República de Barros,A3,ACP,AFRICA
+República de Azevedo de Teixeira,A4,ACQ,ANTARTICA
+República de Cardoso,A5,ACR,OCEANIA
+República de Novaes de Cavalcante,A6,ACS,AMERICA_DO_SUL
+República de Moura das Pedras,A7,ACT,ANTARTICA
+República de Nogueira,A8,ACU,AFRICA
+República de Silva 1,A9,ACV,AMERICA_DO_SUL
+República de Guerra da Praia,AA,ACW,ASIA
+República de Moreira de Machado,AB,ACX,OCEANIA
+República de da Cruz 1,AC,ACY,EUROPA
+República de Azevedo,AD,ACZ,EUROPA
+República de Almeida Verde,AE,ADA,OCEANIA
+República de Pastor 1,AF,ADB,ASIA
+República de Abreu,AG,ADC,ANTARTICA
+República de Santos 1,AH,ADD,AFRICA
+República de da Conceição,AI,ADE,EUROPA
+República de Andrade 1,AJ,ADF,ANTARTICA
+República de Barbosa do Galho,AK,ADG,ASIA
+República de da Mota,AL,ADH,ANTARTICA
+República de Cunha de Nogueira,AM,ADI,EUROPA
+República de Silveira 1,AN,ADJ,AMERICA_DO_NORTE
+República de da Cruz de Viana,AO,ADK,AFRICA
+República de Jesus de Correia,AP,ADL,AMERICA_DO_NORTE
+República de Brito,AQ,ADM,OCEANIA
+República de Fogaça das Pedras,AS,ADN,ANTARTICA
+República de Martins do Norte,AV,ADO,AFRICA
+República de Araújo,AW,ADP,ASIA
+República de Siqueira Alegre,AX,ADQ,AFRICA
+República de da Cruz 2,AY,ADR,AFRICA
+República de Correia,AZ,ADS,ASIA
+República de Carvalho de Lima,B0,ADT,OCEANIA
+República de da Mota 1,B1,ADU,AFRICA
+República de da Cruz de Barbosa,B2,ADV,OCEANIA
+República de Novaes de Brito,B3,ADW,OCEANIA
+República de Rezende,B4,ADX,OCEANIA
+República de Borges,B5,ADY,EUROPA
+República de Cavalcante,B6,ADZ,AMERICA_DO_SUL
+República de Mendonça do Amparo,B7,AEA,OCEANIA
+República de Guerra,B8,AEB,ASIA
+República de Cavalcante 1,B9,AEC,AMERICA_DO_SUL
+República de Abreu das Flores,BA,AED,OCEANIA
+República de Viana dos Dourados,BB,AEE,ASIA
+República de Lima da Prata,BC,AEF,ASIA
+República de Cassiano de Correia,BD,AEG,AMERICA_DO_NORTE
+República de Cunha do Norte,BF,AEH,AMERICA_DO_NORTE
+República de Souza,BG,AEI,AFRICA
+República de Araújo do Norte,BH,AEJ,OCEANIA
+República de Montenegro de Moura,BI,AEK,OCEANIA
+República de Araújo 1,BJ,AEL,AMERICA_DO_SUL
+República de Cirino,BK,AEM,ASIA
+República de Peixoto 1,BL,AEN,OCEANIA
+República de Rocha 1,BM,AEO,AFRICA
+República de Guerra 1,BN,AEP,ANTARTICA
+República de Nunes 1,BP,AEQ,ANTARTICA
+República de Pacheco,BQ,AER,ANTARTICA
+República de Pinto,BS,AES,EUROPA
+República de Leão,BT,AET,ASIA
+República de da Luz do Oeste,BU,AEU,ANTARTICA
+República de da Costa Paulista,BV,AEV,EUROPA
+República de Cardoso da Mata,BW,AEW,ANTARTICA
+República de Dias de Sá,BX,AEX,AFRICA
+República de Albuquerque,BY,AEY,AMERICA_DO_NORTE
+República de Pinto de Nunes,BZ,AEZ,AFRICA
+República de Barbosa,C0,AFA,EUROPA
+República de Montenegro 1,C1,AFB,ASIA
+República de Cardoso da Praia,C2,AFC,AMERICA_DO_SUL
+República de da Cruz 3,C3,AFD,OCEANIA
+República de da Paz da Serra,C4,AFE,AFRICA
+República de Nogueira de Santos,C5,AFF,ASIA
+República de Pimenta do Galho,C6,AFG,OCEANIA
+República de Rios,C7,AFH,AMERICA_DO_NORTE
+República de Ribeiro do Campo,C8,AFI,AMERICA_DO_NORTE
+República de da Luz 1,C9,AFJ,OCEANIA
+República de Caldeira,CB,AFK,AMERICA_DO_NORTE
+República de da Mata,CC,AFL,ASIA
+República de Pereira do Oeste,CD,AFM,AFRICA
+República de Costela Paulista 1,CE,AFN,ASIA
+República de da Cunha de Aragão,CF,AFO,ASIA
+República de Porto,CG,AFP,OCEANIA
+República de da Mota do Norte,CI,AFQ,AMERICA_DO_SUL
+República de Farias,CJ,AFR,AMERICA_DO_SUL
+República de Porto 1,CK,AFS,AFRICA
+República de Castro dos Dourados 1,CM,AFT,OCEANIA
+República de Novais do Sul,CP,AFU,AMERICA_DO_SUL
+República de Barbosa 1,CQ,AFV,AMERICA_DO_NORTE
+República de Nogueira 1,CR,AFW,AMERICA_DO_SUL
+República de Freitas 1,CS,AFX,AMERICA_DO_NORTE
+República de Lopes,CT,AFY,AFRICA
+República de Aparecida 1,CU,AFZ,ASIA
+República de Fonseca do Norte,CV,AGA,ASIA
+República de Costela de Goiás,CW,AGB,AMERICA_DO_SUL
+República de Fogaça,CX,AGC,AMERICA_DO_NORTE
+República de Pinto Grande,CY,AGD,EUROPA
+República de Castro 1,D0,AGE,ANTARTICA
+República de Jesus,D1,AGF,EUROPA
+República de Cavalcanti,D2,AGG,ANTARTICA
+República de Viana das Pedras,D3,AGH,EUROPA
+República de da Mata 1,D4,AGI,ASIA
+República de Viana,D5,AGJ,OCEANIA
+República de Garcia 1,D6,AGK,ASIA
+República de Melo,D7,AGL,ANTARTICA
+República de Costa,D8,AGM,OCEANIA
+República de Ferreira de das Neves,D9,AGN,AMERICA_DO_NORTE
+República de Câmara,DA,AGO,AMERICA_DO_SUL
+República de Ribeiro,DB,AGP,EUROPA
+República de Guerra 2,DC,AGQ,AMERICA_DO_NORTE
+República de da Mota de Minas,DD,AGR,AMERICA_DO_NORTE
+República de Ferreira do Galho,DF,AGS,AMERICA_DO_SUL
+República de Rocha da Prata,DG,AGT,AMERICA_DO_NORTE
+República de Alves do Campo,DH,AGU,AMERICA_DO_SUL
+República de Cavalcanti Verde,DI,AGV,AFRICA
+República de Andrade do Campo,DJ,AGW,AMERICA_DO_SUL
+República de Ferreira Alegre,DL,AGX,ANTARTICA
+República de Pereira do Galho,DM,AGY,EUROPA
+República de Gomes,DN,AGZ,OCEANIA
+República de da Cunha,DO,AHA,OCEANIA
+República de Santos 2,DP,AHB,EUROPA
+República de Abreu do Galho,DQ,AHC,OCEANIA
+República de Fonseca 1,DR,AHD,AMERICA_DO_SUL
+República de Azevedo Alegre,DS,AHE,ANTARTICA
+República de Ribeiro do Campo 1,DT,AHF,AFRICA
+República de Montenegro da Mata,DU,AHG,ANTARTICA
+República de Duarte das Flores,DV,AHH,OCEANIA
+República de Novaes Grande,DW,AHI,AFRICA
+República de Leão 1,DX,AHJ,EUROPA
+República de Rocha da Serra,DY,AHK,AFRICA
+República de Guerra da Prata,DZ,AHL,AMERICA_DO_NORTE
+República de da Rosa,E0,AHM,ASIA
+República de Costela das Pedras,E1,AHN,AMERICA_DO_NORTE
+República de Martins dos Dourados,E2,AHO,EUROPA
+República de Rocha de Cunha,E3,AHP,OCEANIA
+República de Vieira de Vieira,E4,AHQ,OCEANIA
+República de Ribeiro 1,E5,AHR,AFRICA
+República de da Paz,E6,AHS,AMERICA_DO_SUL
+República de Borges de Goiás,E7,AHT,ANTARTICA
+República de Câmara do Oeste,E8,AHU,ASIA
+República de Alves 1,E9,AHV,AMERICA_DO_SUL
+República de da Cruz 4,EA,AHW,EUROPA
+República de Pimenta de Vargas,EB,AHX,ANTARTICA
+República de Marques,ED,AHY,OCEANIA
+República de Pires Verde,EE,AHZ,AFRICA
+República de Silva 2,EF,AIA,ANTARTICA
+República de Monteiro das Flores,EH,AIB,OCEANIA
+República de Casa Grande,EI,AIC,AMERICA_DO_SUL
+República de Sá,EJ,AID,AMERICA_DO_SUL
+República de Vasconcelos,EK,AIE,ASIA
+República de Câmara da Serra,EL,AIF,ASIA
+República de Aragão de Novais,EM,AIG,AFRICA
+República de Campos,EN,AIH,ANTARTICA
+República de Carvalho de Martins,EO,AII,ASIA
+República de Sá dos Dourados,EP,AIJ,AMERICA_DO_SUL
+República de Novaes dos Dourados,EQ,AIK,ANTARTICA
+República de Souza 1,ER,AIL,AMERICA_DO_SUL
+República de Machado de da Luz,ET,AIM,EUROPA
+República de Porto 2,EU,AIN,AMERICA_DO_SUL
+República de Vargas do Galho,EV,AIO,AFRICA
+República de Pires de da Costa,EW,AIP,AMERICA_DO_NORTE
+República de Macedo de Minas,EX,AIQ,EUROPA
+República de da Costa Paulista 1,EY,AIR,EUROPA
+República de Dias da Prata,EZ,AIS,AFRICA
+República de Carvalho,F0,AIT,ANTARTICA
+República de da Conceição 1,F1,AIU,ANTARTICA
+República de Sales Grande,F2,AIV,AFRICA
+República de Azevedo 1,F3,AIW,ASIA
+República de Jesus Alegre,F4,AIX,EUROPA
+República de Leão de Araújo,F5,AIY,ASIA
+República de Leão 2,F6,AIZ,AMERICA_DO_SUL
+República de Vargas Verde,F7,AJA,EUROPA
+República de Teixeira,F8,AJB,EUROPA
+República de Mendes do Sul,F9,AJC,OCEANIA
+República de da Rosa das Flores,FA,AJD,AMERICA_DO_NORTE
+República de Nascimento da Prata,FB,AJE,ANTARTICA
+República de Mendonça,FC,AJF,EUROPA
+República de da Mata 2,FD,AJG,ANTARTICA
+República de Mendonça do Sul 1,FE,AJH,AMERICA_DO_SUL
+República de Fernandes das Flores,FF,AJI,ANTARTICA
+República de Martins,FG,AJJ,ASIA
+República de Pinto 1,FH,AJK,ASIA
+República de Gonçalves,FJ,AJL,OCEANIA
+República de Barros 1,FK,AJM,AMERICA_DO_NORTE
+República de Carvalho dos Dourados,FL,AJN,AMERICA_DO_SUL
+República de Aragão,FM,AJO,ASIA
+República de Garcia Alegre,FN,AJP,AFRICA
+República de Marques 1,FO,AJQ,AMERICA_DO_SUL
+República de Fernandes das Flores 1,FP,AJR,ANTARTICA
+República de Sá das Pedras,FQ,AJS,AMERICA_DO_SUL
+República de Barros do Amparo,FS,AJT,AMERICA_DO_NORTE
+República de Souza 2,FT,AJU,ASIA
+República de Ferreira,FU,AJV,AMERICA_DO_SUL
+República de Rezende 1,FV,AJW,ANTARTICA
+República de Vasconcelos 1,FW,AJX,OCEANIA
+República de Sá 1,FX,AJY,OCEANIA
+República de da Cruz 5,FY,AJZ,ASIA
+República de Almeida,FZ,AKA,OCEANIA
+República de da Costa,G0,AKB,AFRICA
+República de Melo 1,G1,AKC,AMERICA_DO_NORTE
+República de Nunes 2,G2,AKD,OCEANIA
+República de Martins 1,G3,AKE,OCEANIA
+República de Vargas da Praia,G4,AKF,AFRICA
+República de Pereira 1,G5,AKG,AMERICA_DO_NORTE
+República de Vasconcelos 2,G6,AKH,AMERICA_DO_SUL
+República de das Neves,G7,AKI,AMERICA_DO_NORTE
+República de Pacheco 1,G8,AKJ,EUROPA
+República de das Neves 1,G9,AKK,ASIA
+República de Gonçalves do Oeste,GA,AKL,ASIA
+República de Pastor 2,GC,AKM,EUROPA
+República de Caldeira 1,GD,AKN,AFRICA
+República de Rodrigues do Campo,GE,AKO,EUROPA
+República de Ferreira 1,GF,AKP,AMERICA_DO_SUL
+República de Ribeiro da Praia,GG,AKQ,AMERICA_DO_SUL
+República de Montenegro 2,GH,AKR,ASIA
+República de Albuquerque das Pedras,GI,AKS,AMERICA_DO_SUL
+República de Caldeira de Lopes,GJ,AKT,ASIA
+República de Porto dos Dourados,GK,AKU,EUROPA
+República de Lopes 1,GL,AKV,EUROPA
+República de Siqueira 1,GM,AKW,OCEANIA
+República de Pimenta da Prata,GN,AKX,OCEANIA
+República de Martins de Lopes,GO,AKY,EUROPA
+República de Duarte de Goiás,GP,AKZ,ASIA
+República de da Mota 2,GQ,ALA,EUROPA
+República de da Cruz de Sá,GS,ALB,EUROPA
+República de Nunes de Pimenta,GT,ALC,ANTARTICA
+República de Fernandes do Sul,GU,ALD,AFRICA
+República de Duarte de Cirino,GV,ALE,EUROPA
+República de Cunha de Fogaça,GW,ALF,AMERICA_DO_SUL
+República de Fernandes Paulista 1,GX,ALG,ASIA
+República de Novais do Sul 1,GY,ALH,AFRICA
+República de Barros 2,GZ,ALI,OCEANIA
+República de Silveira 2,H0,ALJ,AMERICA_DO_NORTE
+República de Mendonça da Prata,H1,ALK,ASIA
+República de Sales,H2,ALL,AMERICA_DO_SUL
+República de Ramos de Silva,H3,ALM,ASIA
+República de Machado de Vieira,H4,ALN,OCEANIA
+República de Borges 1,H5,ALO,AMERICA_DO_SUL
+República de Câmara das Flores,H6,ALP,AMERICA_DO_SUL
+República de das Neves 2,H7,ALQ,AMERICA_DO_NORTE
+República de Melo da Prata,H8,ALR,ASIA
+República de Lima da Prata 1,H9,ALS,ANTARTICA
+República de Fogaça dos Dourados,HA,ALT,AMERICA_DO_NORTE
+República de das Neves Paulista,HB,ALU,ANTARTICA
+República de Campos 1,HC,ALV,AMERICA_DO_NORTE
+República de Dias,HD,ALW,ASIA
+República de Souza 3,HE,ALX,EUROPA
+República de Correia 1,HF,ALY,EUROPA
+República de Sousa 1,HG,ALZ,OCEANIA
+República de da Mota de Silveira,HH,AMA,AMERICA_DO_NORTE
+República de Brito do Oeste,HI,AMB,AFRICA
+República de da Conceição da Praia,HJ,AMC,AMERICA_DO_NORTE
+República de da Rosa 1,HK,AMD,AMERICA_DO_NORTE
+República de Santos 3,HL,AME,AMERICA_DO_NORTE
+República de da Mota 3,HM,AMF,ANTARTICA
+República de Aragão 1,HN,AMG,OCEANIA
+República de Sampaio Grande,HO,AMH,EUROPA
+República de Caldeira de Albuquerque,HP,AMI,OCEANIA
+República de Melo do Amparo,HQ,AMJ,OCEANIA
+República de Fernandes de Cirino,HR,AMK,OCEANIA
+República de da Cunha 1,HS,AML,EUROPA
+República de Camargo de Azevedo,HT,AMM,EUROPA
+República de Mendonça de Minas,HV,AMN,AMERICA_DO_NORTE
+República de Cassiano 1,HW,AMO,OCEANIA
+República de Nunes 3,HX,AMP,AFRICA
+República de Barros de Goiás 1,HY,AMQ,ANTARTICA
+República de Novais 1,HZ,AMR,ANTARTICA
+República de Pereira de Goiás,I0,AMS,EUROPA
+República de Machado dos Dourados,I1,AMT,ASIA
+República de Pastor das Pedras,I2,AMU,ASIA
+República de Nunes do Norte,I3,AMV,ASIA
+República de Teixeira 1,I4,AMW,AMERICA_DO_SUL
+República de Pires 2,I5,AMX,AMERICA_DO_NORTE
+República de da Luz 2,I6,AMY,ASIA
+República de Castro 2,I7,AMZ,AMERICA_DO_NORTE
+República de Cavalcanti 1,I8,ANA,ASIA
+República de Castro 3,I9,ANB,AFRICA
+República de Jesus 1,IA,ANC,AMERICA_DO_NORTE
+República de Sales de Peixoto,IB,AND,ASIA
+República de da Rocha de Andrade,IC,ANE,ANTARTICA
+República de da Paz 1,IF,ANF,EUROPA
+República de Sampaio dos Dourados,IG,ANG,AMERICA_DO_NORTE
+República de Rodrigues 2,IH,ANH,ANTARTICA
+República de da Luz 3,II,ANI,ANTARTICA
+República de Lima,IJ,ANJ,ANTARTICA
+República de Nogueira 2,IK,ANK,AMERICA_DO_SUL
+República de Ramos,IL,ANL,EUROPA
+República de da Mata 3,IM,ANM,EUROPA
+República de Barbosa 2,IO,ANN,OCEANIA
+República de Cavalcante 2,IP,ANO,AMERICA_DO_SUL
+República de Peixoto Verde,IQ,ANP,ANTARTICA
+República de Macedo do Campo,IR,ANQ,EUROPA
+República de Sales de da Rosa,IS,ANR,EUROPA
+República de da Mata do Galho,IU,ANS,ANTARTICA
+República de Macedo de Barros,IV,ANT,ANTARTICA
+República de Lopes 2,IW,ANU,ASIA
+República de Pereira Paulista 1,IX,ANV,ASIA
+República de Borges 2,IY,ANW,AMERICA_DO_NORTE
+República de Rocha 2,IZ,ANX,AMERICA_DO_NORTE
+República de Teixeira 2,J0,ANY,AMERICA_DO_NORTE
+República de Oliveira do Norte,J1,ANZ,ASIA
+República de Melo 2,J2,AOA,ANTARTICA
+República de da Mota de Cirino,J3,AOB,AMERICA_DO_NORTE
+República de Porto do Amparo,J4,AOC,EUROPA
+República de Melo 3,J5,AOD,ASIA
+República de Jesus Alegre 1,J6,AOE,AMERICA_DO_NORTE
+República de Rios do Campo,J7,AOF,EUROPA
+República de Farias 1,J8,AOG,AMERICA_DO_NORTE
+República de Sales do Amparo,J9,AOH,AFRICA
+República de Ribeiro das Flores,JA,AOI,ANTARTICA
+República de Marques 2,JB,AOJ,ANTARTICA
+República de Dias 1,JC,AOK,AMERICA_DO_NORTE
+República de Duarte do Campo,JD,AOL,AFRICA
+República de Moraes do Sul,JE,AOM,AMERICA_DO_NORTE
+República de Jesus de Aragão,JF,AON,OCEANIA
+República de Moreira,JG,AOO,OCEANIA
+República de Pinto do Amparo,JH,AOP,ANTARTICA
+República de Teixeira de Aragão,JI,AOQ,AMERICA_DO_SUL
+República de da Mata 4,JJ,AOR,OCEANIA
+República de da Paz 2,JK,AOS,OCEANIA
+República de Sampaio de Mendonça,JL,AOT,AMERICA_DO_NORTE
+República de Alves 2,JM,AOU,ASIA
+República de Santos 4,JN,AOV,ASIA
+República de das Neves 3,JO,AOW,AFRICA
+República de Novaes,JQ,AOX,ASIA
+República de Borges de Goiás 1,JR,AOY,EUROPA
+República de Martins 2,JS,AOZ,AMERICA_DO_SUL
+República de Ramos 1,JT,APA,OCEANIA
+República de Monteiro,JU,APB,AMERICA_DO_SUL
+República de Moraes Paulista,JV,APC,EUROPA
+República de Mendes do Amparo,JW,APD,OCEANIA
+República de Marques 3,JX,APE,AFRICA
+República de Gomes 1,JY,APF,EUROPA
+República de Peixoto 2,JZ,APG,EUROPA
+República de Azevedo 2,K0,APH,AMERICA_DO_SUL
+República de Vargas das Pedras,K1,API,AMERICA_DO_NORTE
+República de Viana do Galho,K2,APJ,AMERICA_DO_SUL
+República de Abreu da Mata,K3,APK,ANTARTICA
+República de Pastor Verde,K4,APL,AMERICA_DO_SUL
+República de Cassiano de Machado,K5,APM,ASIA
+República de Ferreira de Farias,K6,APN,EUROPA
+República de Marques Alegre,K7,APO,AMERICA_DO_SUL
+República de Sampaio,K8,APP,EUROPA
+República de Oliveira,K9,APQ,ANTARTICA
+República de da Conceição das Pedras,KA,APR,ASIA
+República de Dias 2,KB,APS,EUROPA
+República de Santos de Garcia,KC,APT,AMERICA_DO_SUL
+República de Ribeiro Grande,KD,APU,EUROPA
+República de Andrade de Cardoso,KE,APV,OCEANIA
+República de Brito dos Dourados,KF,APW,ANTARTICA
+República de Moura,KG,APX,ASIA
+República de Albuquerque de Silveira,KH,APY,AMERICA_DO_NORTE
+República de Jesus 2,KI,APZ,EUROPA
+República de Barbosa 3,KJ,AQA,AMERICA_DO_SUL
+República de Viana de da Luz,KK,AQB,ASIA
+República de Pinto das Flores,KL,AQC,AMERICA_DO_SUL
+República de Farias 2,KM,AQD,AMERICA_DO_SUL
+República de Dias do Amparo,KN,AQE,EUROPA
+República de Pinto 2,KO,AQF,AMERICA_DO_SUL
+República de da Costa 1,KP,AQG,EUROPA
+República de da Conceição de Minas,KQ,AQH,AMERICA_DO_NORTE
+República de Brito do Campo,KS,AQI,OCEANIA
+República de Cavalcante de Sales,KT,AQJ,AMERICA_DO_SUL
+República de Alves do Norte,KU,AQK,AMERICA_DO_SUL
+República de Vieira do Norte,KV,AQL,AMERICA_DO_SUL
+República de Fogaça da Praia,KW,AQM,AFRICA
+República de Casa Grande de Goiás,KX,AQN,AFRICA
+República de Nunes da Serra,KY,AQO,ASIA
+República de Cavalcanti 2,KZ,AQP,OCEANIA
+República de Pimenta,L0,AQQ,OCEANIA
+República de Pinto de Goiás,L1,AQR,AFRICA
+República de Pacheco de Casa Grande,L2,AQS,ASIA
+República de Martins 3,L3,AQT,AFRICA
+República de Marques Paulista,L4,AQU,AMERICA_DO_NORTE
+República de Martins 4,L5,AQV,ASIA
+República de Rocha da Prata 1,L6,AQW,OCEANIA
+República de Barbosa 4,L7,AQX,OCEANIA
+República de Ferreira de Pastor,L8,AQY,AFRICA
+República de Porto das Pedras,L9,AQZ,AMERICA_DO_NORTE
+República de Marques da Mata,LA,ARA,AFRICA
+República de Gomes 2,LB,ARB,ANTARTICA
+República de Caldeira de da Costa,LC,ARC,EUROPA
+República de Oliveira da Praia,LD,ARD,EUROPA
+República de Sampaio da Mata,LE,ARE,AMERICA_DO_NORTE
+República de Ribeiro 2,LF,ARF,AMERICA_DO_SUL
+República de da Mota do Sul,LG,ARH,AMERICA_DO_SUL
+República de Pereira 2,LH,ARI,EUROPA
+República de da Paz de Vasconcelos,LI,ARJ,EUROPA
+República de Pereira 3,LJ,ARK,AMERICA_DO_SUL
+República de Câmara do Oeste 1,LK,ARL,ASIA
+República de Rocha Grande,LL,ARM,AMERICA_DO_SUL
+República de Pires 3,LM,ARN,AFRICA
+República de das Neves 4,LN,ARO,ASIA
+República de Andrade de Pacheco,LO,ARP,AFRICA
+República de Siqueira Grande,LP,ARQ,EUROPA
+República de da Rocha 1,LQ,ARR,ASIA
+República de Souza das Pedras,LR,ARS,AFRICA
+República de Costa 1,LS,ART,AFRICA
+República de Viana 1,LT,ARU,ASIA
+República de Moura do Galho,LU,ARV,AMERICA_DO_NORTE
+República de Cavalcante Paulista,LV,ARW,ANTARTICA
+República de da Rocha de Souza,LW,ARX,AMERICA_DO_SUL
+República de Camargo dos Dourados,LX,ARY,OCEANIA
+República de Casa Grande 1,LY,ARZ,AFRICA
+República de Rocha 3,LZ,ASA,AMERICA_DO_SUL
+República de Novais da Praia,M0,ASB,ANTARTICA
+República de Vieira 1,M1,ASC,OCEANIA
+República de Albuquerque Paulista,M2,ASD,AMERICA_DO_SUL
+República de Marques 4,M3,ASE,EUROPA
+República de Rocha Paulista,M4,ASF,OCEANIA
+República de Porto da Praia,M5,ASG,ANTARTICA
+República de Rocha 4,M6,ASH,AMERICA_DO_SUL
+República de Melo 4,M7,ASI,AFRICA
+República de Pinto 3,M8,ASJ,OCEANIA
+República de Pimenta de Goiás,M9,ASK,EUROPA
+República de Porto 3,MA,ASL,ASIA
+República de Sampaio de da Rosa,MB,ASM,AFRICA
+República de Camargo Grande,MC,ASN,EUROPA
+República de Andrade 2,MD,ASO,EUROPA
+República de Monteiro do Campo,ME,ASP,OCEANIA
+República de da Costa 2,MF,ASQ,AMERICA_DO_SUL
+República de Gomes 3,MG,ASR,ASIA
+República de Freitas de Rios,MH,ASS,AFRICA
+República de Pastor Grande,MI,AST,AFRICA
+República de Rezende do Campo,MJ,ASU,AMERICA_DO_SUL
+República de Pimenta de Jesus,MK,ASV,ASIA
+República de Andrade da Praia,ML,ASW,OCEANIA
+República de Macedo,MM,ASX,AFRICA
+República de da Costa de Fonseca,MN,ASY,ASIA
+República de Rodrigues 3,MO,ASZ,OCEANIA
+República de Nogueira da Praia,MP,ATA,OCEANIA
+República de Gonçalves 1,MQ,ATB,ANTARTICA
+República de Correia do Campo,MR,ATC,AFRICA
+República de Borges de Ribeiro,MS,ATD,AMERICA_DO_SUL
+República de Ramos 2,MT,ATE,AMERICA_DO_NORTE
+República de Aragão 2,MU,ATF,AFRICA
+República de da Cruz Grande,MV,ATG,ANTARTICA
+República de Azevedo 3,MW,ATH,EUROPA
+República de Pastor 3,MZ,ATI,EUROPA
+República de da Conceição 2,N0,ATJ,OCEANIA
+República de Vasconcelos Grande,N1,ATK,AMERICA_DO_NORTE
+República de da Mota 4,N2,ATL,ANTARTICA
+República de Cardoso 1,N3,ATM,AFRICA
+República de Cavalcanti do Campo,N4,ATN,EUROPA
+República de Cardoso 2,N5,ATO,EUROPA
+República de Fogaça 1,N6,ATP,AFRICA
+República de Pastor 4,N7,ATQ,ANTARTICA
+República de Almeida da Serra,N8,ATR,ASIA
+República de Aragão Grande,N9,ATS,OCEANIA
+República de Moura do Campo,NA,ATT,AFRICA
+República de Melo 5,NB,ATU,ASIA
+República de Vasconcelos de Fonseca,NC,ATV,OCEANIA
+República de Machado,ND,ATW,AMERICA_DO_NORTE
+República de Pimenta 1,NE,ATX,AMERICA_DO_SUL
+República de Siqueira 2,NF,ATY,OCEANIA
+República de Marques do Sul,NH,ATZ,AMERICA_DO_NORTE
+República de Mendes,NI,AUA,AMERICA_DO_SUL
+República de Lima do Campo,NJ,AUB,EUROPA
+República de Silva de Macedo,NK,AUC,EUROPA
+República de Barros 3,NM,AUD,EUROPA
+República de Pereira Grande,NN,AUE,OCEANIA
+República de Cardoso 3,NP,AUF,ASIA
+República de Pinto Verde,NQ,AUG,AMERICA_DO_SUL
+República de Garcia do Galho,NR,AUH,EUROPA
+República de Marques do Galho,NS,AUI,ANTARTICA
+República de Brito do Campo 1,NT,AUJ,AFRICA
+República de Lopes 3,NU,AUK,AMERICA_DO_SUL
+República de da Conceição de Jesus,NV,AUL,AMERICA_DO_SUL
+República de Marques das Flores,NW,AUM,ASIA
+República de Siqueira do Campo,NX,AUN,AMERICA_DO_NORTE
+República de Lima Alegre,NY,AUO,ASIA
+República de Freitas Grande,O0,AUP,EUROPA
+República de Azevedo de Borges,O1,AUQ,AFRICA
+República de Borges 3,O2,AUR,AFRICA
+República de Brito da Praia 1,O3,AUU,ANTARTICA
+República de Novais 2,O4,AUV,ANTARTICA
+República de Pastor 5,O5,AUW,EUROPA
+República de Rios do Campo 1,O6,AUX,AFRICA
+República de Fogaça das Pedras 1,O7,AUY,ASIA
+República de da Paz 3,O8,AUZ,OCEANIA
+República de Fogaça do Campo,O9,AVA,ASIA
+República de Cassiano 2,OA,AVB,OCEANIA
+República de Câmara de Caldeira,OB,AVC,EUROPA
+República de Novais da Praia 1,OC,AVD,AFRICA
+República de Teixeira 3,OD,AVE,ANTARTICA
+República de Oliveira de Goiás,OE,AVF,AMERICA_DO_SUL
+República de Novais da Prata,OF,AVG,ANTARTICA
+República de Pereira 4,OG,AVH,AMERICA_DO_NORTE
+República de Alves da Serra,OH,AVI,AMERICA_DO_SUL
+República de Sampaio da Mata 1,OI,AVJ,OCEANIA
+República de Ferreira do Sul,OJ,AVK,ASIA
+República de Casa Grande 2,OK,AVL,ASIA
+República de Azevedo Grande,OL,AVM,ANTARTICA
+República de Borges 4,OM,AVN,ASIA
+República de Garcia 2,ON,AVO,ANTARTICA
+República de Marques Alegre 1,OO,AVP,ANTARTICA
+República de Freitas 2,OP,AVQ,ASIA
+República de Silveira Alegre,OQ,AVR,AMERICA_DO_NORTE
+República de Aragão 3,OR,AVS,EUROPA
+República de Castro 4,OS,AVT,ASIA
+República de Rocha 5,OT,AVU,OCEANIA
+República de da Mata 5,OU,AVV,AFRICA
+República de Ribeiro de Lima,OV,AVW,ANTARTICA
+República de Pereira de Macedo,OW,AVX,AMERICA_DO_NORTE
+República de da Mata do Oeste,OX,AVY,ANTARTICA
+República de Ferreira 2,OY,AVZ,OCEANIA
+República de Camargo da Mata,OZ,AWA,ANTARTICA
+República de Moura de Rios,P0,AWB,OCEANIA
+República de Aparecida de Goiás,P1,AWC,ANTARTICA
+República de Peixoto do Norte,P2,AWD,ASIA
+República de Costela,P3,AWE,AFRICA
+República de Cunha Grande,P4,AWF,ASIA
+República de da Rocha Alegre,P5,AWG,ANTARTICA
+República de Abreu 1,P6,AWH,OCEANIA
+República de Souza de Lopes,P7,AWI,EUROPA
+República de Cardoso 4,P8,AWJ,AMERICA_DO_NORTE
+República de Nascimento de Goiás,P9,AWK,ANTARTICA
+República de Barbosa das Flores,PA,AWL,EUROPA
+República de Lopes 4,PB,AWM,ANTARTICA
+República de Marques 5,PC,AWN,AMERICA_DO_NORTE
+República de Dias 3,PD,AWO,ASIA
+República de Oliveira das Flores,PF,AWP,ASIA
+República de da Rocha do Campo,PG,AWQ,ANTARTICA
+República de Almeida Alegre,PI,AWR,AMERICA_DO_NORTE
+República de Pinto 4,PJ,AWS,AFRICA
+República de Sales de Fonseca,PK,AWT,AFRICA
+República de Lopes 5,PM,AWU,ANTARTICA
+República de da Cruz 6,PN,AWV,ANTARTICA
+República de Pastor das Flores,PO,AWW,ANTARTICA
+República de Gonçalves 2,PP,AWX,ASIA
+República de Souza Alegre,PQ,AWY,ASIA
+República de Farias 3,PR,AWZ,EUROPA
+República de Barbosa 5,PS,AXA,OCEANIA
+República de Moura 1,PU,AXB,ASIA
+República de Vasconcelos 3,PV,AXC,AMERICA_DO_NORTE
+República de Ferreira Grande,PW,AXD,AFRICA
+República de Caldeira 2,PX,AXE,AFRICA
+República de da Cunha 2,PZ,AXF,ANTARTICA
+República de Cavalcanti 3,Q0,AXG,EUROPA
+República de Teixeira 4,Q1,AXH,ANTARTICA
+República de Cavalcanti 4,Q2,AXI,AFRICA
+República de Martins de Sá,Q3,AXJ,AFRICA
+República de Rodrigues de Nunes,Q4,AXK,OCEANIA
+República de Pires Alegre,Q5,AXL,AMERICA_DO_SUL
+República de Macedo 1,Q6,AXM,AMERICA_DO_NORTE
+República de Melo 6,Q7,AXN,OCEANIA
+República de Pires de da Rosa,Q8,AXO,ANTARTICA
+República de Pastor do Norte,Q9,AXP,AMERICA_DO_SUL
+República de Montenegro de Minas,QA,AXQ,AFRICA
+República de Martins dos Dourados 1,QB,AXR,EUROPA
+República de Araújo 2,QC,AXS,EUROPA
+República de da Paz de Minas,QD,AXT,AFRICA
+República de Pimenta 2,QE,AXU,ASIA
+República de Martins Verde,QF,AXV,AMERICA_DO_SUL
+República de Machado 1,QG,AXW,AFRICA
+República de Duarte,QH,AXX,EUROPA
+República de Montenegro de Cassiano,QI,AXY,EUROPA
+República de Machado 2,QJ,AXZ,AMERICA_DO_SUL
+República de Fernandes,QK,AYA,AMERICA_DO_NORTE
+República de Montenegro 3,QL,AYB,AFRICA
+República de Aparecida 2,QM,AYC,OCEANIA
+República de Santos 5,QN,AYD,ANTARTICA
+República de Macedo de Moura,QO,AYE,AFRICA
+República de Fonseca 2,QP,AYF,AMERICA_DO_NORTE
+República de da Paz das Flores,QQ,AYG,AMERICA_DO_SUL
+República de Vasconcelos Alegre,QR,AYH,AMERICA_DO_SUL
+República de Vieira 2,QS,AYI,EUROPA
+República de Azevedo Alegre 1,QT,AYJ,AMERICA_DO_NORTE
+República de Novais 3,QU,AYK,AMERICA_DO_SUL
+República de da Paz Paulista,QV,AYL,ASIA
+República de Farias 4,QW,AYM,AFRICA
+República de Pacheco 2,QX,AYN,EUROPA
+República de Ferreira 3,QY,AYO,OCEANIA
+República de Rezende das Flores,QZ,AYP,AMERICA_DO_NORTE
+República de Peixoto 3,R0,AYQ,EUROPA
+República de das Neves 5,R1,AYR,AMERICA_DO_SUL
+República de Ramos Alegre,R2,AYS,ANTARTICA
+República de Rios 1,R3,AYT,AMERICA_DO_SUL
+República de Ramos 3,R4,AYU,OCEANIA
+República de Moraes da Praia,R5,AYV,OCEANIA
+República de Fonseca 3,R6,AYW,OCEANIA
+República de Cirino do Oeste,R7,AYX,OCEANIA
+República de Vargas do Amparo,R8,AYY,OCEANIA
+República de Câmara 1,R9,AYZ,ASIA
+República de Cassiano 3,RA,AZA,AFRICA
+República de da Rocha 2,RB,AZB,AMERICA_DO_NORTE
+República de Montenegro 4,RC,AZC,EUROPA
+República de Ribeiro 3,RD,AZD,OCEANIA
+República de Vargas Grande,RE,AZE,AFRICA
+República de Cassiano da Serra,RF,AZF,AMERICA_DO_SUL
+República de Sales 1,RG,AZG,AFRICA
+República de Silveira 3,RH,AZH,OCEANIA
+República de Aparecida de Jesus,RI,AZI,ANTARTICA
+República de Rocha de Goiás,RJ,AZJ,EUROPA
+República de Pimenta de da Paz,RK,AZK,OCEANIA
+República de da Conceição de Nascimento,RL,AZL,AFRICA
+República de das Neves 6,RM,AZM,AMERICA_DO_SUL
+República de Correia de Freitas,RN,AZN,AFRICA
+República de Martins de Vargas,RP,AZO,OCEANIA
+República de Vasconcelos das Flores,RQ,AZP,AMERICA_DO_NORTE
+República de Castro do Oeste,RR,AZQ,AFRICA
+República de da Cunha 3,RS,AZR,AMERICA_DO_NORTE
+República de Ramos 4,RT,AZS,OCEANIA
+República de Freitas de Novaes,RV,AZT,AFRICA
+República de Silva 3,RW,AZU,AMERICA_DO_SUL
+República de da Paz 4,RX,AZV,ASIA
+República de Teixeira 5,RY,AZW,ASIA
+República de da Mata 6,RZ,AZX,AMERICA_DO_NORTE
+República de Moraes de Casa Grande,S0,AZY,OCEANIA
+República de Borges de Goiás 2,S1,AZZ,AMERICA_DO_NORTE
+República de Ferreira de Alves,S2,BAA,OCEANIA
+República de Aragão das Flores,S3,BAB,OCEANIA
+República de da Costa das Flores,S4,BAC,ASIA
+República de Freitas 3,S5,BAD,AMERICA_DO_SUL
+República de Alves 3,S6,BAE,AMERICA_DO_SUL
+República de Brito Alegre,S7,BAF,AFRICA
+República de Carvalho 1,S8,BAG,AMERICA_DO_NORTE
+República de da Paz 5,S9,BAH,AMERICA_DO_SUL
+República de Sampaio de Carvalho,SB,BAI,ANTARTICA
+República de Machado de Pimenta,SC,BAJ,EUROPA
+República de Barros 4,SD,BAK,AFRICA
+República de da Cunha 4,SF,BAL,AFRICA
+República de Cassiano 4,SG,BAM,ASIA
+República de Camargo da Mata 1,SH,BAN,AMERICA_DO_NORTE
+República de da Rosa 2,SI,BAO,ANTARTICA
+República de Aragão 4,SJ,BAP,AMERICA_DO_SUL
+República de Leão 3,SK,BAQ,AMERICA_DO_SUL
+República de Azevedo de Camargo,SL,BAR,OCEANIA
+República de Peixoto de Nascimento,SM,BAS,AFRICA
+República de Pires 4,SN,BAT,AMERICA_DO_NORTE
+República de Silva 4,SO,BAU,AMERICA_DO_NORTE
+República de da Rocha 3,SP,BAV,AMERICA_DO_NORTE
+República de Abreu da Praia,SQ,BAW,OCEANIA
+República de Oliveira 1,SR,BAX,ASIA
+República de Cirino de Minas,SS,BAY,AMERICA_DO_SUL
+República de Azevedo do Galho,ST,BAZ,AMERICA_DO_NORTE
+República de Gomes 4,SU,BBA,ANTARTICA
+República de Aparecida de Porto,SV,BBB,ANTARTICA
+República de Freitas Paulista,SW,BBC,OCEANIA
+República de Fogaça 2,SX,BBD,ASIA
+República de Ferreira 4,SY,BBE,OCEANIA
+República de Siqueira 3,SZ,BBF,EUROPA
+República de Vargas 1,T0,BBG,AFRICA
+República de Carvalho do Norte,T1,BBH,AMERICA_DO_SUL
+República de Nogueira Alegre,T2,BBI,OCEANIA
+República de Vasconcelos 4,T3,BBJ,OCEANIA
+República de Sampaio de Mendes,T4,BBK,AMERICA_DO_SUL
+República de Carvalho 2,T5,BBL,AFRICA
+República de Silva 5,T6,BBM,EUROPA
+República de Andrade de da Rocha,T7,BBN,ANTARTICA
+República de Aparecida 3,T8,BBO,ANTARTICA
+República de Aparecida 4,T9,BBP,ASIA
+República de das Neves do Galho,TA,BBQ,OCEANIA
+República de Nogueira do Amparo,TB,BBR,AFRICA
+República de Andrade do Oeste,TC,BBS,ASIA
+República de Fogaça do Norte,TD,BBT,ANTARTICA
+República de da Mata do Campo,TE,BBU,ASIA
+República de Lopes das Flores,TF,BBV,ASIA
+República de Gomes de Fernandes,TG,BBW,EUROPA
+República de Monteiro 1,TI,BBX,EUROPA
+República de Freitas de Moreira,TJ,BBY,ASIA
+República de Barros das Pedras,TK,BBZ,AMERICA_DO_NORTE
+República de Lopes 6,TL,BCA,AMERICA_DO_SUL
+República de Nogueira 3,TM,BCB,ANTARTICA
+República de Duarte do Campo 1,TN,BCC,ANTARTICA
+República de Duarte 1,TO,BCD,EUROPA
+República de das Neves dos Dourados,TP,BCE,AMERICA_DO_NORTE
+República de Cavalcante dos Dourados,TQ,BCF,AMERICA_DO_NORTE
+República de Machado do Norte,TS,BCG,OCEANIA
+República de Pimenta das Pedras,TT,BCH,AMERICA_DO_SUL
+República de Porto do Norte,TU,BCI,ASIA
+República de Rios 2,TV,BCJ,OCEANIA
+República de Fonseca do Galho,TW,BCK,OCEANIA
+República de Alves 4,TX,BCL,AMERICA_DO_NORTE
+República de Pereira 5,TY,BCM,AMERICA_DO_NORTE
+República de Andrade de Cardoso 1,TZ,BCN,AMERICA_DO_NORTE
+República de da Costa 3,U0,BCO,ASIA
+República de Fonseca das Flores,U1,BCP,ASIA
+República de Pereira 6,U2,BCQ,OCEANIA
+República de Rocha 6,U3,BCR,OCEANIA
+República de Freitas de Freitas,U4,BCS,EUROPA
+República de Teixeira de Barbosa,U5,BCT,ANTARTICA
+República de Moura 2,U6,BCU,ANTARTICA
+República de Gonçalves Alegre,U7,BCV,ANTARTICA
+República de da Cruz do Campo,U8,BCW,EUROPA
+República de Sousa 2,U9,BCX,ANTARTICA
+República de Monteiro 2,UA,BCY,AMERICA_DO_NORTE
+República de Novais do Campo,UB,BCZ,ASIA
+República de Vasconcelos Paulista,UC,BDA,ASIA
+República de Cunha de Pimenta,UD,BDB,ANTARTICA
+República de Sales do Amparo 1,UE,BDC,OCEANIA
+República de Campos 2,UF,BDD,AMERICA_DO_SUL
+República de Barbosa 6,UG,BDE,AMERICA_DO_NORTE
+República de Cavalcanti de Silva,UH,BDF,EUROPA
+República de Borges de Rodrigues,UI,BDG,AMERICA_DO_SUL
+República de Rios da Praia,UJ,BDH,ASIA
+República de Novaes 1,UK,BDI,ANTARTICA
+República de da Rosa da Serra,UL,BDJ,EUROPA
+República de Vieira 3,UM,BDK,AMERICA_DO_NORTE
+República de Moraes de Goiás,UN,BDL,ASIA
+República de Costa 2,UO,BDM,ANTARTICA
+República de da Costa 4,UP,BDN,AMERICA_DO_NORTE
+República de Alves de Fonseca,UQ,BDO,OCEANIA
+República de Martins da Prata,UR,BDP,AMERICA_DO_SUL
+República de Pimenta 3,UT,BDQ,AMERICA_DO_SUL
+República de Azevedo 4,UU,BDR,AMERICA_DO_SUL
+República de Gonçalves do Amparo,UV,BDS,AFRICA
+República de Vargas das Pedras 1,UW,BDT,ANTARTICA
+República de Cardoso 5,UX,BDU,AMERICA_DO_NORTE
+República de Ramos de Minas,UZ,BDV,AMERICA_DO_SUL
+República de Martins de Rodrigues,V0,BDW,ANTARTICA
+República de Cardoso da Prata,V1,BDX,OCEANIA
+República de Vargas 2,V2,BDY,AMERICA_DO_SUL
+República de Lopes 7,V3,BDZ,AMERICA_DO_NORTE
+República de Campos 3,V4,BEA,ANTARTICA
+República de da Rosa 3,V5,BEB,AMERICA_DO_SUL
+República de Castro 5,V6,BEC,AMERICA_DO_NORTE
+República de Santos de Goiás,V7,BED,ASIA
+República de Moreira da Mata,V8,BEE,OCEANIA
+República de da Cunha 5,V9,BEF,ANTARTICA
+República de Porto 4,VA,BEG,AMERICA_DO_NORTE
+República de Cardoso da Mata 1,VB,BEH,AMERICA_DO_NORTE
+República de Montenegro 5,VC,BEI,AFRICA
+República de Pastor 6,VD,BEJ,ANTARTICA
+República de Cavalcante 3,VF,BEK,ASIA
+República de Nunes do Norte 1,VG,BEM,ANTARTICA
+República de Barros 5,VH,BEN,OCEANIA
+República de Ramos 5,VI,BEO,AFRICA
+República de Rezende do Oeste,VJ,BEP,ANTARTICA
+República de Pinto do Sul,VK,BEQ,ANTARTICA
+República de Pires de Nogueira,VL,BER,AMERICA_DO_SUL
+República de Ramos da Mata,VM,BES,AMERICA_DO_NORTE
+República de da Cruz de Rodrigues,VO,BET,OCEANIA
+República de da Rosa dos Dourados,VP,BEU,ASIA
+República de Sales 2,VQ,BEV,AFRICA
+República de Castro 6,VR,BEW,AMERICA_DO_NORTE
+República de Leão de Mendes,VS,BEX,EUROPA
+República de Costela de Fernandes,VT,BEY,OCEANIA
+República de Dias 4,VU,BEZ,AFRICA
+República de Siqueira da Praia,VV,BFA,ASIA
+República de Cardoso da Praia 1,VW,BFB,AFRICA
+República de Dias 5,VX,BFC,AFRICA
+República de Martins 5,VY,BFD,AFRICA
+República de da Mata 7,VZ,BFE,AMERICA_DO_SUL
+República de da Cruz de Casa Grande,W0,BFF,EUROPA
+República de Aragão 5,W1,BFG,ASIA
+República de Gomes das Pedras,W2,BFH,ASIA
+República de Castro 7,W3,BFI,ASIA
+República de Oliveira Alegre,W4,BFJ,AMERICA_DO_NORTE
+República de Teixeira 6,W5,BFK,OCEANIA
+República de Monteiro 3,W6,BFL,ASIA
+República de Monteiro de das Neves,W7,BFM,OCEANIA
+República de Almeida de Borges,W8,BFN,ASIA
+República de Montenegro dos Dourados,W9,BFO,EUROPA
+República de Cunha 3,WA,BFP,AMERICA_DO_NORTE
+República de Aragão do Norte,WB,BFQ,AMERICA_DO_NORTE
+República de Monteiro do Amparo,WC,BFR,AFRICA
+República de Nascimento do Sul,WD,BFS,AMERICA_DO_SUL
+República de Lopes 8,WE,BFT,AMERICA_DO_NORTE
+República de da Luz 4,WF,BFU,AMERICA_DO_NORTE
+República de Teixeira das Flores,WG,BFV,EUROPA
+República de Aparecida das Flores,WH,BFW,ASIA
+República de Nunes 4,WI,BFX,ANTARTICA
+República de Fonseca 4,WJ,BFY,AMERICA_DO_NORTE
+República de Barbosa das Flores 1,WK,BFZ,AMERICA_DO_NORTE
+República de Teixeira de Novaes,WL,BGA,ANTARTICA
+República de Pinto do Campo,WM,BGB,AMERICA_DO_SUL
+República de Brito 1,WN,BGC,OCEANIA
+República de Freitas Alegre,WO,BGD,EUROPA
+República de Sá Grande,WP,BGE,ANTARTICA
+República de Pereira 7,WQ,BGF,ANTARTICA
+República de Montenegro do Norte,WR,BGG,AMERICA_DO_SUL
+República de Andrade 3,WS,BGH,AMERICA_DO_NORTE
+República de Silva 6,WT,BGI,AMERICA_DO_NORTE
+República de Melo do Galho,WU,BGJ,EUROPA
+República de Cassiano de Pereira,WV,BGK,AFRICA
+República de Duarte 2,WW,BGL,AFRICA
+República de Castro das Flores,WX,BGM,ANTARTICA
+República de Pastor Alegre,WY,BGN,AMERICA_DO_NORTE
+República de Santos de Nunes,WZ,BGO,ANTARTICA
+República de Melo do Sul,X0,BGP,ANTARTICA
+República de Farias do Campo,X1,BGQ,AMERICA_DO_NORTE
+República de Pacheco da Mata,X2,BGR,AMERICA_DO_SUL
+República de Peixoto 4,X3,BGS,OCEANIA
+República de da Luz de Rezende,X4,BGT,OCEANIA
+República de Silveira 4,X5,BGU,AMERICA_DO_SUL
+República de Pacheco 3,X6,BGV,ANTARTICA
+República de Cavalcante de Moura,X7,BGW,AMERICA_DO_SUL
+República de Casa Grande de Goiás 1,X8,BGX,ASIA
+República de Oliveira 2,X9,BGY,AMERICA_DO_NORTE
+República de Correia 2,XA,BGZ,ASIA
+República de Macedo 2,XB,BHA,AFRICA
+República de Leão Grande,XC,BHB,AMERICA_DO_NORTE
+República de Sales do Oeste,XD,BHC,AMERICA_DO_NORTE
+República de Montenegro do Amparo,XE,BHD,EUROPA
+República de Santos 6,XF,BHE,AMERICA_DO_NORTE
+República de Moreira 1,XG,BHF,AFRICA
+República de Novais 4,XH,BHG,OCEANIA
+República de Ribeiro do Amparo,XI,BHH,OCEANIA
+República de Dias da Serra,XJ,BHI,ANTARTICA
+República de Nascimento de Fernandes,XK,BHJ,AMERICA_DO_NORTE
+República de Rocha Paulista 1,XL,BHK,OCEANIA
+República de Correia de da Cruz,XM,BHL,ASIA
+República de Novais da Mata,XN,BHM,ANTARTICA
+República de da Rosa 4,XO,BHN,AMERICA_DO_NORTE
+República de Santos do Oeste,XP,BHO,ASIA
+República de Dias de Mendes,XQ,BHP,AMERICA_DO_SUL
+República de Novais Paulista,XR,BHQ,AMERICA_DO_SUL
+República de Campos Verde,XS,BHR,EUROPA
+República de Gonçalves da Praia,XT,BHS,AMERICA_DO_NORTE
+República de da Rocha 4,XU,BHT,AMERICA_DO_SUL
+República de da Paz 6,XV,BHU,AMERICA_DO_SUL
+República de Ferreira 5,XW,BHV,OCEANIA
+República de Rezende de da Cunha,XX,BHW,EUROPA
+República de Cunha de Costa,XY,BHX,EUROPA
+República de Novais Paulista 1,XZ,BHY,OCEANIA
+República de Caldeira 3,Y0,BHZ,AMERICA_DO_NORTE
+República de da Cruz 7,Y1,BIA,ASIA
+República de Rios 3,Y2,BIB,ANTARTICA
+República de Porto 5,Y3,BIC,AMERICA_DO_NORTE
+República de Aragão 6,Y4,BID,ASIA
+República de Jesus 3,Y5,BIE,EUROPA
+República de Silva do Amparo,Y6,BIF,AFRICA
+República de Rodrigues 4,Y7,BIG,AMERICA_DO_NORTE
+República de Abreu 2,Y8,BIH,AFRICA
+República de Jesus 4,Y9,BII,ASIA
+República de Mendes de Rezende,YA,BIJ,AMERICA_DO_NORTE
+República de Sá 2,YB,BIK,AFRICA
+República de Duarte da Mata,YC,BIL,AFRICA
+República de Vargas 3,YD,BIM,ANTARTICA
+República de Rezende 2,YE,BIN,AMERICA_DO_NORTE
+República de Nascimento 1,YF,BIO,AFRICA
+República de Cavalcanti 5,YG,BIP,ANTARTICA
+República de Cavalcanti do Norte,YH,BIQ,ANTARTICA
+República de Viana do Amparo,YI,BIR,AMERICA_DO_NORTE
+República de Souza 4,YJ,BIS,AFRICA
+República de Andrade do Sul 1,YK,BIT,ANTARTICA
+República de Nunes do Campo,YL,BIU,EUROPA
+República de da Paz dos Dourados,YM,BIV,AMERICA_DO_NORTE
+República de Carvalho de Montenegro,YN,BIW,EUROPA
+República de da Mata de Correia,YO,BIX,OCEANIA
+República de Farias 5,YP,BIY,AMERICA_DO_SUL
+República de Siqueira 4,YQ,BIZ,EUROPA
+República de Ramos de da Cunha,YR,BJA,AFRICA
+República de Albuquerque 1,YS,BJB,ASIA
+República de Vieira da Mata,YT,BJC,OCEANIA
+República de Cavalcanti 6,YU,BJD,EUROPA
+República de Lima do Galho,YV,BJE,ANTARTICA
+República de Borges das Flores,YW,BJF,OCEANIA
+República de Cirino 1,YX,BJG,EUROPA
+República de Mendes 1,YY,BJH,ANTARTICA
+República de da Cruz do Sul,YZ,BJI,EUROPA
+República de Gomes de Goiás,Z0,BJJ,ASIA
+República de Sá de da Mata,Z1,BJK,ASIA
+República de da Rosa Verde,Z2,BJL,ANTARTICA
+República de da Luz 5,Z3,BJM,EUROPA
+República de Sales de Goiás,Z4,BJN,AMERICA_DO_SUL
+República de Rios 4,Z5,BJO,ASIA
+República de Martins 6,Z6,BJP,ASIA
+República de Castro das Flores 1,Z7,BJQ,ASIA
+República de Sales do Campo,Z8,BJR,AMERICA_DO_NORTE
+República de Freitas de Goiás,Z9,BJS,OCEANIA
+República de Carvalho 3,ZB,BJT,EUROPA
+República de Cassiano de Marques,ZC,BJU,AMERICA_DO_SUL
+República de Leão da Prata,ZD,BJV,ASIA
+República de Sá de Nascimento,ZE,BJW,AMERICA_DO_NORTE
+República de Teixeira 7,ZF,BJX,OCEANIA
+República de Rodrigues 5,ZG,BJY,AFRICA
+República de Moura 3,ZH,BJZ,ANTARTICA
+República de Moura de Santos,ZI,BKA,AFRICA
+República de Barbosa Verde,ZJ,BKB,ASIA
+República de Araújo 3,ZK,BKC,AMERICA_DO_SUL
+República de Oliveira 3,ZL,BKD,AMERICA_DO_SUL
+República de Cavalcante 4,ZM,BKE,OCEANIA
+República de Moreira dos Dourados,ZN,BKF,OCEANIA
+República de Rodrigues 6,ZO,BKG,EUROPA
+República de Silva 7,ZP,BKH,ANTARTICA
+República de Borges de Moraes,ZQ,BKI,ANTARTICA
+República de Araújo de Marques,ZR,BKJ,ASIA
+República de Moraes,ZS,BKK,AFRICA
+República de Marques Verde,ZT,BKL,EUROPA
+República de Novais 5,ZU,BKM,AMERICA_DO_SUL
+República de Rocha de das Neves,ZV,BKN,EUROPA
+República de Gonçalves 3,ZW,BKO,AFRICA
+República de Abreu do Oeste,ZX,BKP,AMERICA_DO_SUL
+República de Aparecida 5,ZY,BKQ,OCEANIA
+República de Ferreira de Minas,ZZ,BKR,AMERICA_DO_NORTE

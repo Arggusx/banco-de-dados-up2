@@ -1,0 +1,1001 @@
+nome,descricao,peso_max_kg,dimensoes_max_cm,taxa_extra
+MAO_PEQUENA,Bagagem do tipo mao pequena.,8.0,40x30x20,0.0
+MAO_STANDARD,Bagagem do tipo mao standard.,10.0,55x35x25,0.0
+MAO_GRANDE,Bagagem do tipo mao grande.,12.0,55x40x25,25.0
+PORAO_PEQUENA,Bagagem do tipo porao pequena.,18.0,60x40x30,30.0
+PORAO_STANDARD,Bagagem do tipo porao standard.,23.0,70x50x30,0.0
+PORAO_GRANDE,Bagagem do tipo porao grande.,32.0,80x60x40,50.0
+PORAO_EXTRA,Bagagem do tipo porao extra.,40.0,90x70x50,100.0
+ESPECIAL_ESPORTIVA,Bagagem do tipo especial esportiva.,30.0,Variável,80.0
+ESPECIAL_MUSICAL,Bagagem do tipo especial musical.,25.0,Variável,75.0
+ESPECIAL_ANIMAL,Bagagem do tipo especial animal.,15.0,50x40x30,120.0
+ESPECIAL_FRAGIL,Bagagem do tipo especial fragil.,20.0,60x50x40,60.0
+OVERSIZED,Bagagem do tipo oversized.,50.0,100x80x60,200.0
+CARGA_LEVE,Bagagem do tipo carga leve.,45.0,80x60x50,150.0
+CARGA_PESADA,Bagagem do tipo carga pesada.,80.0,120x80x60,300.0
+INFANTIL,Bagagem do tipo infantil.,10.0,45x35x20,0.0
+DIPLOMATICA,Bagagem do tipo diplomatica.,32.0,70x50x35,0.0
+TRIPULACAO,Bagagem do tipo tripulacao.,15.0,55x40x25,0.0
+MEDICA,Bagagem do tipo medica.,20.0,50x40x30,0.0
+DUTY_FREE,Bagagem do tipo duty free.,5.0,40x30x20,0.0
+PRIORITARIA,Bagagem do tipo prioritaria.,32.0,70x50x30,35.0
+MAO_PEQUENA_1,Variante 1 do tipo mao pequena.,15.63,40x30x20,1.19
+MAO_STANDARD_1,Variante 1 do tipo mao standard.,18.36,55x35x25,0.0
+MAO_GRANDE_1,Variante 1 do tipo mao grande.,14.82,55x40x25,33.66
+PORAO_PEQUENA_1,Variante 1 do tipo porao pequena.,24.93,60x40x30,51.67
+PORAO_STANDARD_1,Variante 1 do tipo porao standard.,21.05,70x50x30,46.76
+PORAO_GRANDE_1,Variante 1 do tipo porao grande.,35.96,80x60x40,46.03
+PORAO_EXTRA_1,Variante 1 do tipo porao extra.,46.76,90x70x50,142.34
+ESPECIAL_ESPORTIVA_1,Variante 1 do tipo especial esportiva.,32.62,Variável,129.25
+ESPECIAL_MUSICAL_1,Variante 1 do tipo especial musical.,25.43,Variável,68.75
+ESPECIAL_ANIMAL_1,Variante 1 do tipo especial animal.,21.39,50x40x30,116.3
+ESPECIAL_FRAGIL_1,Variante 1 do tipo especial fragil.,23.36,60x50x40,99.68
+OVERSIZED_1,Variante 1 do tipo oversized.,55.47,100x80x60,244.75
+CARGA_LEVE_1,Variante 1 do tipo carga leve.,43.59,80x60x50,145.37
+CARGA_PESADA_1,Variante 1 do tipo carga pesada.,81.31,120x80x60,346.3
+INFANTIL_1,Variante 1 do tipo infantil.,10.52,45x35x20,45.14
+DIPLOMATICA_1,Variante 1 do tipo diplomatica.,35.7,70x50x35,0.0
+TRIPULACAO_1,Variante 1 do tipo tripulacao.,14.28,55x40x25,31.39
+MEDICA_1,Variante 1 do tipo medica.,26.97,50x40x30,25.38
+DUTY_FREE_1,Variante 1 do tipo duty free.,8.6,40x30x20,29.13
+PRIORITARIA_1,Variante 1 do tipo prioritaria.,34.98,70x50x30,71.84
+MAO_PEQUENA_2,Variante 2 do tipo mao pequena.,7.26,40x30x20,27.82
+MAO_STANDARD_2,Variante 2 do tipo mao standard.,12.66,55x35x25,45.64
+MAO_GRANDE_2,Variante 2 do tipo mao grande.,19.13,55x40x25,71.39
+PORAO_PEQUENA_2,Variante 2 do tipo porao pequena.,24.2,60x40x30,57.01
+PORAO_STANDARD_2,Variante 2 do tipo porao standard.,30.02,70x50x30,0.0
+PORAO_GRANDE_2,Variante 2 do tipo porao grande.,36.09,80x60x40,45.91
+PORAO_EXTRA_2,Variante 2 do tipo porao extra.,45.78,90x70x50,140.72
+ESPECIAL_ESPORTIVA_2,Variante 2 do tipo especial esportiva.,35.63,Variável,119.29
+ESPECIAL_MUSICAL_2,Variante 2 do tipo especial musical.,26.94,Variável,86.88
+ESPECIAL_ANIMAL_2,Variante 2 do tipo especial animal.,13.11,50x40x30,117.23
+ESPECIAL_FRAGIL_2,Variante 2 do tipo especial fragil.,20.47,60x50x40,76.25
+OVERSIZED_2,Variante 2 do tipo oversized.,50.68,100x80x60,221.81
+CARGA_LEVE_2,Variante 2 do tipo carga leve.,51.47,80x60x50,141.36
+CARGA_PESADA_2,Variante 2 do tipo carga pesada.,89.07,120x80x60,323.49
+INFANTIL_2,Variante 2 do tipo infantil.,16.11,45x35x20,40.23
+DIPLOMATICA_2,Variante 2 do tipo diplomatica.,36.27,70x50x35,0.0
+TRIPULACAO_2,Variante 2 do tipo tripulacao.,14.65,55x40x25,18.08
+MEDICA_2,Variante 2 do tipo medica.,27.13,50x40x30,32.9
+DUTY_FREE_2,Variante 2 do tipo duty free.,8.62,40x30x20,46.73
+PRIORITARIA_2,Variante 2 do tipo prioritaria.,31.27,70x50x30,26.65
+MAO_PEQUENA_3,Variante 3 do tipo mao pequena.,14.28,40x30x20,0.0
+MAO_STANDARD_3,Variante 3 do tipo mao standard.,15.39,55x35x25,48.56
+MAO_GRANDE_3,Variante 3 do tipo mao grande.,11.86,55x40x25,68.63
+PORAO_PEQUENA_3,Variante 3 do tipo porao pequena.,24.12,60x40x30,72.75
+PORAO_STANDARD_3,Variante 3 do tipo porao standard.,28.06,70x50x30,49.27
+PORAO_GRANDE_3,Variante 3 do tipo porao grande.,33.02,80x60x40,69.42
+PORAO_EXTRA_3,Variante 3 do tipo porao extra.,39.45,90x70x50,101.88
+ESPECIAL_ESPORTIVA_3,Variante 3 do tipo especial esportiva.,32.07,Variável,83.6
+ESPECIAL_MUSICAL_3,Variante 3 do tipo especial musical.,28.37,Variável,90.15
+ESPECIAL_ANIMAL_3,Variante 3 do tipo especial animal.,23.36,50x40x30,163.98
+ESPECIAL_FRAGIL_3,Variante 3 do tipo especial fragil.,18.08,60x50x40,97.9
+OVERSIZED_3,Variante 3 do tipo oversized.,54.56,100x80x60,230.42
+CARGA_LEVE_3,Variante 3 do tipo carga leve.,51.6,80x60x50,161.98
+CARGA_PESADA_3,Variante 3 do tipo carga pesada.,82.22,120x80x60,342.03
+INFANTIL_3,Variante 3 do tipo infantil.,14.01,45x35x20,0.0
+DIPLOMATICA_3,Variante 3 do tipo diplomatica.,37.82,70x50x35,30.15
+TRIPULACAO_3,Variante 3 do tipo tripulacao.,16.52,55x40x25,37.9
+MEDICA_3,Variante 3 do tipo medica.,19.62,50x40x30,42.58
+DUTY_FREE_3,Variante 3 do tipo duty free.,14.57,40x30x20,0.0
+PRIORITARIA_3,Variante 3 do tipo prioritaria.,39.89,70x50x30,48.44
+MAO_PEQUENA_4,Variante 4 do tipo mao pequena.,6.46,40x30x20,49.6
+MAO_STANDARD_4,Variante 4 do tipo mao standard.,15.23,55x35x25,35.81
+MAO_GRANDE_4,Variante 4 do tipo mao grande.,16.62,55x40x25,65.81
+PORAO_PEQUENA_4,Variante 4 do tipo porao pequena.,19.11,60x40x30,59.98
+PORAO_STANDARD_4,Variante 4 do tipo porao standard.,21.24,70x50x30,38.05
+PORAO_GRANDE_4,Variante 4 do tipo porao grande.,38.19,80x60x40,61.39
+PORAO_EXTRA_4,Variante 4 do tipo porao extra.,43.24,90x70x50,131.41
+ESPECIAL_ESPORTIVA_4,Variante 4 do tipo especial esportiva.,30.95,Variável,120.98
+ESPECIAL_MUSICAL_4,Variante 4 do tipo especial musical.,33.97,Variável,86.88
+ESPECIAL_ANIMAL_4,Variante 4 do tipo especial animal.,21.98,50x40x30,162.65
+ESPECIAL_FRAGIL_4,Variante 4 do tipo especial fragil.,19.7,60x50x40,69.31
+OVERSIZED_4,Variante 4 do tipo oversized.,56.83,100x80x60,240.32
+CARGA_LEVE_4,Variante 4 do tipo carga leve.,53.74,80x60x50,189.41
+CARGA_PESADA_4,Variante 4 do tipo carga pesada.,82.66,120x80x60,290.26
+INFANTIL_4,Variante 4 do tipo infantil.,19.13,45x35x20,3.06
+DIPLOMATICA_4,Variante 4 do tipo diplomatica.,34.37,70x50x35,48.75
+TRIPULACAO_4,Variante 4 do tipo tripulacao.,24.46,55x40x25,28.93
+MEDICA_4,Variante 4 do tipo medica.,27.2,50x40x30,43.57
+DUTY_FREE_4,Variante 4 do tipo duty free.,4.88,40x30x20,40.91
+PRIORITARIA_4,Variante 4 do tipo prioritaria.,38.43,70x50x30,66.69
+MAO_PEQUENA_5,Variante 5 do tipo mao pequena.,13.44,40x30x20,41.94
+MAO_STANDARD_5,Variante 5 do tipo mao standard.,14.93,55x35x25,7.31
+MAO_GRANDE_5,Variante 5 do tipo mao grande.,20.26,55x40x25,45.2
+PORAO_PEQUENA_5,Variante 5 do tipo porao pequena.,18.64,60x40x30,20.61
+PORAO_STANDARD_5,Variante 5 do tipo porao standard.,31.95,70x50x30,34.32
+PORAO_GRANDE_5,Variante 5 do tipo porao grande.,37.21,80x60x40,88.57
+PORAO_EXTRA_5,Variante 5 do tipo porao extra.,47.77,90x70x50,108.98
+ESPECIAL_ESPORTIVA_5,Variante 5 do tipo especial esportiva.,30.74,Variável,78.84
+ESPECIAL_MUSICAL_5,Variante 5 do tipo especial musical.,27.42,Variável,69.28
+ESPECIAL_ANIMAL_5,Variante 5 do tipo especial animal.,18.72,50x40x30,131.88
+ESPECIAL_FRAGIL_5,Variante 5 do tipo especial fragil.,27.69,60x50x40,83.0
+OVERSIZED_5,Variante 5 do tipo oversized.,52.66,100x80x60,207.45
+CARGA_LEVE_5,Variante 5 do tipo carga leve.,51.55,80x60x50,154.7
+CARGA_PESADA_5,Variante 5 do tipo carga pesada.,86.01,120x80x60,346.14
+INFANTIL_5,Variante 5 do tipo infantil.,18.35,45x35x20,3.96
+DIPLOMATICA_5,Variante 5 do tipo diplomatica.,36.6,70x50x35,0.0
+TRIPULACAO_5,Variante 5 do tipo tripulacao.,16.91,55x40x25,39.21
+MEDICA_5,Variante 5 do tipo medica.,28.57,50x40x30,6.57
+DUTY_FREE_5,Variante 5 do tipo duty free.,8.98,40x30x20,5.57
+PRIORITARIA_5,Variante 5 do tipo prioritaria.,41.92,70x50x30,54.44
+MAO_PEQUENA_6,Variante 6 do tipo mao pequena.,15.84,40x30x20,25.11
+MAO_STANDARD_6,Variante 6 do tipo mao standard.,13.09,55x35x25,47.55
+MAO_GRANDE_6,Variante 6 do tipo mao grande.,13.84,55x40x25,29.81
+PORAO_PEQUENA_6,Variante 6 do tipo porao pequena.,20.04,60x40x30,64.67
+PORAO_STANDARD_6,Variante 6 do tipo porao standard.,31.97,70x50x30,0.0
+PORAO_GRANDE_6,Variante 6 do tipo porao grande.,36.55,80x60x40,44.58
+PORAO_EXTRA_6,Variante 6 do tipo porao extra.,43.39,90x70x50,119.56
+ESPECIAL_ESPORTIVA_6,Variante 6 do tipo especial esportiva.,37.69,Variável,78.04
+ESPECIAL_MUSICAL_6,Variante 6 do tipo especial musical.,30.11,Variável,110.9
+ESPECIAL_ANIMAL_6,Variante 6 do tipo especial animal.,18.97,50x40x30,115.91
+ESPECIAL_FRAGIL_6,Variante 6 do tipo especial fragil.,22.35,60x50x40,59.29
+OVERSIZED_6,Variante 6 do tipo oversized.,58.25,100x80x60,228.37
+CARGA_LEVE_6,Variante 6 do tipo carga leve.,52.15,80x60x50,188.73
+CARGA_PESADA_6,Variante 6 do tipo carga pesada.,83.54,120x80x60,303.62
+INFANTIL_6,Variante 6 do tipo infantil.,12.6,45x35x20,0.0
+DIPLOMATICA_6,Variante 6 do tipo diplomatica.,39.44,70x50x35,16.11
+TRIPULACAO_6,Variante 6 do tipo tripulacao.,21.86,55x40x25,49.45
+MEDICA_6,Variante 6 do tipo medica.,27.26,50x40x30,15.37
+DUTY_FREE_6,Variante 6 do tipo duty free.,8.55,40x30x20,0.0
+PRIORITARIA_6,Variante 6 do tipo prioritaria.,34.3,70x50x30,51.49
+MAO_PEQUENA_7,Variante 7 do tipo mao pequena.,6.33,40x30x20,2.21
+MAO_STANDARD_7,Variante 7 do tipo mao standard.,17.92,55x35x25,17.83
+MAO_GRANDE_7,Variante 7 do tipo mao grande.,14.34,55x40x25,63.33
+PORAO_PEQUENA_7,Variante 7 do tipo porao pequena.,25.06,60x40x30,48.84
+PORAO_STANDARD_7,Variante 7 do tipo porao standard.,32.94,70x50x30,35.16
+PORAO_GRANDE_7,Variante 7 do tipo porao grande.,35.77,80x60x40,83.36
+PORAO_EXTRA_7,Variante 7 do tipo porao extra.,40.6,90x70x50,119.2
+ESPECIAL_ESPORTIVA_7,Variante 7 do tipo especial esportiva.,31.68,Variável,83.7
+ESPECIAL_MUSICAL_7,Variante 7 do tipo especial musical.,23.19,Variável,76.14
+ESPECIAL_ANIMAL_7,Variante 7 do tipo especial animal.,18.31,50x40x30,159.28
+ESPECIAL_FRAGIL_7,Variante 7 do tipo especial fragil.,28.09,60x50x40,80.2
+OVERSIZED_7,Variante 7 do tipo oversized.,51.89,100x80x60,217.54
+CARGA_LEVE_7,Variante 7 do tipo carga leve.,45.17,80x60x50,142.99
+CARGA_PESADA_7,Variante 7 do tipo carga pesada.,84.75,120x80x60,309.94
+INFANTIL_7,Variante 7 do tipo infantil.,17.25,45x35x20,13.67
+DIPLOMATICA_7,Variante 7 do tipo diplomatica.,36.34,70x50x35,48.88
+TRIPULACAO_7,Variante 7 do tipo tripulacao.,23.72,55x40x25,1.16
+MEDICA_7,Variante 7 do tipo medica.,24.19,50x40x30,8.02
+DUTY_FREE_7,Variante 7 do tipo duty free.,3.55,40x30x20,15.0
+PRIORITARIA_7,Variante 7 do tipo prioritaria.,33.01,70x50x30,25.62
+MAO_PEQUENA_8,Variante 8 do tipo mao pequena.,13.83,40x30x20,12.63
+MAO_STANDARD_8,Variante 8 do tipo mao standard.,10.48,55x35x25,18.69
+MAO_GRANDE_8,Variante 8 do tipo mao grande.,10.81,55x40x25,65.09
+PORAO_PEQUENA_8,Variante 8 do tipo porao pequena.,18.48,60x40x30,40.3
+PORAO_STANDARD_8,Variante 8 do tipo porao standard.,29.72,70x50x30,48.01
+PORAO_GRANDE_8,Variante 8 do tipo porao grande.,34.81,80x60x40,65.05
+PORAO_EXTRA_8,Variante 8 do tipo porao extra.,39.66,90x70x50,126.22
+ESPECIAL_ESPORTIVA_8,Variante 8 do tipo especial esportiva.,30.61,Variável,101.74
+ESPECIAL_MUSICAL_8,Variante 8 do tipo especial musical.,31.66,Variável,115.15
+ESPECIAL_ANIMAL_8,Variante 8 do tipo especial animal.,20.29,50x40x30,134.39
+ESPECIAL_FRAGIL_8,Variante 8 do tipo especial fragil.,26.06,60x50x40,51.81
+OVERSIZED_8,Variante 8 do tipo oversized.,51.16,100x80x60,245.11
+CARGA_LEVE_8,Variante 8 do tipo carga leve.,49.28,80x60x50,163.6
+CARGA_PESADA_8,Variante 8 do tipo carga pesada.,86.15,120x80x60,300.58
+INFANTIL_8,Variante 8 do tipo infantil.,16.33,45x35x20,36.81
+DIPLOMATICA_8,Variante 8 do tipo diplomatica.,39.33,70x50x35,5.58
+TRIPULACAO_8,Variante 8 do tipo tripulacao.,17.16,55x40x25,0.0
+MEDICA_8,Variante 8 do tipo medica.,24.3,50x40x30,40.05
+DUTY_FREE_8,Variante 8 do tipo duty free.,12.26,40x30x20,18.46
+PRIORITARIA_8,Variante 8 do tipo prioritaria.,36.93,70x50x30,69.53
+MAO_PEQUENA_9,Variante 9 do tipo mao pequena.,17.48,40x30x20,9.64
+MAO_STANDARD_9,Variante 9 do tipo mao standard.,18.25,55x35x25,15.74
+MAO_GRANDE_9,Variante 9 do tipo mao grande.,13.09,55x40x25,15.53
+PORAO_PEQUENA_9,Variante 9 do tipo porao pequena.,18.3,60x40x30,59.37
+PORAO_STANDARD_9,Variante 9 do tipo porao standard.,24.86,70x50x30,17.01
+PORAO_GRANDE_9,Variante 9 do tipo porao grande.,38.84,80x60x40,70.01
+PORAO_EXTRA_9,Variante 9 do tipo porao extra.,48.58,90x70x50,119.99
+ESPECIAL_ESPORTIVA_9,Variante 9 do tipo especial esportiva.,32.07,Variável,85.28
+ESPECIAL_MUSICAL_9,Variante 9 do tipo especial musical.,28.24,Variável,69.62
+ESPECIAL_ANIMAL_9,Variante 9 do tipo especial animal.,21.45,50x40x30,111.66
+ESPECIAL_FRAGIL_9,Variante 9 do tipo especial fragil.,27.97,60x50x40,81.62
+OVERSIZED_9,Variante 9 do tipo oversized.,49.77,100x80x60,200.86
+CARGA_LEVE_9,Variante 9 do tipo carga leve.,45.52,80x60x50,164.15
+CARGA_PESADA_9,Variante 9 do tipo carga pesada.,88.05,120x80x60,317.33
+INFANTIL_9,Variante 9 do tipo infantil.,10.47,45x35x20,0.0
+DIPLOMATICA_9,Variante 9 do tipo diplomatica.,32.11,70x50x35,46.62
+TRIPULACAO_9,Variante 9 do tipo tripulacao.,14.77,55x40x25,0.0
+MEDICA_9,Variante 9 do tipo medica.,27.14,50x40x30,40.15
+DUTY_FREE_9,Variante 9 do tipo duty free.,12.96,40x30x20,29.07
+PRIORITARIA_9,Variante 9 do tipo prioritaria.,35.88,70x50x30,61.4
+MAO_PEQUENA_10,Variante 10 do tipo mao pequena.,17.62,40x30x20,0.0
+MAO_STANDARD_10,Variante 10 do tipo mao standard.,9.97,55x35x25,36.77
+MAO_GRANDE_10,Variante 10 do tipo mao grande.,11.89,55x40x25,67.98
+PORAO_PEQUENA_10,Variante 10 do tipo porao pequena.,20.46,60x40x30,37.34
+PORAO_STANDARD_10,Variante 10 do tipo porao standard.,31.05,70x50x30,14.25
+PORAO_GRANDE_10,Variante 10 do tipo porao grande.,36.64,80x60x40,41.94
+PORAO_EXTRA_10,Variante 10 do tipo porao extra.,40.11,90x70x50,96.21
+ESPECIAL_ESPORTIVA_10,Variante 10 do tipo especial esportiva.,33.1,Variável,104.72
+ESPECIAL_MUSICAL_10,Variante 10 do tipo especial musical.,25.49,Variável,116.39
+ESPECIAL_ANIMAL_10,Variante 10 do tipo especial animal.,15.15,50x40x30,111.78
+ESPECIAL_FRAGIL_10,Variante 10 do tipo especial fragil.,20.16,60x50x40,74.79
+OVERSIZED_10,Variante 10 do tipo oversized.,59.53,100x80x60,224.12
+CARGA_LEVE_10,Variante 10 do tipo carga leve.,49.6,80x60x50,145.74
+CARGA_PESADA_10,Variante 10 do tipo carga pesada.,89.75,120x80x60,305.97
+INFANTIL_10,Variante 10 do tipo infantil.,16.14,45x35x20,6.12
+DIPLOMATICA_10,Variante 10 do tipo diplomatica.,39.95,70x50x35,0.0
+TRIPULACAO_10,Variante 10 do tipo tripulacao.,19.56,55x40x25,42.1
+MEDICA_10,Variante 10 do tipo medica.,23.41,50x40x30,43.01
+DUTY_FREE_10,Variante 10 do tipo duty free.,12.11,40x30x20,45.3
+PRIORITARIA_10,Variante 10 do tipo prioritaria.,39.67,70x50x30,29.82
+MAO_PEQUENA_11,Variante 11 do tipo mao pequena.,17.09,40x30x20,16.74
+MAO_STANDARD_11,Variante 11 do tipo mao standard.,17.34,55x35x25,43.29
+MAO_GRANDE_11,Variante 11 do tipo mao grande.,18.22,55x40x25,71.48
+PORAO_PEQUENA_11,Variante 11 do tipo porao pequena.,19.49,60x40x30,31.9
+PORAO_STANDARD_11,Variante 11 do tipo porao standard.,23.22,70x50x30,40.11
+PORAO_GRANDE_11,Variante 11 do tipo porao grande.,32.2,80x60x40,95.01
+PORAO_EXTRA_11,Variante 11 do tipo porao extra.,42.52,90x70x50,103.43
+ESPECIAL_ESPORTIVA_11,Variante 11 do tipo especial esportiva.,29.36,Variável,118.5
+ESPECIAL_MUSICAL_11,Variante 11 do tipo especial musical.,24.92,Variável,81.72
+ESPECIAL_ANIMAL_11,Variante 11 do tipo especial animal.,18.32,50x40x30,168.73
+ESPECIAL_FRAGIL_11,Variante 11 do tipo especial fragil.,28.99,60x50x40,50.32
+OVERSIZED_11,Variante 11 do tipo oversized.,50.67,100x80x60,223.77
+CARGA_LEVE_11,Variante 11 do tipo carga leve.,51.9,80x60x50,185.37
+CARGA_PESADA_11,Variante 11 do tipo carga pesada.,81.9,120x80x60,293.65
+INFANTIL_11,Variante 11 do tipo infantil.,18.57,45x35x20,26.95
+DIPLOMATICA_11,Variante 11 do tipo diplomatica.,37.35,70x50x35,49.2
+TRIPULACAO_11,Variante 11 do tipo tripulacao.,16.9,55x40x25,31.93
+MEDICA_11,Variante 11 do tipo medica.,20.63,50x40x30,26.28
+DUTY_FREE_11,Variante 11 do tipo duty free.,4.53,40x30x20,32.04
+PRIORITARIA_11,Variante 11 do tipo prioritaria.,41.9,70x50x30,54.6
+MAO_PEQUENA_12,Variante 12 do tipo mao pequena.,12.49,40x30x20,0.0
+MAO_STANDARD_12,Variante 12 do tipo mao standard.,18.74,55x35x25,0.0
+MAO_GRANDE_12,Variante 12 do tipo mao grande.,14.65,55x40x25,35.88
+PORAO_PEQUENA_12,Variante 12 do tipo porao pequena.,16.57,60x40x30,78.5
+PORAO_STANDARD_12,Variante 12 do tipo porao standard.,27.76,70x50x30,15.75
+PORAO_GRANDE_12,Variante 12 do tipo porao grande.,31.51,80x60x40,65.83
+PORAO_EXTRA_12,Variante 12 do tipo porao extra.,43.04,90x70x50,113.71
+ESPECIAL_ESPORTIVA_12,Variante 12 do tipo especial esportiva.,31.97,Variável,80.3
+ESPECIAL_MUSICAL_12,Variante 12 do tipo especial musical.,33.36,Variável,98.18
+ESPECIAL_ANIMAL_12,Variante 12 do tipo especial animal.,16.64,50x40x30,168.63
+ESPECIAL_FRAGIL_12,Variante 12 do tipo especial fragil.,25.06,60x50x40,65.89
+OVERSIZED_12,Variante 12 do tipo oversized.,56.99,100x80x60,225.18
+CARGA_LEVE_12,Variante 12 do tipo carga leve.,43.28,80x60x50,183.37
+CARGA_PESADA_12,Variante 12 do tipo carga pesada.,84.07,120x80x60,322.77
+INFANTIL_12,Variante 12 do tipo infantil.,11.62,45x35x20,0.0
+DIPLOMATICA_12,Variante 12 do tipo diplomatica.,38.98,70x50x35,49.62
+TRIPULACAO_12,Variante 12 do tipo tripulacao.,22.04,55x40x25,40.79
+MEDICA_12,Variante 12 do tipo medica.,18.26,50x40x30,0.0
+DUTY_FREE_12,Variante 12 do tipo duty free.,3.12,40x30x20,32.89
+PRIORITARIA_12,Variante 12 do tipo prioritaria.,31.24,70x50x30,82.59
+MAO_PEQUENA_13,Variante 13 do tipo mao pequena.,16.13,40x30x20,25.7
+MAO_STANDARD_13,Variante 13 do tipo mao standard.,9.99,55x35x25,36.3
+MAO_GRANDE_13,Variante 13 do tipo mao grande.,20.85,55x40x25,61.6
+PORAO_PEQUENA_13,Variante 13 do tipo porao pequena.,27.33,60x40x30,72.93
+PORAO_STANDARD_13,Variante 13 do tipo porao standard.,23.86,70x50x30,0.0
+PORAO_GRANDE_13,Variante 13 do tipo porao grande.,33.11,80x60x40,74.35
+PORAO_EXTRA_13,Variante 13 do tipo porao extra.,38.42,90x70x50,103.51
+ESPECIAL_ESPORTIVA_13,Variante 13 do tipo especial esportiva.,38.79,Variável,90.91
+ESPECIAL_MUSICAL_13,Variante 13 do tipo especial musical.,25.31,Variável,77.38
+ESPECIAL_ANIMAL_13,Variante 13 do tipo especial animal.,13.08,50x40x30,120.07
+ESPECIAL_FRAGIL_13,Variante 13 do tipo especial fragil.,22.29,60x50x40,52.44
+OVERSIZED_13,Variante 13 do tipo oversized.,57.72,100x80x60,244.35
+CARGA_LEVE_13,Variante 13 do tipo carga leve.,52.66,80x60x50,160.64
+CARGA_PESADA_13,Variante 13 do tipo carga pesada.,89.68,120x80x60,296.81
+INFANTIL_13,Variante 13 do tipo infantil.,18.62,45x35x20,3.57
+DIPLOMATICA_13,Variante 13 do tipo diplomatica.,34.05,70x50x35,9.71
+TRIPULACAO_13,Variante 13 do tipo tripulacao.,21.61,55x40x25,43.85
+MEDICA_13,Variante 13 do tipo medica.,20.71,50x40x30,14.29
+DUTY_FREE_13,Variante 13 do tipo duty free.,9.05,40x30x20,23.26
+PRIORITARIA_13,Variante 13 do tipo prioritaria.,36.72,70x50x30,66.71
+MAO_PEQUENA_14,Variante 14 do tipo mao pequena.,8.5,40x30x20,1.62
+MAO_STANDARD_14,Variante 14 do tipo mao standard.,17.31,55x35x25,1.56
+MAO_GRANDE_14,Variante 14 do tipo mao grande.,11.95,55x40x25,65.99
+PORAO_PEQUENA_14,Variante 14 do tipo porao pequena.,20.73,60x40x30,29.79
+PORAO_STANDARD_14,Variante 14 do tipo porao standard.,26.12,70x50x30,0.0
+PORAO_GRANDE_14,Variante 14 do tipo porao grande.,36.45,80x60x40,60.81
+PORAO_EXTRA_14,Variante 14 do tipo porao extra.,46.96,90x70x50,122.3
+ESPECIAL_ESPORTIVA_14,Variante 14 do tipo especial esportiva.,35.74,Variável,77.35
+ESPECIAL_MUSICAL_14,Variante 14 do tipo especial musical.,32.98,Variável,112.32
+ESPECIAL_ANIMAL_14,Variante 14 do tipo especial animal.,22.03,50x40x30,115.43
+ESPECIAL_FRAGIL_14,Variante 14 do tipo especial fragil.,28.56,60x50x40,53.45
+OVERSIZED_14,Variante 14 do tipo oversized.,57.36,100x80x60,235.08
+CARGA_LEVE_14,Variante 14 do tipo carga leve.,47.71,80x60x50,194.46
+CARGA_PESADA_14,Variante 14 do tipo carga pesada.,85.34,120x80x60,326.89
+INFANTIL_14,Variante 14 do tipo infantil.,19.42,45x35x20,0.0
+DIPLOMATICA_14,Variante 14 do tipo diplomatica.,32.91,70x50x35,19.78
+TRIPULACAO_14,Variante 14 do tipo tripulacao.,15.38,55x40x25,18.87
+MEDICA_14,Variante 14 do tipo medica.,21.71,50x40x30,12.3
+DUTY_FREE_14,Variante 14 do tipo duty free.,4.92,40x30x20,44.38
+PRIORITARIA_14,Variante 14 do tipo prioritaria.,34.61,70x50x30,60.72
+MAO_PEQUENA_15,Variante 15 do tipo mao pequena.,16.4,40x30x20,28.46
+MAO_STANDARD_15,Variante 15 do tipo mao standard.,14.8,55x35x25,44.1
+MAO_GRANDE_15,Variante 15 do tipo mao grande.,14.1,55x40x25,74.16
+PORAO_PEQUENA_15,Variante 15 do tipo porao pequena.,17.17,60x40x30,27.95
+PORAO_STANDARD_15,Variante 15 do tipo porao standard.,25.75,70x50x30,0.0
+PORAO_GRANDE_15,Variante 15 do tipo porao grande.,32.75,80x60x40,68.9
+PORAO_EXTRA_15,Variante 15 do tipo porao extra.,40.79,90x70x50,114.05
+ESPECIAL_ESPORTIVA_15,Variante 15 do tipo especial esportiva.,39.33,Variável,121.3
+ESPECIAL_MUSICAL_15,Variante 15 do tipo especial musical.,26.29,Variável,84.11
+ESPECIAL_ANIMAL_15,Variante 15 do tipo especial animal.,21.01,50x40x30,140.52
+ESPECIAL_FRAGIL_15,Variante 15 do tipo especial fragil.,29.01,60x50x40,65.11
+OVERSIZED_15,Variante 15 do tipo oversized.,49.23,100x80x60,244.34
+CARGA_LEVE_15,Variante 15 do tipo carga leve.,51.41,80x60x50,193.42
+CARGA_PESADA_15,Variante 15 do tipo carga pesada.,83.11,120x80x60,316.91
+INFANTIL_15,Variante 15 do tipo infantil.,17.2,45x35x20,0.0
+DIPLOMATICA_15,Variante 15 do tipo diplomatica.,36.85,70x50x35,0.0
+TRIPULACAO_15,Variante 15 do tipo tripulacao.,21.9,55x40x25,21.98
+MEDICA_15,Variante 15 do tipo medica.,21.22,50x40x30,42.47
+DUTY_FREE_15,Variante 15 do tipo duty free.,6.25,40x30x20,1.46
+PRIORITARIA_15,Variante 15 do tipo prioritaria.,38.46,70x50x30,28.77
+MAO_PEQUENA_16,Variante 16 do tipo mao pequena.,14.29,40x30x20,41.6
+MAO_STANDARD_16,Variante 16 do tipo mao standard.,12.26,55x35x25,9.07
+MAO_GRANDE_16,Variante 16 do tipo mao grande.,13.25,55x40x25,58.19
+PORAO_PEQUENA_16,Variante 16 do tipo porao pequena.,17.67,60x40x30,54.91
+PORAO_STANDARD_16,Variante 16 do tipo porao standard.,22.26,70x50x30,4.27
+PORAO_GRANDE_16,Variante 16 do tipo porao grande.,40.1,80x60x40,71.05
+PORAO_EXTRA_16,Variante 16 do tipo porao extra.,43.3,90x70x50,145.04
+ESPECIAL_ESPORTIVA_16,Variante 16 do tipo especial esportiva.,33.53,Variável,78.38
+ESPECIAL_MUSICAL_16,Variante 16 do tipo especial musical.,28.59,Variável,123.43
+ESPECIAL_ANIMAL_16,Variante 16 do tipo especial animal.,17.49,50x40x30,154.47
+ESPECIAL_FRAGIL_16,Variante 16 do tipo especial fragil.,28.32,60x50x40,59.2
+OVERSIZED_16,Variante 16 do tipo oversized.,49.12,100x80x60,222.72
+CARGA_LEVE_16,Variante 16 do tipo carga leve.,51.5,80x60x50,155.26
+CARGA_PESADA_16,Variante 16 do tipo carga pesada.,87.57,120x80x60,309.28
+INFANTIL_16,Variante 16 do tipo infantil.,19.18,45x35x20,37.47
+DIPLOMATICA_16,Variante 16 do tipo diplomatica.,37.09,70x50x35,34.16
+TRIPULACAO_16,Variante 16 do tipo tripulacao.,24.63,55x40x25,8.15
+MEDICA_16,Variante 16 do tipo medica.,24.51,50x40x30,19.56
+DUTY_FREE_16,Variante 16 do tipo duty free.,8.18,40x30x20,28.04
+PRIORITARIA_16,Variante 16 do tipo prioritaria.,39.95,70x50x30,36.9
+MAO_PEQUENA_17,Variante 17 do tipo mao pequena.,8.51,40x30x20,4.07
+MAO_STANDARD_17,Variante 17 do tipo mao standard.,10.04,55x35x25,25.37
+MAO_GRANDE_17,Variante 17 do tipo mao grande.,16.7,55x40x25,36.26
+PORAO_PEQUENA_17,Variante 17 do tipo porao pequena.,20.3,60x40x30,57.05
+PORAO_STANDARD_17,Variante 17 do tipo porao standard.,21.69,70x50x30,10.42
+PORAO_GRANDE_17,Variante 17 do tipo porao grande.,38.6,80x60x40,79.93
+PORAO_EXTRA_17,Variante 17 do tipo porao extra.,49.52,90x70x50,106.5
+ESPECIAL_ESPORTIVA_17,Variante 17 do tipo especial esportiva.,38.6,Variável,90.01
+ESPECIAL_MUSICAL_17,Variante 17 do tipo especial musical.,29.04,Variável,112.06
+ESPECIAL_ANIMAL_17,Variante 17 do tipo especial animal.,21.82,50x40x30,141.82
+ESPECIAL_FRAGIL_17,Variante 17 do tipo especial fragil.,27.95,60x50x40,82.49
+OVERSIZED_17,Variante 17 do tipo oversized.,59.67,100x80x60,209.24
+CARGA_LEVE_17,Variante 17 do tipo carga leve.,48.25,80x60x50,187.62
+CARGA_PESADA_17,Variante 17 do tipo carga pesada.,79.62,120x80x60,337.31
+INFANTIL_17,Variante 17 do tipo infantil.,8.22,45x35x20,20.47
+DIPLOMATICA_17,Variante 17 do tipo diplomatica.,34.77,70x50x35,0.0
+TRIPULACAO_17,Variante 17 do tipo tripulacao.,20.01,55x40x25,0.1
+MEDICA_17,Variante 17 do tipo medica.,21.66,50x40x30,3.0
+DUTY_FREE_17,Variante 17 do tipo duty free.,12.36,40x30x20,42.49
+PRIORITARIA_17,Variante 17 do tipo prioritaria.,38.85,70x50x30,29.81
+MAO_PEQUENA_18,Variante 18 do tipo mao pequena.,13.03,40x30x20,0.13
+MAO_STANDARD_18,Variante 18 do tipo mao standard.,9.91,55x35x25,1.01
+MAO_GRANDE_18,Variante 18 do tipo mao grande.,14.2,55x40x25,60.3
+PORAO_PEQUENA_18,Variante 18 do tipo porao pequena.,22.4,60x40x30,41.16
+PORAO_STANDARD_18,Variante 18 do tipo porao standard.,30.55,70x50x30,46.03
+PORAO_GRANDE_18,Variante 18 do tipo porao grande.,34.87,80x60x40,85.42
+PORAO_EXTRA_18,Variante 18 do tipo porao extra.,49.87,90x70x50,116.83
+ESPECIAL_ESPORTIVA_18,Variante 18 do tipo especial esportiva.,34.63,Variável,81.32
+ESPECIAL_MUSICAL_18,Variante 18 do tipo especial musical.,32.13,Variável,117.85
+ESPECIAL_ANIMAL_18,Variante 18 do tipo especial animal.,20.75,50x40x30,115.44
+ESPECIAL_FRAGIL_18,Variante 18 do tipo especial fragil.,29.35,60x50x40,97.58
+OVERSIZED_18,Variante 18 do tipo oversized.,50.95,100x80x60,206.41
+CARGA_LEVE_18,Variante 18 do tipo carga leve.,46.45,80x60x50,174.4
+CARGA_PESADA_18,Variante 18 do tipo carga pesada.,85.13,120x80x60,337.28
+INFANTIL_18,Variante 18 do tipo infantil.,15.27,45x35x20,29.31
+DIPLOMATICA_18,Variante 18 do tipo diplomatica.,34.73,70x50x35,39.89
+TRIPULACAO_18,Variante 18 do tipo tripulacao.,18.32,55x40x25,0.0
+MEDICA_18,Variante 18 do tipo medica.,22.78,50x40x30,5.74
+DUTY_FREE_18,Variante 18 do tipo duty free.,12.97,40x30x20,10.56
+PRIORITARIA_18,Variante 18 do tipo prioritaria.,40.07,70x50x30,82.77
+MAO_PEQUENA_19,Variante 19 do tipo mao pequena.,10.34,40x30x20,1.65
+MAO_STANDARD_19,Variante 19 do tipo mao standard.,8.8,55x35x25,40.16
+MAO_GRANDE_19,Variante 19 do tipo mao grande.,17.76,55x40x25,16.13
+PORAO_PEQUENA_19,Variante 19 do tipo porao pequena.,18.78,60x40x30,24.49
+PORAO_STANDARD_19,Variante 19 do tipo porao standard.,29.85,70x50x30,0.0
+PORAO_GRANDE_19,Variante 19 do tipo porao grande.,32.64,80x60x40,62.24
+PORAO_EXTRA_19,Variante 19 do tipo porao extra.,40.41,90x70x50,127.15
+ESPECIAL_ESPORTIVA_19,Variante 19 do tipo especial esportiva.,29.61,Variável,87.87
+ESPECIAL_MUSICAL_19,Variante 19 do tipo especial musical.,28.56,Variável,70.21
+ESPECIAL_ANIMAL_19,Variante 19 do tipo especial animal.,20.1,50x40x30,132.94
+ESPECIAL_FRAGIL_19,Variante 19 do tipo especial fragil.,18.07,60x50x40,52.81
+OVERSIZED_19,Variante 19 do tipo oversized.,59.58,100x80x60,245.91
+CARGA_LEVE_19,Variante 19 do tipo carga leve.,44.72,80x60x50,169.15
+CARGA_PESADA_19,Variante 19 do tipo carga pesada.,78.45,120x80x60,314.0
+INFANTIL_19,Variante 19 do tipo infantil.,12.8,45x35x20,45.41
+DIPLOMATICA_19,Variante 19 do tipo diplomatica.,38.98,70x50x35,39.86
+TRIPULACAO_19,Variante 19 do tipo tripulacao.,13.66,55x40x25,48.54
+MEDICA_19,Variante 19 do tipo medica.,28.44,50x40x30,13.46
+DUTY_FREE_19,Variante 19 do tipo duty free.,5.62,40x30x20,21.54
+PRIORITARIA_19,Variante 19 do tipo prioritaria.,41.27,70x50x30,25.62
+MAO_PEQUENA_20,Variante 20 do tipo mao pequena.,12.87,40x30x20,3.7
+MAO_STANDARD_20,Variante 20 do tipo mao standard.,10.08,55x35x25,6.28
+MAO_GRANDE_20,Variante 20 do tipo mao grande.,11.08,55x40x25,64.57
+PORAO_PEQUENA_20,Variante 20 do tipo porao pequena.,23.91,60x40x30,71.44
+PORAO_STANDARD_20,Variante 20 do tipo porao standard.,29.08,70x50x30,2.34
+PORAO_GRANDE_20,Variante 20 do tipo porao grande.,40.41,80x60x40,51.89
+PORAO_EXTRA_20,Variante 20 do tipo porao extra.,42.92,90x70x50,90.75
+ESPECIAL_ESPORTIVA_20,Variante 20 do tipo especial esportiva.,39.24,Variável,107.03
+ESPECIAL_MUSICAL_20,Variante 20 do tipo especial musical.,26.4,Variável,70.59
+ESPECIAL_ANIMAL_20,Variante 20 do tipo especial animal.,18.22,50x40x30,118.23
+ESPECIAL_FRAGIL_20,Variante 20 do tipo especial fragil.,20.4,60x50x40,55.95
+OVERSIZED_20,Variante 20 do tipo oversized.,52.19,100x80x60,244.0
+CARGA_LEVE_20,Variante 20 do tipo carga leve.,46.45,80x60x50,194.92
+CARGA_PESADA_20,Variante 20 do tipo carga pesada.,80.36,120x80x60,300.72
+INFANTIL_20,Variante 20 do tipo infantil.,13.64,45x35x20,43.69
+DIPLOMATICA_20,Variante 20 do tipo diplomatica.,36.28,70x50x35,18.6
+TRIPULACAO_20,Variante 20 do tipo tripulacao.,18.04,55x40x25,45.12
+MEDICA_20,Variante 20 do tipo medica.,18.38,50x40x30,41.52
+DUTY_FREE_20,Variante 20 do tipo duty free.,5.5,40x30x20,5.06
+PRIORITARIA_20,Variante 20 do tipo prioritaria.,33.51,70x50x30,62.42
+MAO_PEQUENA_21,Variante 21 do tipo mao pequena.,6.54,40x30x20,6.65
+MAO_STANDARD_21,Variante 21 do tipo mao standard.,13.14,55x35x25,0.0
+MAO_GRANDE_21,Variante 21 do tipo mao grande.,13.93,55x40x25,35.41
+PORAO_PEQUENA_21,Variante 21 do tipo porao pequena.,22.14,60x40x30,46.48
+PORAO_STANDARD_21,Variante 21 do tipo porao standard.,32.98,70x50x30,40.15
+PORAO_GRANDE_21,Variante 21 do tipo porao grande.,35.93,80x60x40,76.93
+PORAO_EXTRA_21,Variante 21 do tipo porao extra.,40.27,90x70x50,107.99
+ESPECIAL_ESPORTIVA_21,Variante 21 do tipo especial esportiva.,30.19,Variável,122.93
+ESPECIAL_MUSICAL_21,Variante 21 do tipo especial musical.,26.44,Variável,78.15
+ESPECIAL_ANIMAL_21,Variante 21 do tipo especial animal.,16.69,50x40x30,156.29
+ESPECIAL_FRAGIL_21,Variante 21 do tipo especial fragil.,18.93,60x50x40,79.77
+OVERSIZED_21,Variante 21 do tipo oversized.,50.63,100x80x60,210.72
+CARGA_LEVE_21,Variante 21 do tipo carga leve.,52.37,80x60x50,187.77
+CARGA_PESADA_21,Variante 21 do tipo carga pesada.,84.01,120x80x60,313.32
+INFANTIL_21,Variante 21 do tipo infantil.,11.07,45x35x20,24.22
+DIPLOMATICA_21,Variante 21 do tipo diplomatica.,41.97,70x50x35,0.0
+TRIPULACAO_21,Variante 21 do tipo tripulacao.,23.49,55x40x25,36.36
+MEDICA_21,Variante 21 do tipo medica.,22.44,50x40x30,3.52
+DUTY_FREE_21,Variante 21 do tipo duty free.,13.1,40x30x20,0.0
+PRIORITARIA_21,Variante 21 do tipo prioritaria.,36.71,70x50x30,27.49
+MAO_PEQUENA_22,Variante 22 do tipo mao pequena.,14.26,40x30x20,0.38
+MAO_STANDARD_22,Variante 22 do tipo mao standard.,14.19,55x35x25,34.04
+MAO_GRANDE_22,Variante 22 do tipo mao grande.,13.19,55x40x25,54.17
+PORAO_PEQUENA_22,Variante 22 do tipo porao pequena.,27.75,60x40x30,20.19
+PORAO_STANDARD_22,Variante 22 do tipo porao standard.,25.07,70x50x30,20.05
+PORAO_GRANDE_22,Variante 22 do tipo porao grande.,34.05,80x60x40,93.14
+PORAO_EXTRA_22,Variante 22 do tipo porao extra.,43.78,90x70x50,146.62
+ESPECIAL_ESPORTIVA_22,Variante 22 do tipo especial esportiva.,30.09,Variável,93.45
+ESPECIAL_MUSICAL_22,Variante 22 do tipo especial musical.,26.34,Variável,84.28
+ESPECIAL_ANIMAL_22,Variante 22 do tipo especial animal.,20.08,50x40x30,110.96
+ESPECIAL_FRAGIL_22,Variante 22 do tipo especial fragil.,27.58,60x50x40,84.89
+OVERSIZED_22,Variante 22 do tipo oversized.,50.64,100x80x60,222.02
+CARGA_LEVE_22,Variante 22 do tipo carga leve.,46.14,80x60x50,165.64
+CARGA_PESADA_22,Variante 22 do tipo carga pesada.,81.66,120x80x60,340.79
+INFANTIL_22,Variante 22 do tipo infantil.,15.62,45x35x20,34.22
+DIPLOMATICA_22,Variante 22 do tipo diplomatica.,33.52,70x50x35,17.34
+TRIPULACAO_22,Variante 22 do tipo tripulacao.,24.47,55x40x25,21.35
+MEDICA_22,Variante 22 do tipo medica.,21.31,50x40x30,17.42
+DUTY_FREE_22,Variante 22 do tipo duty free.,7.75,40x30x20,12.51
+PRIORITARIA_22,Variante 22 do tipo prioritaria.,36.51,70x50x30,52.08
+MAO_PEQUENA_23,Variante 23 do tipo mao pequena.,13.82,40x30x20,41.37
+MAO_STANDARD_23,Variante 23 do tipo mao standard.,18.54,55x35x25,5.38
+MAO_GRANDE_23,Variante 23 do tipo mao grande.,14.97,55x40x25,43.04
+PORAO_PEQUENA_23,Variante 23 do tipo porao pequena.,24.15,60x40x30,43.26
+PORAO_STANDARD_23,Variante 23 do tipo porao standard.,23.81,70x50x30,23.21
+PORAO_GRANDE_23,Variante 23 do tipo porao grande.,39.71,80x60x40,97.88
+PORAO_EXTRA_23,Variante 23 do tipo porao extra.,38.81,90x70x50,129.55
+ESPECIAL_ESPORTIVA_23,Variante 23 do tipo especial esportiva.,38.59,Variável,75.23
+ESPECIAL_MUSICAL_23,Variante 23 do tipo especial musical.,27.47,Variável,96.05
+ESPECIAL_ANIMAL_23,Variante 23 do tipo especial animal.,20.31,50x40x30,112.01
+ESPECIAL_FRAGIL_23,Variante 23 do tipo especial fragil.,18.72,60x50x40,77.17
+OVERSIZED_23,Variante 23 do tipo oversized.,59.09,100x80x60,200.02
+CARGA_LEVE_23,Variante 23 do tipo carga leve.,53.12,80x60x50,140.67
+CARGA_PESADA_23,Variante 23 do tipo carga pesada.,84.2,120x80x60,310.07
+INFANTIL_23,Variante 23 do tipo infantil.,16.37,45x35x20,28.99
+DIPLOMATICA_23,Variante 23 do tipo diplomatica.,40.05,70x50x35,13.1
+TRIPULACAO_23,Variante 23 do tipo tripulacao.,16.48,55x40x25,4.17
+MEDICA_23,Variante 23 do tipo medica.,22.94,50x40x30,42.94
+DUTY_FREE_23,Variante 23 do tipo duty free.,3.4,40x30x20,43.97
+PRIORITARIA_23,Variante 23 do tipo prioritaria.,32.73,70x50x30,39.88
+MAO_PEQUENA_24,Variante 24 do tipo mao pequena.,9.2,40x30x20,15.49
+MAO_STANDARD_24,Variante 24 do tipo mao standard.,14.11,55x35x25,2.68
+MAO_GRANDE_24,Variante 24 do tipo mao grande.,14.76,55x40x25,53.68
+PORAO_PEQUENA_24,Variante 24 do tipo porao pequena.,23.99,60x40x30,21.34
+PORAO_STANDARD_24,Variante 24 do tipo porao standard.,25.85,70x50x30,32.05
+PORAO_GRANDE_24,Variante 24 do tipo porao grande.,40.65,80x60x40,47.21
+PORAO_EXTRA_24,Variante 24 do tipo porao extra.,49.2,90x70x50,100.98
+ESPECIAL_ESPORTIVA_24,Variante 24 do tipo especial esportiva.,30.2,Variável,94.62
+ESPECIAL_MUSICAL_24,Variante 24 do tipo especial musical.,33.29,Variável,119.67
+ESPECIAL_ANIMAL_24,Variante 24 do tipo especial animal.,20.71,50x40x30,156.57
+ESPECIAL_FRAGIL_24,Variante 24 do tipo especial fragil.,25.37,60x50x40,96.27
+OVERSIZED_24,Variante 24 do tipo oversized.,53.43,100x80x60,228.82
+CARGA_LEVE_24,Variante 24 do tipo carga leve.,48.17,80x60x50,153.08
+CARGA_PESADA_24,Variante 24 do tipo carga pesada.,87.12,120x80x60,330.58
+INFANTIL_24,Variante 24 do tipo infantil.,17.7,45x35x20,0.0
+DIPLOMATICA_24,Variante 24 do tipo diplomatica.,35.65,70x50x35,2.31
+TRIPULACAO_24,Variante 24 do tipo tripulacao.,17.98,55x40x25,8.28
+MEDICA_24,Variante 24 do tipo medica.,27.76,50x40x30,31.78
+DUTY_FREE_24,Variante 24 do tipo duty free.,11.32,40x30x20,42.11
+PRIORITARIA_24,Variante 24 do tipo prioritaria.,36.04,70x50x30,53.89
+MAO_PEQUENA_25,Variante 25 do tipo mao pequena.,10.8,40x30x20,34.51
+MAO_STANDARD_25,Variante 25 do tipo mao standard.,11.78,55x35x25,49.66
+MAO_GRANDE_25,Variante 25 do tipo mao grande.,13.87,55x40x25,16.31
+PORAO_PEQUENA_25,Variante 25 do tipo porao pequena.,24.05,60x40x30,38.16
+PORAO_STANDARD_25,Variante 25 do tipo porao standard.,22.66,70x50x30,39.71
+PORAO_GRANDE_25,Variante 25 do tipo porao grande.,38.33,80x60x40,43.52
+PORAO_EXTRA_25,Variante 25 do tipo porao extra.,45.77,90x70x50,123.66
+ESPECIAL_ESPORTIVA_25,Variante 25 do tipo especial esportiva.,37.18,Variável,115.89
+ESPECIAL_MUSICAL_25,Variante 25 do tipo especial musical.,29.54,Variável,89.09
+ESPECIAL_ANIMAL_25,Variante 25 do tipo especial animal.,21.68,50x40x30,111.78
+ESPECIAL_FRAGIL_25,Variante 25 do tipo especial fragil.,22.69,60x50x40,61.21
+OVERSIZED_25,Variante 25 do tipo oversized.,48.73,100x80x60,194.18
+CARGA_LEVE_25,Variante 25 do tipo carga leve.,52.16,80x60x50,174.67
+CARGA_PESADA_25,Variante 25 do tipo carga pesada.,89.55,120x80x60,343.78
+INFANTIL_25,Variante 25 do tipo infantil.,8.18,45x35x20,1.5
+DIPLOMATICA_25,Variante 25 do tipo diplomatica.,39.72,70x50x35,24.88
+TRIPULACAO_25,Variante 25 do tipo tripulacao.,22.2,55x40x25,20.54
+MEDICA_25,Variante 25 do tipo medica.,25.39,50x40x30,30.37
+DUTY_FREE_25,Variante 25 do tipo duty free.,9.8,40x30x20,22.19
+PRIORITARIA_25,Variante 25 do tipo prioritaria.,31.92,70x50x30,32.2
+MAO_PEQUENA_26,Variante 26 do tipo mao pequena.,7.85,40x30x20,32.15
+MAO_STANDARD_26,Variante 26 do tipo mao standard.,19.59,55x35x25,36.17
+MAO_GRANDE_26,Variante 26 do tipo mao grande.,19.27,55x40x25,29.0
+PORAO_PEQUENA_26,Variante 26 do tipo porao pequena.,17.09,60x40x30,64.25
+PORAO_STANDARD_26,Variante 26 do tipo porao standard.,32.06,70x50x30,22.03
+PORAO_GRANDE_26,Variante 26 do tipo porao grande.,39.87,80x60x40,58.48
+PORAO_EXTRA_26,Variante 26 do tipo porao extra.,41.15,90x70x50,114.31
+ESPECIAL_ESPORTIVA_26,Variante 26 do tipo especial esportiva.,31.5,Variável,71.81
+ESPECIAL_MUSICAL_26,Variante 26 do tipo especial musical.,31.62,Variável,100.48
+ESPECIAL_ANIMAL_26,Variante 26 do tipo especial animal.,21.24,50x40x30,149.89
+ESPECIAL_FRAGIL_26,Variante 26 do tipo especial fragil.,29.67,60x50x40,55.23
+OVERSIZED_26,Variante 26 do tipo oversized.,57.25,100x80x60,247.46
+CARGA_LEVE_26,Variante 26 do tipo carga leve.,46.63,80x60x50,199.37
+CARGA_PESADA_26,Variante 26 do tipo carga pesada.,85.22,120x80x60,291.16
+INFANTIL_26,Variante 26 do tipo infantil.,11.39,45x35x20,36.51
+DIPLOMATICA_26,Variante 26 do tipo diplomatica.,37.33,70x50x35,15.11
+TRIPULACAO_26,Variante 26 do tipo tripulacao.,13.32,55x40x25,12.82
+MEDICA_26,Variante 26 do tipo medica.,20.16,50x40x30,27.02
+DUTY_FREE_26,Variante 26 do tipo duty free.,12.83,40x30x20,16.35
+PRIORITARIA_26,Variante 26 do tipo prioritaria.,30.02,70x50x30,40.51
+MAO_PEQUENA_27,Variante 27 do tipo mao pequena.,13.29,40x30x20,0.0
+MAO_STANDARD_27,Variante 27 do tipo mao standard.,19.99,55x35x25,3.92
+MAO_GRANDE_27,Variante 27 do tipo mao grande.,20.95,55x40x25,59.55
+PORAO_PEQUENA_27,Variante 27 do tipo porao pequena.,19.34,60x40x30,67.18
+PORAO_STANDARD_27,Variante 27 do tipo porao standard.,30.74,70x50x30,31.84
+PORAO_GRANDE_27,Variante 27 do tipo porao grande.,39.39,80x60x40,81.62
+PORAO_EXTRA_27,Variante 27 do tipo porao extra.,47.86,90x70x50,94.52
+ESPECIAL_ESPORTIVA_27,Variante 27 do tipo especial esportiva.,36.7,Variável,76.7
+ESPECIAL_MUSICAL_27,Variante 27 do tipo especial musical.,28.66,Variável,116.6
+ESPECIAL_ANIMAL_27,Variante 27 do tipo especial animal.,13.07,50x40x30,148.04
+ESPECIAL_FRAGIL_27,Variante 27 do tipo especial fragil.,29.45,60x50x40,66.26
+OVERSIZED_27,Variante 27 do tipo oversized.,50.66,100x80x60,196.83
+CARGA_LEVE_27,Variante 27 do tipo carga leve.,53.6,80x60x50,171.66
+CARGA_PESADA_27,Variante 27 do tipo carga pesada.,88.36,120x80x60,335.52
+INFANTIL_27,Variante 27 do tipo infantil.,19.05,45x35x20,0.0
+DIPLOMATICA_27,Variante 27 do tipo diplomatica.,37.81,70x50x35,5.16
+TRIPULACAO_27,Variante 27 do tipo tripulacao.,22.27,55x40x25,45.26
+MEDICA_27,Variante 27 do tipo medica.,25.9,50x40x30,44.08
+DUTY_FREE_27,Variante 27 do tipo duty free.,10.85,40x30x20,0.0
+PRIORITARIA_27,Variante 27 do tipo prioritaria.,30.02,70x50x30,81.37
+MAO_PEQUENA_28,Variante 28 do tipo mao pequena.,15.3,40x30x20,0.0
+MAO_STANDARD_28,Variante 28 do tipo mao standard.,8.65,55x35x25,25.94
+MAO_GRANDE_28,Variante 28 do tipo mao grande.,11.87,55x40x25,52.85
+PORAO_PEQUENA_28,Variante 28 do tipo porao pequena.,16.51,60x40x30,72.79
+PORAO_STANDARD_28,Variante 28 do tipo porao standard.,23.44,70x50x30,20.79
+PORAO_GRANDE_28,Variante 28 do tipo porao grande.,36.47,80x60x40,71.05
+PORAO_EXTRA_28,Variante 28 do tipo porao extra.,48.78,90x70x50,147.66
+ESPECIAL_ESPORTIVA_28,Variante 28 do tipo especial esportiva.,28.79,Variável,79.56
+ESPECIAL_MUSICAL_28,Variante 28 do tipo especial musical.,24.8,Variável,74.94
+ESPECIAL_ANIMAL_28,Variante 28 do tipo especial animal.,24.35,50x40x30,143.02
+ESPECIAL_FRAGIL_28,Variante 28 do tipo especial fragil.,25.82,60x50x40,96.22
+OVERSIZED_28,Variante 28 do tipo oversized.,58.0,100x80x60,240.55
+CARGA_LEVE_28,Variante 28 do tipo carga leve.,46.91,80x60x50,196.79
+CARGA_PESADA_28,Variante 28 do tipo carga pesada.,85.93,120x80x60,291.15
+INFANTIL_28,Variante 28 do tipo infantil.,9.77,45x35x20,20.46
+DIPLOMATICA_28,Variante 28 do tipo diplomatica.,36.95,70x50x35,10.33
+TRIPULACAO_28,Variante 28 do tipo tripulacao.,19.78,55x40x25,28.5
+MEDICA_28,Variante 28 do tipo medica.,23.6,50x40x30,6.54
+DUTY_FREE_28,Variante 28 do tipo duty free.,3.9,40x30x20,22.39
+PRIORITARIA_28,Variante 28 do tipo prioritaria.,35.08,70x50x30,60.54
+MAO_PEQUENA_29,Variante 29 do tipo mao pequena.,7.35,40x30x20,25.99
+MAO_STANDARD_29,Variante 29 do tipo mao standard.,18.73,55x35x25,41.51
+MAO_GRANDE_29,Variante 29 do tipo mao grande.,12.06,55x40x25,43.33
+PORAO_PEQUENA_29,Variante 29 do tipo porao pequena.,20.7,60x40x30,20.93
+PORAO_STANDARD_29,Variante 29 do tipo porao standard.,21.4,70x50x30,0.0
+PORAO_GRANDE_29,Variante 29 do tipo porao grande.,30.2,80x60x40,77.49
+PORAO_EXTRA_29,Variante 29 do tipo porao extra.,43.48,90x70x50,128.14
+ESPECIAL_ESPORTIVA_29,Variante 29 do tipo especial esportiva.,37.65,Variável,129.66
+ESPECIAL_MUSICAL_29,Variante 29 do tipo especial musical.,28.06,Variável,105.35
+ESPECIAL_ANIMAL_29,Variante 29 do tipo especial animal.,23.59,50x40x30,126.84
+ESPECIAL_FRAGIL_29,Variante 29 do tipo especial fragil.,20.62,60x50x40,98.18
+OVERSIZED_29,Variante 29 do tipo oversized.,52.58,100x80x60,229.06
+CARGA_LEVE_29,Variante 29 do tipo carga leve.,50.7,80x60x50,160.04
+CARGA_PESADA_29,Variante 29 do tipo carga pesada.,84.26,120x80x60,339.28
+INFANTIL_29,Variante 29 do tipo infantil.,13.81,45x35x20,0.0
+DIPLOMATICA_29,Variante 29 do tipo diplomatica.,32.14,70x50x35,34.15
+TRIPULACAO_29,Variante 29 do tipo tripulacao.,16.54,55x40x25,29.72
+MEDICA_29,Variante 29 do tipo medica.,25.89,50x40x30,7.9
+DUTY_FREE_29,Variante 29 do tipo duty free.,10.89,40x30x20,12.44
+PRIORITARIA_29,Variante 29 do tipo prioritaria.,34.89,70x50x30,26.11
+MAO_PEQUENA_30,Variante 30 do tipo mao pequena.,7.08,40x30x20,45.56
+MAO_STANDARD_30,Variante 30 do tipo mao standard.,19.48,55x35x25,17.51
+MAO_GRANDE_30,Variante 30 do tipo mao grande.,12.98,55x40x25,25.96
+PORAO_PEQUENA_30,Variante 30 do tipo porao pequena.,26.91,60x40x30,54.19
+PORAO_STANDARD_30,Variante 30 do tipo porao standard.,25.86,70x50x30,38.98
+PORAO_GRANDE_30,Variante 30 do tipo porao grande.,38.45,80x60x40,55.0
+PORAO_EXTRA_30,Variante 30 do tipo porao extra.,42.52,90x70x50,135.66
+ESPECIAL_ESPORTIVA_30,Variante 30 do tipo especial esportiva.,28.01,Variável,125.1
+ESPECIAL_MUSICAL_30,Variante 30 do tipo especial musical.,26.52,Variável,87.53
+ESPECIAL_ANIMAL_30,Variante 30 do tipo especial animal.,14.6,50x40x30,155.89
+ESPECIAL_FRAGIL_30,Variante 30 do tipo especial fragil.,26.28,60x50x40,52.52
+OVERSIZED_30,Variante 30 do tipo oversized.,52.26,100x80x60,231.9
+CARGA_LEVE_30,Variante 30 do tipo carga leve.,48.1,80x60x50,170.07
+CARGA_PESADA_30,Variante 30 do tipo carga pesada.,78.95,120x80x60,321.97
+INFANTIL_30,Variante 30 do tipo infantil.,13.28,45x35x20,12.03
+DIPLOMATICA_30,Variante 30 do tipo diplomatica.,41.3,70x50x35,30.78
+TRIPULACAO_30,Variante 30 do tipo tripulacao.,24.65,55x40x25,42.42
+MEDICA_30,Variante 30 do tipo medica.,27.92,50x40x30,6.32
+DUTY_FREE_30,Variante 30 do tipo duty free.,13.53,40x30x20,20.6
+PRIORITARIA_30,Variante 30 do tipo prioritaria.,31.76,70x50x30,46.14
+MAO_PEQUENA_31,Variante 31 do tipo mao pequena.,14.6,40x30x20,17.11
+MAO_STANDARD_31,Variante 31 do tipo mao standard.,13.98,55x35x25,21.07
+MAO_GRANDE_31,Variante 31 do tipo mao grande.,13.32,55x40x25,57.74
+PORAO_PEQUENA_31,Variante 31 do tipo porao pequena.,20.93,60x40x30,79.94
+PORAO_STANDARD_31,Variante 31 do tipo porao standard.,32.53,70x50x30,3.85
+PORAO_GRANDE_31,Variante 31 do tipo porao grande.,30.46,80x60x40,64.19
+PORAO_EXTRA_31,Variante 31 do tipo porao extra.,43.56,90x70x50,136.53
+ESPECIAL_ESPORTIVA_31,Variante 31 do tipo especial esportiva.,39.64,Variável,94.47
+ESPECIAL_MUSICAL_31,Variante 31 do tipo especial musical.,30.02,Variável,72.76
+ESPECIAL_ANIMAL_31,Variante 31 do tipo especial animal.,19.98,50x40x30,144.02
+ESPECIAL_FRAGIL_31,Variante 31 do tipo especial fragil.,23.82,60x50x40,104.68
+OVERSIZED_31,Variante 31 do tipo oversized.,58.65,100x80x60,244.3
+CARGA_LEVE_31,Variante 31 do tipo carga leve.,44.62,80x60x50,143.03
+CARGA_PESADA_31,Variante 31 do tipo carga pesada.,81.08,120x80x60,326.29
+INFANTIL_31,Variante 31 do tipo infantil.,12.64,45x35x20,0.0
+DIPLOMATICA_31,Variante 31 do tipo diplomatica.,34.93,70x50x35,27.19
+TRIPULACAO_31,Variante 31 do tipo tripulacao.,13.13,55x40x25,15.02
+MEDICA_31,Variante 31 do tipo medica.,18.87,50x40x30,17.22
+DUTY_FREE_31,Variante 31 do tipo duty free.,14.18,40x30x20,25.0
+PRIORITARIA_31,Variante 31 do tipo prioritaria.,32.12,70x50x30,78.55
+MAO_PEQUENA_32,Variante 32 do tipo mao pequena.,10.52,40x30x20,49.12
+MAO_STANDARD_32,Variante 32 do tipo mao standard.,18.9,55x35x25,46.88
+MAO_GRANDE_32,Variante 32 do tipo mao grande.,17.89,55x40x25,24.26
+PORAO_PEQUENA_32,Variante 32 do tipo porao pequena.,26.98,60x40x30,56.19
+PORAO_STANDARD_32,Variante 32 do tipo porao standard.,32.42,70x50x30,22.89
+PORAO_GRANDE_32,Variante 32 do tipo porao grande.,32.58,80x60x40,85.09
+PORAO_EXTRA_32,Variante 32 do tipo porao extra.,46.82,90x70x50,141.91
+ESPECIAL_ESPORTIVA_32,Variante 32 do tipo especial esportiva.,32.8,Variável,100.89
+ESPECIAL_MUSICAL_32,Variante 32 do tipo especial musical.,31.52,Variável,92.06
+ESPECIAL_ANIMAL_32,Variante 32 do tipo especial animal.,15.25,50x40x30,164.98
+ESPECIAL_FRAGIL_32,Variante 32 do tipo especial fragil.,23.21,60x50x40,68.07
+OVERSIZED_32,Variante 32 do tipo oversized.,50.96,100x80x60,221.51
+CARGA_LEVE_32,Variante 32 do tipo carga leve.,43.59,80x60x50,196.85
+CARGA_PESADA_32,Variante 32 do tipo carga pesada.,87.69,120x80x60,343.71
+INFANTIL_32,Variante 32 do tipo infantil.,17.76,45x35x20,0.0
+DIPLOMATICA_32,Variante 32 do tipo diplomatica.,32.4,70x50x35,21.67
+TRIPULACAO_32,Variante 32 do tipo tripulacao.,15.28,55x40x25,35.87
+MEDICA_32,Variante 32 do tipo medica.,19.02,50x40x30,49.46
+DUTY_FREE_32,Variante 32 do tipo duty free.,7.83,40x30x20,0.0
+PRIORITARIA_32,Variante 32 do tipo prioritaria.,40.76,70x50x30,42.38
+MAO_PEQUENA_33,Variante 33 do tipo mao pequena.,6.6,40x30x20,48.73
+MAO_STANDARD_33,Variante 33 do tipo mao standard.,16.38,55x35x25,45.8
+MAO_GRANDE_33,Variante 33 do tipo mao grande.,11.76,55x40x25,52.02
+PORAO_PEQUENA_33,Variante 33 do tipo porao pequena.,24.96,60x40x30,24.04
+PORAO_STANDARD_33,Variante 33 do tipo porao standard.,30.51,70x50x30,34.47
+PORAO_GRANDE_33,Variante 33 do tipo porao grande.,37.94,80x60x40,91.17
+PORAO_EXTRA_33,Variante 33 do tipo porao extra.,48.45,90x70x50,133.87
+ESPECIAL_ESPORTIVA_33,Variante 33 do tipo especial esportiva.,34.77,Variável,83.06
+ESPECIAL_MUSICAL_33,Variante 33 do tipo especial musical.,24.42,Variável,77.25
+ESPECIAL_ANIMAL_33,Variante 33 do tipo especial animal.,22.74,50x40x30,139.74
+ESPECIAL_FRAGIL_33,Variante 33 do tipo especial fragil.,19.83,60x50x40,88.13
+OVERSIZED_33,Variante 33 do tipo oversized.,54.52,100x80x60,197.94
+CARGA_LEVE_33,Variante 33 do tipo carga leve.,50.1,80x60x50,172.41
+CARGA_PESADA_33,Variante 33 do tipo carga pesada.,85.73,120x80x60,339.97
+INFANTIL_33,Variante 33 do tipo infantil.,12.6,45x35x20,0.0
+DIPLOMATICA_33,Variante 33 do tipo diplomatica.,39.43,70x50x35,46.39
+TRIPULACAO_33,Variante 33 do tipo tripulacao.,14.63,55x40x25,44.52
+MEDICA_33,Variante 33 do tipo medica.,21.95,50x40x30,48.18
+DUTY_FREE_33,Variante 33 do tipo duty free.,10.79,40x30x20,0.0
+PRIORITARIA_33,Variante 33 do tipo prioritaria.,32.19,70x50x30,45.21
+MAO_PEQUENA_34,Variante 34 do tipo mao pequena.,8.79,40x30x20,24.21
+MAO_STANDARD_34,Variante 34 do tipo mao standard.,13.81,55x35x25,15.6
+MAO_GRANDE_34,Variante 34 do tipo mao grande.,17.3,55x40x25,63.02
+PORAO_PEQUENA_34,Variante 34 do tipo porao pequena.,23.47,60x40x30,35.66
+PORAO_STANDARD_34,Variante 34 do tipo porao standard.,31.87,70x50x30,14.04
+PORAO_GRANDE_34,Variante 34 do tipo porao grande.,40.98,80x60x40,74.1
+PORAO_EXTRA_34,Variante 34 do tipo porao extra.,49.72,90x70x50,136.61
+ESPECIAL_ESPORTIVA_34,Variante 34 do tipo especial esportiva.,39.05,Variável,128.74
+ESPECIAL_MUSICAL_34,Variante 34 do tipo especial musical.,23.41,Variável,124.26
+ESPECIAL_ANIMAL_34,Variante 34 do tipo especial animal.,17.44,50x40x30,142.04
+ESPECIAL_FRAGIL_34,Variante 34 do tipo especial fragil.,28.55,60x50x40,55.11
+OVERSIZED_34,Variante 34 do tipo oversized.,55.91,100x80x60,204.76
+CARGA_LEVE_34,Variante 34 do tipo carga leve.,54.22,80x60x50,166.91
+CARGA_PESADA_34,Variante 34 do tipo carga pesada.,82.9,120x80x60,296.03
+INFANTIL_34,Variante 34 do tipo infantil.,14.31,45x35x20,24.31
+DIPLOMATICA_34,Variante 34 do tipo diplomatica.,41.74,70x50x35,0.0
+TRIPULACAO_34,Variante 34 do tipo tripulacao.,22.17,55x40x25,44.92
+MEDICA_34,Variante 34 do tipo medica.,25.7,50x40x30,36.27
+DUTY_FREE_34,Variante 34 do tipo duty free.,13.19,40x30x20,0.0
+PRIORITARIA_34,Variante 34 do tipo prioritaria.,32.97,70x50x30,81.36
+MAO_PEQUENA_35,Variante 35 do tipo mao pequena.,11.89,40x30x20,0.0
+MAO_STANDARD_35,Variante 35 do tipo mao standard.,9.96,55x35x25,3.53
+MAO_GRANDE_35,Variante 35 do tipo mao grande.,10.87,55x40x25,26.65
+PORAO_PEQUENA_35,Variante 35 do tipo porao pequena.,23.93,60x40x30,38.94
+PORAO_STANDARD_35,Variante 35 do tipo porao standard.,25.86,70x50x30,0.0
+PORAO_GRANDE_35,Variante 35 do tipo porao grande.,35.95,80x60x40,69.75
+PORAO_EXTRA_35,Variante 35 do tipo porao extra.,45.71,90x70x50,94.4
+ESPECIAL_ESPORTIVA_35,Variante 35 do tipo especial esportiva.,39.89,Variável,90.98
+ESPECIAL_MUSICAL_35,Variante 35 do tipo especial musical.,25.71,Variável,70.17
+ESPECIAL_ANIMAL_35,Variante 35 do tipo especial animal.,19.91,50x40x30,149.79
+ESPECIAL_FRAGIL_35,Variante 35 do tipo especial fragil.,29.59,60x50x40,58.8
+OVERSIZED_35,Variante 35 do tipo oversized.,52.0,100x80x60,227.32
+CARGA_LEVE_35,Variante 35 do tipo carga leve.,53.03,80x60x50,175.86
+CARGA_PESADA_35,Variante 35 do tipo carga pesada.,78.85,120x80x60,301.9
+INFANTIL_35,Variante 35 do tipo infantil.,13.81,45x35x20,2.6
+DIPLOMATICA_35,Variante 35 do tipo diplomatica.,30.48,70x50x35,7.9
+TRIPULACAO_35,Variante 35 do tipo tripulacao.,15.21,55x40x25,7.64
+MEDICA_35,Variante 35 do tipo medica.,29.96,50x40x30,6.5
+DUTY_FREE_35,Variante 35 do tipo duty free.,8.38,40x30x20,23.0
+PRIORITARIA_35,Variante 35 do tipo prioritaria.,30.0,70x50x30,41.26
+MAO_PEQUENA_36,Variante 36 do tipo mao pequena.,11.18,40x30x20,16.64
+MAO_STANDARD_36,Variante 36 do tipo mao standard.,19.51,55x35x25,14.96
+MAO_GRANDE_36,Variante 36 do tipo mao grande.,11.54,55x40x25,28.53
+PORAO_PEQUENA_36,Variante 36 do tipo porao pequena.,27.84,60x40x30,75.38
+PORAO_STANDARD_36,Variante 36 do tipo porao standard.,31.62,70x50x30,31.51
+PORAO_GRANDE_36,Variante 36 do tipo porao grande.,35.65,80x60x40,59.28
+PORAO_EXTRA_36,Variante 36 do tipo porao extra.,47.33,90x70x50,126.5
+ESPECIAL_ESPORTIVA_36,Variante 36 do tipo especial esportiva.,37.44,Variável,107.79
+ESPECIAL_MUSICAL_36,Variante 36 do tipo especial musical.,34.73,Variável,106.28
+ESPECIAL_ANIMAL_36,Variante 36 do tipo especial animal.,23.24,50x40x30,168.5
+ESPECIAL_FRAGIL_36,Variante 36 do tipo especial fragil.,19.08,60x50x40,91.7
+OVERSIZED_36,Variante 36 do tipo oversized.,59.53,100x80x60,199.99
+CARGA_LEVE_36,Variante 36 do tipo carga leve.,49.46,80x60x50,160.83
+CARGA_PESADA_36,Variante 36 do tipo carga pesada.,81.22,120x80x60,313.01
+INFANTIL_36,Variante 36 do tipo infantil.,19.66,45x35x20,0.0
+DIPLOMATICA_36,Variante 36 do tipo diplomatica.,39.77,70x50x35,23.5
+TRIPULACAO_36,Variante 36 do tipo tripulacao.,17.25,55x40x25,0.0
+MEDICA_36,Variante 36 do tipo medica.,22.16,50x40x30,34.52
+DUTY_FREE_36,Variante 36 do tipo duty free.,11.75,40x30x20,38.47
+PRIORITARIA_36,Variante 36 do tipo prioritaria.,33.85,70x50x30,75.11
+MAO_PEQUENA_37,Variante 37 do tipo mao pequena.,9.13,40x30x20,33.1
+MAO_STANDARD_37,Variante 37 do tipo mao standard.,15.43,55x35x25,30.14
+MAO_GRANDE_37,Variante 37 do tipo mao grande.,12.99,55x40x25,54.98
+PORAO_PEQUENA_37,Variante 37 do tipo porao pequena.,27.06,60x40x30,22.81
+PORAO_STANDARD_37,Variante 37 do tipo porao standard.,26.9,70x50x30,18.37
+PORAO_GRANDE_37,Variante 37 do tipo porao grande.,30.61,80x60x40,40.68
+PORAO_EXTRA_37,Variante 37 do tipo porao extra.,40.95,90x70x50,139.73
+ESPECIAL_ESPORTIVA_37,Variante 37 do tipo especial esportiva.,28.15,Variável,88.69
+ESPECIAL_MUSICAL_37,Variante 37 do tipo especial musical.,33.71,Variável,72.03
+ESPECIAL_ANIMAL_37,Variante 37 do tipo especial animal.,16.32,50x40x30,111.1
+ESPECIAL_FRAGIL_37,Variante 37 do tipo especial fragil.,27.13,60x50x40,86.25
+OVERSIZED_37,Variante 37 do tipo oversized.,57.46,100x80x60,222.76
+CARGA_LEVE_37,Variante 37 do tipo carga leve.,45.14,80x60x50,188.26
+CARGA_PESADA_37,Variante 37 do tipo carga pesada.,78.29,120x80x60,302.54
+INFANTIL_37,Variante 37 do tipo infantil.,12.59,45x35x20,36.14
+DIPLOMATICA_37,Variante 37 do tipo diplomatica.,39.21,70x50x35,34.3
+TRIPULACAO_37,Variante 37 do tipo tripulacao.,13.48,55x40x25,20.82
+MEDICA_37,Variante 37 do tipo medica.,28.98,50x40x30,22.64
+DUTY_FREE_37,Variante 37 do tipo duty free.,7.79,40x30x20,46.91
+PRIORITARIA_37,Variante 37 do tipo prioritaria.,37.54,70x50x30,66.6
+MAO_PEQUENA_38,Variante 38 do tipo mao pequena.,6.25,40x30x20,16.69
+MAO_STANDARD_38,Variante 38 do tipo mao standard.,14.49,55x35x25,0.0
+MAO_GRANDE_38,Variante 38 do tipo mao grande.,13.86,55x40x25,51.48
+PORAO_PEQUENA_38,Variante 38 do tipo porao pequena.,20.06,60x40x30,78.25
+PORAO_STANDARD_38,Variante 38 do tipo porao standard.,25.59,70x50x30,31.52
+PORAO_GRANDE_38,Variante 38 do tipo porao grande.,38.51,80x60x40,52.4
+PORAO_EXTRA_38,Variante 38 do tipo porao extra.,40.44,90x70x50,104.2
+ESPECIAL_ESPORTIVA_38,Variante 38 do tipo especial esportiva.,36.65,Variável,77.93
+ESPECIAL_MUSICAL_38,Variante 38 do tipo especial musical.,23.67,Variável,76.39
+ESPECIAL_ANIMAL_38,Variante 38 do tipo especial animal.,24.83,50x40x30,128.0
+ESPECIAL_FRAGIL_38,Variante 38 do tipo especial fragil.,28.2,60x50x40,80.19
+OVERSIZED_38,Variante 38 do tipo oversized.,54.09,100x80x60,193.21
+CARGA_LEVE_38,Variante 38 do tipo carga leve.,52.22,80x60x50,165.92
+CARGA_PESADA_38,Variante 38 do tipo carga pesada.,78.51,120x80x60,333.19
+INFANTIL_38,Variante 38 do tipo infantil.,15.26,45x35x20,18.98
+DIPLOMATICA_38,Variante 38 do tipo diplomatica.,41.63,70x50x35,25.79
+TRIPULACAO_38,Variante 38 do tipo tripulacao.,13.49,55x40x25,30.77
+MEDICA_38,Variante 38 do tipo medica.,19.41,50x40x30,31.96
+DUTY_FREE_38,Variante 38 do tipo duty free.,4.11,40x30x20,40.35
+PRIORITARIA_38,Variante 38 do tipo prioritaria.,39.87,70x50x30,62.75
+MAO_PEQUENA_39,Variante 39 do tipo mao pequena.,17.75,40x30x20,41.94
+MAO_STANDARD_39,Variante 39 do tipo mao standard.,8.95,55x35x25,1.98
+MAO_GRANDE_39,Variante 39 do tipo mao grande.,20.27,55x40x25,23.72
+PORAO_PEQUENA_39,Variante 39 do tipo porao pequena.,20.68,60x40x30,26.02
+PORAO_STANDARD_39,Variante 39 do tipo porao standard.,25.02,70x50x30,6.54
+PORAO_GRANDE_39,Variante 39 do tipo porao grande.,34.06,80x60x40,42.82
+PORAO_EXTRA_39,Variante 39 do tipo porao extra.,39.96,90x70x50,113.96
+ESPECIAL_ESPORTIVA_39,Variante 39 do tipo especial esportiva.,30.24,Variável,77.16
+ESPECIAL_MUSICAL_39,Variante 39 do tipo especial musical.,30.13,Variável,89.2
+ESPECIAL_ANIMAL_39,Variante 39 do tipo especial animal.,16.54,50x40x30,137.29
+ESPECIAL_FRAGIL_39,Variante 39 do tipo especial fragil.,26.2,60x50x40,109.27
+OVERSIZED_39,Variante 39 do tipo oversized.,49.76,100x80x60,208.81
+CARGA_LEVE_39,Variante 39 do tipo carga leve.,50.21,80x60x50,168.22
+CARGA_PESADA_39,Variante 39 do tipo carga pesada.,78.08,120x80x60,318.64
+INFANTIL_39,Variante 39 do tipo infantil.,11.27,45x35x20,32.67
+DIPLOMATICA_39,Variante 39 do tipo diplomatica.,33.56,70x50x35,33.58
+TRIPULACAO_39,Variante 39 do tipo tripulacao.,24.5,55x40x25,0.0
+MEDICA_39,Variante 39 do tipo medica.,24.38,50x40x30,43.5
+DUTY_FREE_39,Variante 39 do tipo duty free.,12.27,40x30x20,45.11
+PRIORITARIA_39,Variante 39 do tipo prioritaria.,40.74,70x50x30,29.8
+MAO_PEQUENA_40,Variante 40 do tipo mao pequena.,15.01,40x30x20,7.36
+MAO_STANDARD_40,Variante 40 do tipo mao standard.,16.95,55x35x25,39.37
+MAO_GRANDE_40,Variante 40 do tipo mao grande.,16.87,55x40x25,58.75
+PORAO_PEQUENA_40,Variante 40 do tipo porao pequena.,22.92,60x40x30,45.27
+PORAO_STANDARD_40,Variante 40 do tipo porao standard.,30.51,70x50x30,38.23
+PORAO_GRANDE_40,Variante 40 do tipo porao grande.,41.97,80x60x40,47.94
+PORAO_EXTRA_40,Variante 40 do tipo porao extra.,42.89,90x70x50,104.89
+ESPECIAL_ESPORTIVA_40,Variante 40 do tipo especial esportiva.,36.44,Variável,104.57
+ESPECIAL_MUSICAL_40,Variante 40 do tipo especial musical.,34.07,Variável,86.8
+ESPECIAL_ANIMAL_40,Variante 40 do tipo especial animal.,24.71,50x40x30,118.27
+ESPECIAL_FRAGIL_40,Variante 40 do tipo especial fragil.,22.61,60x50x40,94.39
+OVERSIZED_40,Variante 40 do tipo oversized.,51.61,100x80x60,197.78
+CARGA_LEVE_40,Variante 40 do tipo carga leve.,48.83,80x60x50,173.33
+CARGA_PESADA_40,Variante 40 do tipo carga pesada.,83.38,120x80x60,302.96
+INFANTIL_40,Variante 40 do tipo infantil.,12.66,45x35x20,14.08
+DIPLOMATICA_40,Variante 40 do tipo diplomatica.,33.97,70x50x35,38.76
+TRIPULACAO_40,Variante 40 do tipo tripulacao.,17.72,55x40x25,0.0
+MEDICA_40,Variante 40 do tipo medica.,22.75,50x40x30,16.04
+DUTY_FREE_40,Variante 40 do tipo duty free.,3.1,40x30x20,0.0
+PRIORITARIA_40,Variante 40 do tipo prioritaria.,38.77,70x50x30,78.23
+MAO_PEQUENA_41,Variante 41 do tipo mao pequena.,7.05,40x30x20,28.0
+MAO_STANDARD_41,Variante 41 do tipo mao standard.,11.19,55x35x25,0.0
+MAO_GRANDE_41,Variante 41 do tipo mao grande.,16.54,55x40x25,22.24
+PORAO_PEQUENA_41,Variante 41 do tipo porao pequena.,26.31,60x40x30,55.2
+PORAO_STANDARD_41,Variante 41 do tipo porao standard.,28.11,70x50x30,49.31
+PORAO_GRANDE_41,Variante 41 do tipo porao grande.,30.7,80x60x40,84.45
+PORAO_EXTRA_41,Variante 41 do tipo porao extra.,45.67,90x70x50,98.59
+ESPECIAL_ESPORTIVA_41,Variante 41 do tipo especial esportiva.,29.62,Variável,106.5
+ESPECIAL_MUSICAL_41,Variante 41 do tipo especial musical.,27.07,Variável,106.31
+ESPECIAL_ANIMAL_41,Variante 41 do tipo especial animal.,22.21,50x40x30,137.6
+ESPECIAL_FRAGIL_41,Variante 41 do tipo especial fragil.,22.45,60x50x40,78.05
+OVERSIZED_41,Variante 41 do tipo oversized.,55.17,100x80x60,203.88
+CARGA_LEVE_41,Variante 41 do tipo carga leve.,44.35,80x60x50,178.96
+CARGA_PESADA_41,Variante 41 do tipo carga pesada.,80.24,120x80x60,313.55
+INFANTIL_41,Variante 41 do tipo infantil.,8.59,45x35x20,33.0
+DIPLOMATICA_41,Variante 41 do tipo diplomatica.,35.16,70x50x35,0.0
+TRIPULACAO_41,Variante 41 do tipo tripulacao.,24.6,55x40x25,10.93
+MEDICA_41,Variante 41 do tipo medica.,27.78,50x40x30,19.58
+DUTY_FREE_41,Variante 41 do tipo duty free.,6.54,40x30x20,9.3
+PRIORITARIA_41,Variante 41 do tipo prioritaria.,39.74,70x50x30,83.89
+MAO_PEQUENA_42,Variante 42 do tipo mao pequena.,13.09,40x30x20,0.0
+MAO_STANDARD_42,Variante 42 do tipo mao standard.,11.83,55x35x25,34.83
+MAO_GRANDE_42,Variante 42 do tipo mao grande.,21.55,55x40x25,31.89
+PORAO_PEQUENA_42,Variante 42 do tipo porao pequena.,19.42,60x40x30,39.76
+PORAO_STANDARD_42,Variante 42 do tipo porao standard.,27.17,70x50x30,0.0
+PORAO_GRANDE_42,Variante 42 do tipo porao grande.,30.2,80x60x40,73.66
+PORAO_EXTRA_42,Variante 42 do tipo porao extra.,46.62,90x70x50,125.71
+ESPECIAL_ESPORTIVA_42,Variante 42 do tipo especial esportiva.,32.17,Variável,91.02
+ESPECIAL_MUSICAL_42,Variante 42 do tipo especial musical.,25.54,Variável,118.18
+ESPECIAL_ANIMAL_42,Variante 42 do tipo especial animal.,23.14,50x40x30,155.73
+ESPECIAL_FRAGIL_42,Variante 42 do tipo especial fragil.,22.78,60x50x40,74.37
+OVERSIZED_42,Variante 42 do tipo oversized.,58.4,100x80x60,225.83
+CARGA_LEVE_42,Variante 42 do tipo carga leve.,51.23,80x60x50,148.96
+CARGA_PESADA_42,Variante 42 do tipo carga pesada.,83.92,120x80x60,319.7
+INFANTIL_42,Variante 42 do tipo infantil.,11.78,45x35x20,14.44
+DIPLOMATICA_42,Variante 42 do tipo diplomatica.,30.14,70x50x35,48.17
+TRIPULACAO_42,Variante 42 do tipo tripulacao.,17.9,55x40x25,38.65
+MEDICA_42,Variante 42 do tipo medica.,28.08,50x40x30,8.58
+DUTY_FREE_42,Variante 42 do tipo duty free.,8.08,40x30x20,16.86
+PRIORITARIA_42,Variante 42 do tipo prioritaria.,33.56,70x50x30,76.82
+MAO_PEQUENA_43,Variante 43 do tipo mao pequena.,7.85,40x30x20,15.3
+MAO_STANDARD_43,Variante 43 do tipo mao standard.,19.06,55x35x25,0.0
+MAO_GRANDE_43,Variante 43 do tipo mao grande.,12.36,55x40x25,62.99
+PORAO_PEQUENA_43,Variante 43 do tipo porao pequena.,16.75,60x40x30,50.24
+PORAO_STANDARD_43,Variante 43 do tipo porao standard.,21.33,70x50x30,12.47
+PORAO_GRANDE_43,Variante 43 do tipo porao grande.,32.39,80x60x40,40.26
+PORAO_EXTRA_43,Variante 43 do tipo porao extra.,43.29,90x70x50,130.76
+ESPECIAL_ESPORTIVA_43,Variante 43 do tipo especial esportiva.,35.62,Variável,75.41
+ESPECIAL_MUSICAL_43,Variante 43 do tipo especial musical.,28.96,Variável,70.63
+ESPECIAL_ANIMAL_43,Variante 43 do tipo especial animal.,18.08,50x40x30,130.81
+ESPECIAL_FRAGIL_43,Variante 43 do tipo especial fragil.,23.28,60x50x40,53.71
+OVERSIZED_43,Variante 43 do tipo oversized.,49.55,100x80x60,205.34
+CARGA_LEVE_43,Variante 43 do tipo carga leve.,43.9,80x60x50,154.72
+CARGA_PESADA_43,Variante 43 do tipo carga pesada.,81.92,120x80x60,316.54
+INFANTIL_43,Variante 43 do tipo infantil.,11.18,45x35x20,32.58
+DIPLOMATICA_43,Variante 43 do tipo diplomatica.,41.62,70x50x35,33.92
+TRIPULACAO_43,Variante 43 do tipo tripulacao.,17.38,55x40x25,0.0
+MEDICA_43,Variante 43 do tipo medica.,27.74,50x40x30,31.66
+DUTY_FREE_43,Variante 43 do tipo duty free.,14.85,40x30x20,18.05
+PRIORITARIA_43,Variante 43 do tipo prioritaria.,30.65,70x50x30,68.36
+MAO_PEQUENA_44,Variante 44 do tipo mao pequena.,7.48,40x30x20,46.01
+MAO_STANDARD_44,Variante 44 do tipo mao standard.,8.96,55x35x25,28.58
+MAO_GRANDE_44,Variante 44 do tipo mao grande.,16.3,55x40x25,49.53
+PORAO_PEQUENA_44,Variante 44 do tipo porao pequena.,20.77,60x40x30,77.87
+PORAO_STANDARD_44,Variante 44 do tipo porao standard.,32.24,70x50x30,40.86
+PORAO_GRANDE_44,Variante 44 do tipo porao grande.,34.86,80x60x40,52.89
+PORAO_EXTRA_44,Variante 44 do tipo porao extra.,41.96,90x70x50,143.11
+ESPECIAL_ESPORTIVA_44,Variante 44 do tipo especial esportiva.,34.64,Variável,81.69
+ESPECIAL_MUSICAL_44,Variante 44 do tipo especial musical.,26.87,Variável,101.44
+ESPECIAL_ANIMAL_44,Variante 44 do tipo especial animal.,16.17,50x40x30,150.23
+ESPECIAL_FRAGIL_44,Variante 44 do tipo especial fragil.,23.52,60x50x40,82.82
+OVERSIZED_44,Variante 44 do tipo oversized.,48.08,100x80x60,231.2
+CARGA_LEVE_44,Variante 44 do tipo carga leve.,43.59,80x60x50,151.14
+CARGA_PESADA_44,Variante 44 do tipo carga pesada.,80.91,120x80x60,334.77
+INFANTIL_44,Variante 44 do tipo infantil.,13.74,45x35x20,18.44
+DIPLOMATICA_44,Variante 44 do tipo diplomatica.,38.77,70x50x35,22.52
+TRIPULACAO_44,Variante 44 do tipo tripulacao.,15.93,55x40x25,0.0
+MEDICA_44,Variante 44 do tipo medica.,25.71,50x40x30,23.82
+DUTY_FREE_44,Variante 44 do tipo duty free.,4.97,40x30x20,26.21
+PRIORITARIA_44,Variante 44 do tipo prioritaria.,35.19,70x50x30,39.51
+MAO_PEQUENA_45,Variante 45 do tipo mao pequena.,8.28,40x30x20,39.04
+MAO_STANDARD_45,Variante 45 do tipo mao standard.,16.28,55x35x25,26.22
+MAO_GRANDE_45,Variante 45 do tipo mao grande.,15.75,55x40x25,62.17
+PORAO_PEQUENA_45,Variante 45 do tipo porao pequena.,17.6,60x40x30,53.93
+PORAO_STANDARD_45,Variante 45 do tipo porao standard.,31.33,70x50x30,7.35
+PORAO_GRANDE_45,Variante 45 do tipo porao grande.,30.48,80x60x40,92.11
+PORAO_EXTRA_45,Variante 45 do tipo porao extra.,49.06,90x70x50,109.33
+ESPECIAL_ESPORTIVA_45,Variante 45 do tipo especial esportiva.,37.16,Variável,118.93
+ESPECIAL_MUSICAL_45,Variante 45 do tipo especial musical.,34.22,Variável,118.75
+ESPECIAL_ANIMAL_45,Variante 45 do tipo especial animal.,18.52,50x40x30,147.04
+ESPECIAL_FRAGIL_45,Variante 45 do tipo especial fragil.,25.12,60x50x40,61.21
+OVERSIZED_45,Variante 45 do tipo oversized.,49.98,100x80x60,218.4
+CARGA_LEVE_45,Variante 45 do tipo carga leve.,45.84,80x60x50,195.98
+CARGA_PESADA_45,Variante 45 do tipo carga pesada.,79.91,120x80x60,333.26
+INFANTIL_45,Variante 45 do tipo infantil.,18.41,45x35x20,29.1
+DIPLOMATICA_45,Variante 45 do tipo diplomatica.,30.56,70x50x35,4.3
+TRIPULACAO_45,Variante 45 do tipo tripulacao.,15.19,55x40x25,24.51
+MEDICA_45,Variante 45 do tipo medica.,21.02,50x40x30,49.49
+DUTY_FREE_45,Variante 45 do tipo duty free.,3.78,40x30x20,27.01
+PRIORITARIA_45,Variante 45 do tipo prioritaria.,32.74,70x50x30,72.9
+MAO_PEQUENA_46,Variante 46 do tipo mao pequena.,12.2,40x30x20,7.6
+MAO_STANDARD_46,Variante 46 do tipo mao standard.,10.55,55x35x25,7.82
+MAO_GRANDE_46,Variante 46 do tipo mao grande.,17.92,55x40x25,51.28
+PORAO_PEQUENA_46,Variante 46 do tipo porao pequena.,22.3,60x40x30,73.37
+PORAO_STANDARD_46,Variante 46 do tipo porao standard.,21.11,70x50x30,30.36
+PORAO_GRANDE_46,Variante 46 do tipo porao grande.,33.98,80x60x40,59.26
+PORAO_EXTRA_46,Variante 46 do tipo porao extra.,39.01,90x70x50,140.56
+ESPECIAL_ESPORTIVA_46,Variante 46 do tipo especial esportiva.,36.28,Variável,77.61
+ESPECIAL_MUSICAL_46,Variante 46 do tipo especial musical.,27.67,Variável,119.89
+ESPECIAL_ANIMAL_46,Variante 46 do tipo especial animal.,18.31,50x40x30,136.19
+ESPECIAL_FRAGIL_46,Variante 46 do tipo especial fragil.,26.28,60x50x40,87.34
+OVERSIZED_46,Variante 46 do tipo oversized.,50.42,100x80x60,247.56
+CARGA_LEVE_46,Variante 46 do tipo carga leve.,44.49,80x60x50,140.23
+CARGA_PESADA_46,Variante 46 do tipo carga pesada.,87.99,120x80x60,337.32
+INFANTIL_46,Variante 46 do tipo infantil.,19.82,45x35x20,2.81
+DIPLOMATICA_46,Variante 46 do tipo diplomatica.,31.86,70x50x35,36.41
+TRIPULACAO_46,Variante 46 do tipo tripulacao.,18.19,55x40x25,27.53
+MEDICA_46,Variante 46 do tipo medica.,27.35,50x40x30,44.82
+DUTY_FREE_46,Variante 46 do tipo duty free.,8.91,40x30x20,18.05
+PRIORITARIA_46,Variante 46 do tipo prioritaria.,32.62,70x50x30,81.35
+MAO_PEQUENA_47,Variante 47 do tipo mao pequena.,10.97,40x30x20,33.56
+MAO_STANDARD_47,Variante 47 do tipo mao standard.,16.4,55x35x25,0.0
+MAO_GRANDE_47,Variante 47 do tipo mao grande.,14.78,55x40x25,70.71
+PORAO_PEQUENA_47,Variante 47 do tipo porao pequena.,24.76,60x40x30,21.7
+PORAO_STANDARD_47,Variante 47 do tipo porao standard.,30.63,70x50x30,0.0
+PORAO_GRANDE_47,Variante 47 do tipo porao grande.,36.7,80x60x40,43.14
+PORAO_EXTRA_47,Variante 47 do tipo porao extra.,42.54,90x70x50,92.07
+ESPECIAL_ESPORTIVA_47,Variante 47 do tipo especial esportiva.,35.37,Variável,80.17
+ESPECIAL_MUSICAL_47,Variante 47 do tipo especial musical.,29.04,Variável,83.25
+ESPECIAL_ANIMAL_47,Variante 47 do tipo especial animal.,20.56,50x40x30,115.09
+ESPECIAL_FRAGIL_47,Variante 47 do tipo especial fragil.,27.89,60x50x40,88.42
+OVERSIZED_47,Variante 47 do tipo oversized.,57.49,100x80x60,207.85
+CARGA_LEVE_47,Variante 47 do tipo carga leve.,43.64,80x60x50,193.87
+CARGA_PESADA_47,Variante 47 do tipo carga pesada.,81.24,120x80x60,330.52
+INFANTIL_47,Variante 47 do tipo infantil.,18.42,45x35x20,18.39
+DIPLOMATICA_47,Variante 47 do tipo diplomatica.,39.1,70x50x35,20.38
+TRIPULACAO_47,Variante 47 do tipo tripulacao.,18.14,55x40x25,15.21
+MEDICA_47,Variante 47 do tipo medica.,22.46,50x40x30,45.56
+DUTY_FREE_47,Variante 47 do tipo duty free.,13.1,40x30x20,15.78
+PRIORITARIA_47,Variante 47 do tipo prioritaria.,31.92,70x50x30,75.57
+MAO_PEQUENA_48,Variante 48 do tipo mao pequena.,8.94,40x30x20,14.29
+MAO_STANDARD_48,Variante 48 do tipo mao standard.,17.66,55x35x25,29.74
+MAO_GRANDE_48,Variante 48 do tipo mao grande.,14.28,55x40x25,65.82
+PORAO_PEQUENA_48,Variante 48 do tipo porao pequena.,25.71,60x40x30,44.21
+PORAO_STANDARD_48,Variante 48 do tipo porao standard.,32.46,70x50x30,5.74
+PORAO_GRANDE_48,Variante 48 do tipo porao grande.,34.94,80x60x40,44.26
+PORAO_EXTRA_48,Variante 48 do tipo porao extra.,44.88,90x70x50,106.04
+ESPECIAL_ESPORTIVA_48,Variante 48 do tipo especial esportiva.,35.14,Variável,108.74
+ESPECIAL_MUSICAL_48,Variante 48 do tipo especial musical.,25.51,Variável,96.36
+ESPECIAL_ANIMAL_48,Variante 48 do tipo especial animal.,15.61,50x40x30,145.22
+ESPECIAL_FRAGIL_48,Variante 48 do tipo especial fragil.,27.24,60x50x40,90.76
+OVERSIZED_48,Variante 48 do tipo oversized.,56.98,100x80x60,240.32
+CARGA_LEVE_48,Variante 48 do tipo carga leve.,51.5,80x60x50,190.53
+CARGA_PESADA_48,Variante 48 do tipo carga pesada.,85.18,120x80x60,294.64
+INFANTIL_48,Variante 48 do tipo infantil.,15.18,45x35x20,32.36
+DIPLOMATICA_48,Variante 48 do tipo diplomatica.,35.13,70x50x35,25.36
+TRIPULACAO_48,Variante 48 do tipo tripulacao.,20.44,55x40x25,8.9
+MEDICA_48,Variante 48 do tipo medica.,21.76,50x40x30,42.01
+DUTY_FREE_48,Variante 48 do tipo duty free.,10.17,40x30x20,38.03
+PRIORITARIA_48,Variante 48 do tipo prioritaria.,32.49,70x50x30,74.41
+MAO_PEQUENA_49,Variante 49 do tipo mao pequena.,15.3,40x30x20,16.19
+MAO_STANDARD_49,Variante 49 do tipo mao standard.,10.6,55x35x25,0.0
+MAO_GRANDE_49,Variante 49 do tipo mao grande.,12.67,55x40x25,50.43
+PORAO_PEQUENA_49,Variante 49 do tipo porao pequena.,26.72,60x40x30,26.09
+PORAO_STANDARD_49,Variante 49 do tipo porao standard.,22.21,70x50x30,33.12
+PORAO_GRANDE_49,Variante 49 do tipo porao grande.,37.03,80x60x40,96.07
+PORAO_EXTRA_49,Variante 49 do tipo porao extra.,44.4,90x70x50,129.05
+ESPECIAL_ESPORTIVA_49,Variante 49 do tipo especial esportiva.,35.93,Variável,124.61
+ESPECIAL_MUSICAL_49,Variante 49 do tipo especial musical.,26.95,Variável,82.3
+ESPECIAL_ANIMAL_49,Variante 49 do tipo especial animal.,24.19,50x40x30,123.68
+ESPECIAL_FRAGIL_49,Variante 49 do tipo especial fragil.,18.2,60x50x40,91.99
+OVERSIZED_49,Variante 49 do tipo oversized.,50.19,100x80x60,217.03
+CARGA_LEVE_49,Variante 49 do tipo carga leve.,51.9,80x60x50,199.26
+CARGA_PESADA_49,Variante 49 do tipo carga pesada.,88.51,120x80x60,298.25
+INFANTIL_49,Variante 49 do tipo infantil.,10.32,45x35x20,25.49
+DIPLOMATICA_49,Variante 49 do tipo diplomatica.,36.37,70x50x35,44.93
+TRIPULACAO_49,Variante 49 do tipo tripulacao.,24.27,55x40x25,8.01
+MEDICA_49,Variante 49 do tipo medica.,27.92,50x40x30,45.75
+DUTY_FREE_49,Variante 49 do tipo duty free.,4.94,40x30x20,13.86
+PRIORITARIA_49,Variante 49 do tipo prioritaria.,35.53,70x50x30,55.24
