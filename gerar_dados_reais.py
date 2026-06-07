@@ -42,7 +42,7 @@ DB_CONFIG = {
     "port": int(os.getenv("PGPORT", "5432")),
     "dbname": os.getenv("PGDATABASE", "aeroporto"),
     "user": os.getenv("PGUSER", "postgres"),
-    "password": os.getenv("PGPASSWORD", "1234"),
+    "password": os.getenv("PGPASSWORD", "12345678"),
 }
 
 LOOKUP_ROWS = 1_000   # 10 tabelas basicas
