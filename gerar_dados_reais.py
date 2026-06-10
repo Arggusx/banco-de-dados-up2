@@ -1,23 +1,3 @@
-"""
-gerar_dados_reais.py — Pipeline de dados para benchmark de Aeroporto
-=====================================================================
-Gera dados realistas com Faker, estrutura com pandas, e injeta
-DIRETAMENTE no PostgreSQL via psycopg2 COPY (bulk load).
-
-Dependencias:
-    pip install faker pandas psycopg2-binary
-
-Variaveis de ambiente (opcionais — usa defaults se nao definidas):
-    PGHOST       (default: localhost)
-    PGPORT       (default: 5432)
-    PGDATABASE   (default: aeroporto_benchmark)
-    PGUSER       (default: postgres)
-    PGPASSWORD   (default: 1234)
-
-Uso:
-    python gerar_dados_reais.py
-"""
-
 import io
 import os
 import random
@@ -33,10 +13,6 @@ import pandas as pd
 import psycopg2
 from faker import Faker
 
-# =====================================================================
-# CONFIGURACAO
-# =====================================================================
-
 DB_CONFIG = {
     "host": os.getenv("PGHOST", "localhost"),
     "port": int(os.getenv("PGPORT", "5432")),
@@ -45,11 +21,10 @@ DB_CONFIG = {
     "password": os.getenv("PGPASSWORD", "12345678"),
 }
 
-LOOKUP_ROWS = 1_000   # 10 tabelas basicas
-CORE_ROWS   = 5_000   # 10 tabelas de negocio
-TOTAL_EXPECTED = 10 * LOOKUP_ROWS + 10 * CORE_ROWS  # 60.000
+LOOKUP_ROWS = 1_000
+CORE_ROWS   = 5_000
+TOTAL_EXPECTED = 10 * LOOKUP_ROWS + 10 * CORE_ROWS
 
-# Diretorio temporario para CSVs intermediarios (sera limpo ao final)
 BASE_DIR = Path(__file__).resolve().parent
 TEMP_CSV_DIR = BASE_DIR / "_temp_csv_carga"
 
@@ -57,13 +32,7 @@ fake = Faker(["pt_BR", "en_US", "es_ES", "fr_FR", "de_DE"])
 Faker.seed(42)
 random.seed(42)
 
-
-# =====================================================================
-# FUNCOES AUXILIARES
-# =====================================================================
-
 def clip(value, max_len):
-    """Trunca string e remove quebras de linha."""
     if value is None:
         return None
     return str(value).replace("\n", " ").replace("\r", " ")[:max_len]
@@ -103,11 +72,6 @@ def base36_sequence(length):
     alphabet = string.ascii_uppercase + string.digits
     for chars in product(alphabet, repeat=length):
         yield "".join(chars)
-
-
-# =====================================================================
-# GERADORES DE DADOS (retornam DataFrames pandas)
-# =====================================================================
 
 def gerar_paises():
     iso2 = base36_sequence(2)
@@ -269,15 +233,12 @@ def gerar_terminais():
         rows.append({
             "id": i,
             "nome": f"T{i:04d}",
-            "aeroporto_id": i,  # sera mapeado para aeroportos.id (1..LOOKUP_ROWS subset de CORE_ROWS)
+            "aeroporto_id": i,
             "capacidade_gates": random.randint(4, 80),
             "tipo": random.choice(tipos),
             "ativo": random.choice([True, True, True, False]),
         })
     return pd.DataFrame(rows)
-
-
-# --- TABELAS CORE (5.000 registros cada) ---
 
 def gerar_aeroportos():
     iata_codes = code_sequence(3)
@@ -459,7 +420,6 @@ def gerar_passagens(reservas_df):
         })
     return pd.DataFrame(rows)
 
-
 def gerar_bagagens(tipos_df):
     statuses = ["DESPACHADA", "EM_TRANSITO", "ENTREGUE", "EXTRAVIADA", "DANIFICADA"]
     rows = []
@@ -487,7 +447,7 @@ def gerar_cartoes_embarque(reservas_df, voos_df):
         partida = datetime.fromisoformat(dt_str)
         embarque = partida - timedelta(minutes=random.randint(30, 180))
         terminal_id = int(voo["aeroporto_origem_id"])
-        # Garantir que terminal_id esta dentro do range de terminais (1..LOOKUP_ROWS)
+
         if terminal_id > LOOKUP_ROWS:
             terminal_id = random.randint(1, LOOKUP_ROWS)
         rows.append({
@@ -502,13 +462,8 @@ def gerar_cartoes_embarque(reservas_df, voos_df):
         })
     return pd.DataFrame(rows)
 
-
-# =====================================================================
-# ORQUESTRACAO — gera todos os DataFrames
-# =====================================================================
-
 def gerar_todos_dataframes():
-    """Gera os 20 DataFrames na ordem correta de dependencias."""
+
     print("  [1/20] paises...")
     paises = gerar_paises()
     print("  [2/20] cidades...")
@@ -550,7 +505,6 @@ def gerar_todos_dataframes():
     print("  [20/20] cartoes_embarque...")
     cartoes = gerar_cartoes_embarque(reservas, voos)
 
-    # Ordem de carga (respeita FKs)
     return [
         ("paises", paises),
         ("cidades", cidades),
@@ -574,11 +528,6 @@ def gerar_todos_dataframes():
         ("cartoes_embarque", cartoes),
     ]
 
-
-# =====================================================================
-# VALIDACAO DE VOLUMETRIA
-# =====================================================================
-
 LOOKUP_TABLES = {
     "paises", "cidades", "fabricantes", "modelos_aeronave",
     "cargos_funcionarios", "status_voo", "categorias_tarifa",
@@ -586,7 +535,6 @@ LOOKUP_TABLES = {
 }
 
 def validar_volumetria(tables):
-    """Garante que cada tabela tem exatamente a quantidade esperada."""
     total = 0
     for name, df in tables:
         expected = LOOKUP_ROWS if name in LOOKUP_TABLES else CORE_ROWS
@@ -598,20 +546,9 @@ def validar_volumetria(tables):
         raise ValueError(f"ERRO: total esperado {TOTAL_EXPECTED}, gerado {total}")
     print(f"  Validacao OK: {total:,} registros em 20 tabelas.")
 
-
-# =====================================================================
-# CARGA NO POSTGRESQL VIA COPY (bulk)
-# =====================================================================
-
 def carregar_tabela_copy(cur, table_name, df):
-    """
-    Usa o metodo copy_expert do psycopg2 para fazer bulk insert
-    via COPY FROM STDIN (formato CSV). Muito mais rapido que INSERT.
-    """
     columns = list(df.columns)
     col_list = ", ".join(columns)
-
-    # Escreve o DataFrame em um buffer StringIO como CSV (sem header)
     buffer = io.StringIO()
     df.to_csv(buffer, index=False, header=False, lineterminator="\n")
     buffer.seek(0)
@@ -624,10 +561,6 @@ def carregar_tabela_copy(cur, table_name, df):
 
 
 def salvar_csvs_temporarios(tables):
-    """
-    Salva CSVs intermediarios no diretorio temporario.
-    Util para debug ou como fallback, mas serao removidos ao final.
-    """
     TEMP_CSV_DIR.mkdir(exist_ok=True)
     for name, df in tables:
         path = TEMP_CSV_DIR / f"{name}.csv"
@@ -636,7 +569,6 @@ def salvar_csvs_temporarios(tables):
 
 
 def limpar_csvs_temporarios():
-    """Remove o diretorio temporario de CSVs."""
     import shutil
     if TEMP_CSV_DIR.exists():
         shutil.rmtree(TEMP_CSV_DIR)
@@ -644,10 +576,6 @@ def limpar_csvs_temporarios():
 
 
 def carregar_no_postgres(tables):
-    """
-    Conecta ao PostgreSQL, desabilita triggers temporariamente,
-    faz TRUNCATE em cascata, e carrega todas as tabelas via COPY.
-    """
     print(f"\n  Conectando ao PostgreSQL: {DB_CONFIG['host']}:{DB_CONFIG['port']}/{DB_CONFIG['dbname']}")
 
     conn = psycopg2.connect(**DB_CONFIG)
@@ -655,30 +583,22 @@ def carregar_no_postgres(tables):
 
     try:
         with conn.cursor() as cur:
-            # Desabilitar triggers de validacao durante a carga em massa
             cur.execute("SET session_replication_role = 'replica';")
-
-            # Truncar todas as tabelas na ordem reversa de dependencia
             all_tables = ", ".join(name for name, _ in reversed(tables))
             cur.execute(f"TRUNCATE TABLE {all_tables} RESTART IDENTITY CASCADE;")
             print("  TRUNCATE concluido.")
 
-            # Carregar cada tabela via COPY
             for name, df in tables:
                 carregar_tabela_copy(cur, name, df)
                 print(f"    OK {name}: {len(df):,} registros carregados")
 
-            # Reposicionar sequencias SERIAL
             for name, _ in tables:
                 cur.execute(
                     f"SELECT setval(pg_get_serial_sequence('{name}', 'id'), "
                     f"(SELECT COALESCE(MAX(id), 1) FROM {name}), true);"
                 )
 
-            # Reabilitar triggers
             cur.execute("SET session_replication_role = 'origin';")
-
-            # Atualizar estatisticas para o otimizador de queries
             cur.execute("ANALYZE;")
 
         conn.commit()
@@ -691,11 +611,6 @@ def carregar_no_postgres(tables):
     finally:
         conn.close()
 
-
-# =====================================================================
-# MAIN
-# =====================================================================
-
 def main():
     start = time.time()
 
@@ -703,23 +618,18 @@ def main():
     print("  AEROPORTO — Pipeline de Geracao de Dados para Benchmark")
     print("=" * 65)
 
-    # 1) Gerar DataFrames
     print("\n[ETAPA 1] Gerando dados com Faker + pandas...")
     tables = gerar_todos_dataframes()
 
-    # 2) Validar volumetria
     print("\n[ETAPA 2] Validando volumetria...")
     validar_volumetria(tables)
 
-    # 3) Salvar CSVs temporarios (pandas)
     print("\n[ETAPA 3] Salvando CSVs temporarios...")
     salvar_csvs_temporarios(tables)
 
-    # 4) Carregar no PostgreSQL via COPY
     print("\n[ETAPA 4] Carregando dados no PostgreSQL via COPY...")
     carregar_no_postgres(tables)
 
-    # 5) Limpar CSVs temporarios
     print("\n[ETAPA 5] Limpando arquivos temporarios...")
     limpar_csvs_temporarios()
 

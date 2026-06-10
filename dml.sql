@@ -1,9 +1,4 @@
--- =====================================================================
--- AEROPORTO - DML: Consultas de Validacao e Relatorios Pos-Carga
--- Execute no pgAdmin DEPOIS de rodar gerar_dados_reais.py
--- =====================================================================
-
--- 1) Verificar volumetria de todas as tabelas
+-- 1) Verificar quantidade de dados das tabelas
 SELECT 'paises' AS tabela, COUNT(*) AS registros FROM paises
 UNION ALL SELECT 'cidades', COUNT(*) FROM cidades
 UNION ALL SELECT 'fabricantes', COUNT(*) FROM fabricantes

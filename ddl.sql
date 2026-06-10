@@ -1,9 +1,3 @@
--- =====================================================================
--- AEROPORTO - DDL para ambiente de benchmarking PostgreSQL
--- Modelo relacional com 20 tabelas: 10 lookup + 10 core business
--- PostgreSQL 14+
--- =====================================================================
-
 DROP TABLE IF EXISTS cartoes_embarque CASCADE;
 DROP TABLE IF EXISTS bagagens CASCADE;
 DROP TABLE IF EXISTS passagens CASCADE;
@@ -30,10 +24,6 @@ DROP PROCEDURE IF EXISTS sp_remover_indices_otimizados();
 DROP FUNCTION IF EXISTS fn_validar_capacidade_voo() CASCADE;
 DROP FUNCTION IF EXISTS fn_validar_salario_cargo() CASCADE;
 DROP FUNCTION IF EXISTS fn_validar_terminal_voo() CASCADE;
-
--- =====================================================================
--- 1. TABELAS BASICAS / DICIONARIO - 10 tabelas, 1.000 registos cada
--- =====================================================================
 
 CREATE TABLE paises (
     id              SERIAL PRIMARY KEY,
@@ -181,10 +171,6 @@ CREATE TABLE fornecedores (
     )
 );
 
--- =====================================================================
--- 2. TABELAS PRINCIPAIS / NEGOCIO - 10 tabelas, 5.000 registos cada
--- =====================================================================
-
 CREATE TABLE aeroportos (
     id                SERIAL PRIMARY KEY,
     nome              VARCHAR(200) NOT NULL,
@@ -331,10 +317,7 @@ CREATE TABLE cartoes_embarque (
     CONSTRAINT chk_cartoes_zona CHECK (zona_embarque BETWEEN 1 AND 6)
 );
 
--- =====================================================================
--- 3. TRIGGERS DE VALIDACAO
--- =====================================================================
-
+-- 3. TRIGGERS
 CREATE OR REPLACE FUNCTION fn_validar_capacidade_voo()
 RETURNS TRIGGER AS $$
 DECLARE
@@ -430,11 +413,6 @@ BEFORE INSERT OR UPDATE ON cartoes_embarque
 FOR EACH ROW
 EXECUTE FUNCTION fn_validar_terminal_voo();
 
--- =====================================================================
--- 4. INDICES BASE PARA CHAVES ESTRANGEIRAS
--- PKs e UNIQUE criam indices automaticamente; FKs precisam destes indices.
--- =====================================================================
-
 CREATE INDEX idx_cidades_pais_id ON cidades (pais_id);
 CREATE INDEX idx_fabricantes_pais_origem_id ON fabricantes (pais_origem_id);
 CREATE INDEX idx_modelos_fabricante_id ON modelos_aeronave (fabricante_id);
@@ -458,11 +436,6 @@ CREATE INDEX idx_bagagens_passagem_id ON bagagens (passagem_id);
 CREATE INDEX idx_bagagens_tipo_bagagem_id ON bagagens (tipo_bagagem_id);
 CREATE INDEX idx_cartoes_terminal_id ON cartoes_embarque (terminal_id);
 
--- =====================================================================
--- 5. INDICES OTIMIZADOS PARA BENCHMARKING
--- Execute CALL sp_criar_indices_otimizados() depois do dml.sql.
--- Execute CALL sp_remover_indices_otimizados() para voltar ao baseline.
--- =====================================================================
 
 CREATE OR REPLACE PROCEDURE sp_criar_indices_otimizados()
 LANGUAGE plpgsql
@@ -565,12 +538,3 @@ COMMENT ON PROCEDURE sp_criar_indices_otimizados() IS
     'Cria indices compostos, parciais, funcionais e covering para os benchmarks.';
 COMMENT ON PROCEDURE sp_remover_indices_otimizados() IS
     'Remove os indices otimizados para regressar ao cenario baseline.';
-
--- Ordem recomendada:
--- 1. psql -f ddl.sql
--- 2. python gerar_dados_reais.py
--- 3. psql -f dml.sql
--- 4. CALL sp_remover_indices_otimizados(); -- baseline
--- 5. executar queries ANTES
--- 6. CALL sp_criar_indices_otimizados(); -- depois
--- 7. executar queries DEPOIS
