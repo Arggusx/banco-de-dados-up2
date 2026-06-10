@@ -1,0 +1,249 @@
+@startuml
+hide circle
+skinparam linetype ortho
+skinparam shadowing false
+
+skinparam class {
+    BackgroundColor White
+    ArrowColor #268bd2
+    BorderColor #586e75
+}
+
+package "Tabelas de Lookup / Dicionário" #EFFFFA {
+    entity paises as "Países" {
+        * id
+        --
+        nome
+        codigo_iso2
+        codigo_iso3
+        continente
+    }
+
+    entity cidades as "Cidades" {
+        * id
+        --
+        nome
+        estado_provincia
+        populacao
+        latitude
+        longitude
+    }
+
+    entity fabricantes as "Fabricantes" {
+        * id
+        --
+        nome
+        ano_fundacao
+        website
+        ativo
+    }
+
+    entity modelos_aeronave as "Modelos de Aeronave" {
+        * id
+        --
+        nome
+        capacidade_passageiros
+        alcance_km
+        peso_max_decolagem_kg
+        ano_primeiro_voo
+        envergadura_metros
+    }
+
+    entity cargos_funcionarios as "Cargos dos Funcionários" {
+        * id
+        --
+        nome
+        descricao
+        nivel_acesso
+        salario_min
+        salario_max
+    }
+
+    entity status_voo as "Status do Voo" {
+        * id
+        --
+        codigo
+        descricao
+        cor_hex
+        ordem_exibicao
+    }
+
+    entity categorias_tarifa as "Categorias de Tarifa" {
+        * id
+        --
+        nome
+        descricao
+        multiplicador_preco
+        bagagem_inclusa_kg
+        prioridade_embarque
+    }
+
+    entity tipos_bagagem as "Tipos de Bagagem" {
+        * id
+        --
+        nome
+        descricao
+        peso_max_kg
+        dimensoes_max_cm
+        taxa_extra
+    }
+
+    entity terminais as "Terminais" {
+        * id
+        --
+        nome
+        capacidade_gates
+        tipo
+        ativo
+    }
+
+    entity fornecedores as "Fornecedores" {
+        * id
+        --
+        nome
+        tipo_servico
+        telefone
+        email
+        cnpj_vat
+        ativo
+        data_contrato
+    }
+}
+
+package "Tabelas Core Business" #FFFEEF {
+    entity aeroportos as "Aeroportos" {
+        * id
+        --
+        nome
+        codigo_iata
+        codigo_icao
+        latitude
+        longitude
+        altitude_metros
+        fuso_horario
+        ativo
+    }
+
+    entity aeronaves as "Aeronaves" {
+        * id
+        --
+        matricula
+        ano_fabricacao
+        data_ultima_revisao
+        total_horas_voo
+        ativa
+    }
+
+    entity passageiros as "Passageiros" {
+        * id
+        --
+        nome
+        sobrenome
+        email
+        telefone
+        data_nascimento
+        numero_passaporte
+        programa_fidelidade
+        milhas_acumuladas
+    }
+
+    entity funcionarios as "Funcionários" {
+        * id
+        --
+        nome
+        sobrenome
+        email
+        data_contratacao
+        salario
+        ativo
+        numero_identificacao
+    }
+
+    entity voos as "Voos" {
+        * id
+        --
+        numero_voo
+        data_partida
+        data_chegada
+        preco_base
+    }
+
+    entity escalas_tripulacao as "Escalas da Tripulação" {
+        * id
+        --
+        funcao
+        data_atribuicao
+        confirmado
+    }
+
+    entity reservas as "Reservas" {
+        * id
+        --
+        codigo_reserva
+        data_reserva
+        preco_total
+        status
+    }
+
+    entity passagens as "Passagens" {
+        * id
+        --
+        numero_passagem
+        assento
+        classe
+        emitida_em
+    }
+
+    entity bagagens as "Bagagens" {
+        * id
+        --
+        peso_kg
+        codigo_rastreio
+        status
+    }
+
+    entity cartoes_embarque as "Cartões de Embarque" {
+        * id
+        --
+        gate
+        zona_embarque
+        hora_embarque
+        codigo_barras
+        impresso
+    }
+}
+
+paises ||--o{ cidades : "Localiza"
+paises ||--o{ fabricantes : "Sedia"
+paises ||--o{ fornecedores : "Origina"
+paises ||--o{ passageiros : "Nacionalidade"
+
+fabricantes ||--o{ modelos_aeronave : "Fabrica"
+modelos_aeronave ||--o{ aeronaves : "Classifica"
+cidades ||--o{ aeroportos : "Sedia"
+aeroportos ||--o{ terminais : "Possui"
+aeroportos ||--o{ funcionarios : "Aloca como Base"
+
+cargos_funcionarios ||--o{ funcionarios : "Define Perfil de"
+status_voo ||--o{ voos : "Determina Situação de"
+aeronaves ||--o{ voos : "Está Alocada em"
+
+aeroportos ||--o{ voos : "Origem"
+aeroportos ||--o{ voos : "Destino"
+
+funcionarios ||--o{ escalas_tripulacao : "Escalado em"
+voos ||--o{ escalas_tripulacao : "Requer"
+
+passageiros ||--o{ reservas : "Titular de"
+voos ||--o{ reservas : "Contém"
+categorias_tarifa ||--o{ reservas : "Aplica Regras a"
+
+reservas ||--|| passagens : "Gera"
+
+passagens ||--o{ bagagens : "Despacha"
+tipos_bagagem ||--o{ bagagens : "Enquadra"
+
+passagens ||--|| cartoes_embarque : "Emite"
+terminais ||--o{ cartoes_embarque : "Direciona para Gate em"
+
+@enduml
